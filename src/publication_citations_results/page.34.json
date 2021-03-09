@@ -1,0 +1,542 @@
+[
+  {
+    "position": 0,
+    "title": "Commit Classification using Natural Language Processing: Experiments over Labeled Datasets",
+    "result_id": "_gi5GYVO4-MJ",
+    "type": "Pdf",
+    "link": "http://cibse2020.ppgia.pucpr.br/images/artigos/4/S04_P1.pdf",
+    "snippet": "Software commits play an important role in collaborative software development. A commit allows developers to collaboratively contribute to open-source software projects. Previous studies show that developers spend a lot of time in identifying and prioritizing critical issues …",
+    "publication_info": {
+      "summary": "GE dos Santos, E Figueiredo - cibse2020.ppgia.pucpr.br",
+      "authors": [
+        {
+          "name": "E Figueiredo",
+          "link": "https://scholar.google.com/citations?user=3sxP3E4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "pucpr.br",
+        "file_format": "PDF",
+        "link": "http://cibse2020.ppgia.pucpr.br/images/artigos/4/S04_P1.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=_gi5GYVO4-MJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:_gi5GYVO4-MJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:_gi5GYVO4-MJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 1,
+    "title": "Understanding the software fault introduction process",
+    "result_id": "XoDjGXVkMy4J",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7203095/",
+    "snippet": "Testing and debugging research revolves around faults, yet we have a limited understanding of the processes by which faults are introduced and removed. Previous work in this area has focused on describing faults rather than explaining the introduction and …",
+    "publication_info": {
+      "summary": "L Inozemtseva - 2015 IEEE/ACM 37th IEEE International …, 2015 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "L Inozemtseva",
+          "link": "https://scholar.google.com/citations?user=IbsOsYsAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=XoDjGXVkMy4J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:XoDjGXVkMy4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=3329115003665219678&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+        "cluster_id": "3329115003665219678",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=3329115003665219678&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 2,
+    "title": "Decision Support for Investment of Developer Effort in Code Review",
+    "result_id": "xNZ5GuEJ3FAJ",
+    "type": "Book",
+    "link": "https://search.proquest.com/openview/4b14c97443f25ac9d95dc20c1b95ab57/1?pq-origsite=gscholar&cbl=18750&diss=y",
+    "snippet": "Modern software development is a highly collaborative endeavour. Developers work in teams with tens, if not hundreds, of people who are globally distributed. At the heart of developer collaboration lies the process of code review, where fellow developers critique …",
+    "publication_info": {
+      "summary": "R Wen - 2018 - search.proquest.com"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=xNZ5GuEJ3FAJ"
+    }
+  },
+  {
+    "position": 3,
+    "title": "THE EVOLUTION OF SOFTWARE VULNERABILITIES",
+    "result_id": "7DmlGtq2ulYJ",
+    "type": "Citation",
+    "publication_info": {
+      "summary": "VH Nguyen"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=7DmlGtq2ulYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:7DmlGtq2ulYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 4,
+    "title": "Automatic Recovery of Root Causes from Bug-Fixing Changes.(2013)",
+    "result_id": "CfkSGxWKqREJ",
+    "type": "Pdf",
+    "link": "https://core.ac.uk/download/pdf/19634209.pdf",
+    "snippet": "What is the root cause of this failure? This question is often among the first few asked by software debuggers when they try to address issues raised by a bug report. Root cause is the erroneous lines of code that cause a chain of erroneous program states eventually …",
+    "publication_info": {
+      "summary": "F Thung, D LO, L JIANG - Proceedings: 20th Working Conference on Reverse … - core.ac.uk",
+      "authors": [
+        {
+          "name": "F Thung",
+          "link": "https://scholar.google.com/citations?user=47okQ-UAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D LO",
+          "link": "https://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "core.ac.uk",
+        "file_format": "PDF",
+        "link": "https://core.ac.uk/download/pdf/19634209.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=CfkSGxWKqREJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:CfkSGxWKqREJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=1272700192962050313&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+        "cluster_id": "1272700192962050313",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=1272700192962050313&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:CfkSGxWKqREJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 5,
+    "title": "PREDICTING SOFTWARE DEFECTS WITH CAUSALITY TESTS",
+    "result_id": "45SlG4qRWIwJ",
+    "type": "Pdf",
+    "link": "http://www.dcc.ufmg.br/~mtov/diss/2013-cesar-new.pdf",
+    "snippet": "Defect prediction is a central area of research in software engineering that aims to identify the components of a software system that are more likely to present defects. Despite the large investment in research aiming to identify an effective way to predict defects in software …",
+    "publication_info": {
+      "summary": "N Anquetil - 2013 - dcc.ufmg.br",
+      "authors": [
+        {
+          "name": "N Anquetil",
+          "link": "https://scholar.google.com/citations?user=DSMdD9UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ufmg.br",
+        "file_format": "PDF",
+        "link": "http://www.dcc.ufmg.br/~mtov/diss/2013-cesar-new.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=45SlG4qRWIwJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:45SlG4qRWIwJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=10112992985615799523&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+        "cluster_id": "10112992985615799523",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=10112992985615799523&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:45SlG4qRWIwJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 6,
+    "title": "Detecting architectural integrity violation patterns using machine learning",
+    "result_id": "So9xHGFxrWkJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3341105.3374008",
+    "snippet": "Recent 1 years have seen a surge of research into new ways of analyzing software quality. Specifically, a set of studies has been devoted to the impact the architectural relations among files have on system maintainability and file bug-proneness. The literature has …",
+    "publication_info": {
+      "summary": "A Zakurdaeva, M Weiss, S Muegge - Proceedings of the 35th Annual …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "M Weiss",
+          "link": "https://scholar.google.com/citations?user=PXdGI94AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Muegge",
+          "link": "https://scholar.google.com/citations?user=KPFqLp8AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Michael_Weiss7/publication/340270262_Detecting_architectural_integrity_violation_patterns_using_machine_learning/links/5f2223e1a6fdcccc439937a6/Detecting-architectural-integrity-violation-patterns-using-machine-learning.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=So9xHGFxrWkJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:So9xHGFxrWkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=7614867206856347466&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+        "cluster_id": "7614867206856347466",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=7614867206856347466&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 7,
+    "title": "Code Clone Tracer (CCT): A Tracking Tool for Analyzing Human and Social Factors in Creating and Reusing Code Clones",
+    "result_id": "9mwnHeQPYzcJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8935645/",
+    "snippet": "This paper introduces a tool called CCT (Code Clone Tracer) which is designed to help practitioners and researchers analyze the impacts of human/social factors on software quality in creating and reusing code clones. CCT tracks a history of created and reused code …",
+    "publication_info": {
+      "summary": "Y Kukita, K Noguchi, M Ohira - 2019 20th IEEE/ACIS …, 2019 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "M Ohira",
+          "link": "https://scholar.google.com/citations?user=PxfeBlIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=9mwnHeQPYzcJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:9mwnHeQPYzcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=3991051167196474614&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+        "cluster_id": "3991051167196474614",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=3991051167196474614&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 8,
+    "title": "The Scent of Deep Learning Code: An Empirical Study",
+    "result_id": "bVjsHSNLQCMJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3379597.3387479",
+    "snippet": "Deep learning practitioners are often interested in improving their model accuracy rather than the interpretability of their models. As a result, deep learning applications are inherently complex in their structures. They also need to continuously evolve in terms of code changes …",
+    "publication_info": {
+      "summary": "H Jebnoun, H Ben Braiek, MM Rahman… - Proceedings of the 17th …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "MM Rahman",
+          "link": "https://scholar.google.com/citations?user=9SrqOewAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "dal.ca",
+        "file_format": "PDF",
+        "link": "https://web.cs.dal.ca/~masud/papers/hadhemi-MSR2020.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=bVjsHSNLQCMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:bVjsHSNLQCMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=2540112804034926701&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+        "cluster_id": "2540112804034926701",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=2540112804034926701&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 9,
+    "title": "Context Sensitive Health Monitoring Using Fog Computing",
+    "result_id": "4EG2HoJIsGIJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8561069/",
+    "snippet": "Health informatics has become one of the most researched area when it comes to application of Wireless Sensor Networks (WSNs). Wireless and wearable sensors have become prevalent devices to monitor patients at risk for chronic diseases. This helps …",
+    "publication_info": {
+      "summary": "P Hameed, A Paul - 2017 International Conference on …, 2017 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "A Paul",
+          "link": "https://scholar.google.com/citations?user=QrOVUgwAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=4EG2HoJIsGIJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:4EG2HoJIsGIJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=7111263535316222432&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+        "cluster_id": "7111263535316222432",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=7111263535316222432&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 10,
+    "title": "Developer teams on bug resolution: an empirical study on Mozilla Firefox and Eclipse JDT projects",
+    "result_id": "cExvH5ApZcgJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8312522/",
+    "snippet": "With the adoption of Open Source Software (OSS) systems increasing in practical usage, it is important toinvestigate bug resolution process of OSS projects. This paperconducted an empirical study on developer teams in bugresolution in Mozilla Firefox and Eclipse JDT …",
+    "publication_info": {
+      "summary": "W Zhang, Z Li, B Li - 2017 24th Asia-Pacific Software …, 2017 - ieeexplore.ieee.org"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=cExvH5ApZcgJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:cExvH5ApZcgJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=14439993479212780656&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+        "cluster_id": "14439993479212780656",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=14439993479212780656&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 11,
+    "title": "Open Source Bug Fixes: Characterization and Prediction",
+    "result_id": "G33tHxixvhsJ",
+    "type": "Pdf",
+    "link": "https://plg.uwaterloo.ca/~migod/846/2019-Fall/projects/07-Kashif-Vikash-report.pdf",
+    "snippet": "In this work we perform an empirical study to characterize the factors that affect which bugs get fixed in large open source projects. We perform the study on two large open source projects, the Linux Kernel and KDE (Desktop Environment), both of which use Bugzilla for …",
+    "publication_info": {
+      "summary": "K Khan, V Balasubramanian - plg.uwaterloo.ca",
+      "authors": [
+        {
+          "name": "V Balasubramanian",
+          "link": "https://scholar.google.com/citations?user=iNifJpQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uwaterloo.ca",
+        "file_format": "PDF",
+        "link": "https://plg.uwaterloo.ca/~migod/846/2019-Fall/projects/07-Kashif-Vikash-report.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=G33tHxixvhsJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:G33tHxixvhsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:G33tHxixvhsJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 12,
+    "title": "Augmented Fine-Grained Defect Prediction for Code Review",
+    "result_id": "oCtDIC1b1fYJ",
+    "type": "Pdf",
+    "link": "https://research.tudelft.nl/files/82582665/dissertation_luca_pascarella.pdf",
+    "snippet": "Citation (APA) Pascarella, L. (2020). Augmented Fine-Grained Defect Prediction for Code Review. https://doi.org/10.4233/uuid:e553e8ae-73be-4718-ab93-81f466db7347 … Important note To cite this publication, please use the final published version (if applicable). Please check …",
+    "publication_info": {
+      "summary": "L Pascarella - 2020 - research.tudelft.nl",
+      "authors": [
+        {
+          "name": "L Pascarella",
+          "link": "https://scholar.google.com/citations?user=s3RQeYQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "tudelft.nl",
+        "file_format": "PDF",
+        "link": "https://research.tudelft.nl/files/82582665/dissertation_luca_pascarella.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=oCtDIC1b1fYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:oCtDIC1b1fYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=17786222552742570912&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+        "cluster_id": "17786222552742570912",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cluster=17786222552742570912&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:oCtDIC1b1fYJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 13,
+    "title": "Investigation of the impact of cohesion on the change-proneness of Java interfaces",
+    "result_id": "nigBIetGWPsJ",
+    "link": "https://repository.tudelft.nl/islandora/object/uuid:ed394af6-b781-4637-ada6-0dfd8b997841",
+    "snippet": "A lack of cohesion is often associated with bad software quality, and could lead to more changes and bugs in software. In this thesis the impact of cohesion on the change-proneness of Java interfaces is investigated. Showing the existence of a relation between …",
+    "publication_info": {
+      "summary": "RA Pingen - 2012 - repository.tudelft.nl"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=nigBIetGWPsJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:nigBIetGWPsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:nigBIetGWPsJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 14,
+    "title": "IMPROVING SOFTWARE QUALITY WITH SOFTWARE ERROR PREDICTION",
+    "result_id": "47dGIc2N0HQJ",
+    "type": "Pdf",
+    "link": "http://jultika.oulu.fi/files/nbnfioulu-201512042251.pdf",
+    "snippet": "Today's agile software development can be a complicated process, especially when dealing with a large-scale project with demands for tight communication. The tools used in software development, while aiding the process itself, can also offer meaningful statistics. With the aid …",
+    "publication_info": {
+      "summary": "T Taipale - 2015 - jultika.oulu.fi"
+    },
+    "resources": [
+      {
+        "title": "oulu.fi",
+        "file_format": "PDF",
+        "link": "http://jultika.oulu.fi/files/nbnfioulu-201512042251.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=47dGIc2N0HQJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=8417383615721551843&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "8417383615721551843",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=8417383615721551843&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:47dGIc2N0HQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:47dGIc2N0HQJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 15,
+    "title": "A Case Study on the Similarity Between Source Code and Bug Reports Vocabularies",
+    "result_id": "jg-CIgTOLoUJ",
+    "type": "Citation",
+    "publication_info": {
+      "summary": "D Cavalcanti, D Guerrero, J Figueiredo",
+      "authors": [
+        {
+          "name": "D Cavalcanti",
+          "link": "https://scholar.google.com/citations?user=2jdmbCYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=jg-CIgTOLoUJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:jg-CIgTOLoUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 16,
+    "title": "Classifying Software Changes: Safe or Vulnerable?",
+    "result_id": "LTY1Jh5s8m0J",
+    "type": "Pdf",
+    "link": "https://www.academia.edu/download/55267566/CSE-227-Project-ClassifyingSoftwareChangesAsVulnerable_Trent_Krishna_Karthik.pdf",
+    "snippet": "This paper makes use of a machine learning classifier to predict if software changes made as part of a particular commit are considered safe or prone to security vulnerabilities. The classifier used is a support vector machine which was able to give a vulnerable change …",
+    "publication_info": {
+      "summary": "T Miller, K Kalubandi, K Rajendran - academia.edu"
+    },
+    "resources": [
+      {
+        "title": "academia.edu",
+        "file_format": "PDF",
+        "link": "https://www.academia.edu/download/55267566/CSE-227-Project-ClassifyingSoftwareChangesAsVulnerable_Trent_Krishna_Karthik.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=LTY1Jh5s8m0J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:LTY1Jh5s8m0J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:LTY1Jh5s8m0J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 17,
+    "title": "What could the source code history tell UsAbout errors",
+    "result_id": "UoRsJhKe1xEJ",
+    "link": "https://repositorio.unb.br/handle/10482/39101",
+    "snippet": "Almost all developers build software using a collaborative development approach. In this scenario, after concluding a task, developers commit their contributions to a remote repository—making them available to other contributors. While sequences of revisions and …",
+    "publication_info": {
+      "summary": "LHV Amaral - 2020 - repositorio.unb.br",
+      "authors": [
+        {
+          "name": "LHV Amaral",
+          "link": "https://scholar.google.com/citations?user=l60NTcAAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "unb.br",
+        "file_format": "PDF",
+        "link": "https://repositorio.unb.br/bitstream/10482/39101/1/2020_Lu%C3%ADsHenriqueVieiraAmaral.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=UoRsJhKe1xEJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:UoRsJhKe1xEJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:UoRsJhKe1xEJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 18,
+    "title": "Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction",
+    "result_id": "Xgi9JtWJ6JUJ",
+    "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1516229",
+    "snippet": "Abstract Just-In-Time Software Defect Prediction (JIT-DP) focuses on predicting errors in software at change-level with the objective of helping developers identify defects while the development process is still ongoing, and improving the quality of software applications …",
+    "publication_info": {
+      "summary": "I Navarro, A Yaroslava - 2020 - diva-portal.org"
+    },
+    "resources": [
+      {
+        "title": "diva-portal.org",
+        "file_format": "PDF",
+        "link": "https://www.diva-portal.org/smash/get/diva2:1516229/FULLTEXT01.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Xgi9JtWJ6JUJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Xgi9JtWJ6JUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Xgi9JtWJ6JUJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  },
+  {
+    "position": 19,
+    "title": "Visible to the public Understanding security mistakes developers make: Qualitative analysis from Build It, Break It, Fix It",
+    "result_id": "yOt8KCQ3xUUJ",
+    "type": "Html",
+    "link": "https://cps-vo.org/node/60823",
+    "snippet": "In spite of significant effort by the security community, the number of vulnerabilities reported in production systems has continued to increase. Automated vulnerability identification provides a promising path forward, minimizing the human effort and expertise needed. For …",
+    "publication_info": {
+      "summary": "D Votipka, K Fulton, J Parker, M Hou, ML Mazurek… - cps-vo.org",
+      "authors": [
+        {
+          "name": "D Votipka",
+          "link": "https://scholar.google.com/citations?user=1LmUdRkAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "K Fulton",
+          "link": "https://scholar.google.com/citations?user=LP07NIwAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "J Parker",
+          "link": "https://scholar.google.com/citations?user=butVIRUAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "ML Mazurek",
+          "link": "https://scholar.google.com/citations?user=5ExRjncAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "cps-vo.org",
+        "file_format": "HTML",
+        "link": "https://cps-vo.org/node/60823"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=yOt8KCQ3xUUJ",
+      "html_version": "https://cps-vo.org/node/60823",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:yOt8KCQ3xUUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:yOt8KCQ3xUUJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=40005&sciodt=0,10"
+    }
+  }
+]

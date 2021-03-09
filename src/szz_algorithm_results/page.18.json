@@ -1,0 +1,306 @@
+[
+  {
+    "position": 0,
+    "title": "September 18, 2016",
+    "result_id": "EldHc5Z-B6UJ",
+    "type": "Pdf",
+    "link": "http://www.ptidej.net/courses/log6306/fall16/readingnotes/1%20-%20Gueheneuc%20and%20Khomh%20-%20Empirical%20Software%20Engineering.pdf",
+    "snippet": "… Although, they are various and numerous, some techniques became de-facto standards in empirical software engineering research, such as the SZZ algorithm used to cross-reference commits and bug reports [56, 70] or the LHDiff algorithm used to track source code lines …",
+    "publication_info": {
+      "summary": "YG Guéhéneuc, F Khomh - 2016 - ptidej.net",
+      "authors": [
+        {
+          "name": "YG Guéhéneuc",
+          "link": "https://scholar.google.com/citations?user=_VV4cZYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Khomh",
+          "link": "https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ptidej.net",
+        "file_format": "PDF",
+        "link": "http://www.ptidej.net/courses/log6306/fall16/readingnotes/1%20-%20Gueheneuc%20and%20Khomh%20-%20Empirical%20Software%20Engineering.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=EldHc5Z-B6UJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:EldHc5Z-B6UJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:EldHc5Z-B6UJ:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 1,
+    "title": "Improving Bug Triaging Using Software Analytics",
+    "result_id": "SZgNIbh4IsMJ",
+    "link": "http://publications.polymtl.ca/1908/",
+    "snippet": "Page 1. UNIVERSITÉ DE MONTRÉAL IMPROVING BUG TRIAGING USING SOFTWARE ANALYTICS LE AN DÉPARTEMENT DE GÉNIE INFORMATIQUE ET GÉNIE LOGICIEL ÉCOLE POLYTECHNIQUE DE MONTRÉAL MÉMOIRE PRÉSENTÉ EN VUE DE L'OBTENTION …",
+    "publication_info": {
+      "summary": "L An - 2015 - publications.polymtl.ca",
+      "authors": [
+        {
+          "name": "L An",
+          "link": "https://scholar.google.com/citations?user=bivLuJQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "polymtl.ca",
+        "file_format": "PDF",
+        "link": "https://publications.polymtl.ca/1908/1/2015_LeAn.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=SZgNIbh4IsMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:SZgNIbh4IsMJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=14060933718827964489&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "14060933718827964489",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14060933718827964489&engine=google_scholar&hl=en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:SZgNIbh4IsMJ:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 2,
+    "title": "On the Impact of Affect in Software Engineering",
+    "result_id": "k1dtlqfuXm0J",
+    "link": "https://publications.polymtl.ca/2447/",
+    "snippet": "Page 1. UNIVERSITÉ DE MONTRÉAL ON THE IMPACT OF AFFECT IN SOFTWARE ENGINEERING PARASTOU TOURANI DÉPARTEMENT DE GÉNIE INFORMATIQUE ET GÉNIE LOGICIEL ÉCOLE POLYTECHNIQUE DE MONTRÉAL …",
+    "publication_info": {
+      "summary": "P Tourani - 2016 - publications.polymtl.ca"
+    },
+    "resources": [
+      {
+        "title": "polymtl.ca",
+        "file_format": "PDF",
+        "link": "https://publications.polymtl.ca/2447/1/2016_ParastouTourani.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=k1dtlqfuXm0J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:k1dtlqfuXm0J:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=7880998801495644051&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "7880998801495644051",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=7880998801495644051&engine=google_scholar&hl=en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:k1dtlqfuXm0J:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 3,
+    "title": "Whom Are You Going to Call?",
+    "result_id": "qCF-bcEBX8EJ",
+    "type": "Pdf",
+    "link": "https://www.cs.ucdavis.edu/~filkov/papers/whotocall.pdf",
+    "snippet": "… 4.4 Attributing Commits That Need Changing To identify commits that had to be changed in order to close an issue (ie, likely buggy commits), we use the standard SZZ algorithm [55], as expanded in [37], with a few changes to accommodate GitHub nuances …",
+    "publication_info": {
+      "summary": "D Kavaler, P Devanbu, V Filkov - cs.ucdavis.edu",
+      "authors": [
+        {
+          "name": "D Kavaler",
+          "link": "https://scholar.google.com/citations?user=rzt_DeIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "P Devanbu",
+          "link": "https://scholar.google.com/citations?user=tQ5vbOAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "V Filkov",
+          "link": "https://scholar.google.com/citations?user=rzwHnAcAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ucdavis.edu",
+        "file_format": "PDF",
+        "link": "https://www.cs.ucdavis.edu/~filkov/papers/whotocall.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=qCF-bcEBX8EJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:qCF-bcEBX8EJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=13933857702384902568&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "13933857702384902568",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13933857702384902568&engine=google_scholar&hl=en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qCF-bcEBX8EJ:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 4,
+    "title": "Refactoring and what else? an exploratory study on floss refactoring.",
+    "result_id": "p4UTadF7s3wJ",
+    "link": "http://dspace.sti.ufcg.edu.br:8080/xmlui/handle/riufcg/8435",
+    "snippet": "Page 1. Universidade Federal de Campina Grande Centro de Engenharia Elétrica e Informática Coordenação de Pós-Graduação em Ciência da Computação Refactoring and What Else? An Exploratory Study on Floss Refactoring Jaziel Silva Moreira …",
+    "publication_info": {
+      "summary": "JS Moreira - 2019 - dspace.sti.ufcg.edu.br"
+    },
+    "resources": [
+      {
+        "title": "ufcg.edu.br",
+        "file_format": "PDF",
+        "link": "http://dspace.sti.ufcg.edu.br:8080/xmlui/bitstream/handle/riufcg/8435/JASIEL%20SILVA%20MOREIRA%20-%20DISSERTA%C3%87%C3%83O%20%28PPGCC%29%202019.pdf?sequence=1&isAllowed=y"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=p4UTadF7s3wJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:p4UTadF7s3wJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:p4UTadF7s3wJ:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 5,
+    "title": "Analysis of Developer Information Needs on Collaborative Platforms",
+    "result_id": "-5vn5sDEU0QJ",
+    "type": "Pdf",
+    "link": "http://scg.unibe.ch/archive/masters/Birr20a.pdf",
+    "snippet": "Page 1. Analysis of Developer Information Needs on Collaborative Platforms Master Thesis Mathias Birrer from Bern, Switzerland Faculty of Science at the University of Bern June 2020 Prof. Dr. Oscar Nierstrasz Pooja Rani Software Composition Group …",
+    "publication_info": {
+      "summary": "M Birrer, O Nierstrasz, P Rani - 2020 - scg.unibe.ch",
+      "authors": [
+        {
+          "name": "P Rani",
+          "link": "https://scholar.google.com/citations?user=2B8GcJ4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "unibe.ch",
+        "file_format": "PDF",
+        "link": "http://scg.unibe.ch/archive/masters/Birr20a.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=-5vn5sDEU0QJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:-5vn5sDEU0QJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:-5vn5sDEU0QJ:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 6,
+    "title": "An exploratory study on confusion in code reviews",
+    "result_id": "z9V7CrQmHSoJ",
+    "type": "Html",
+    "link": "https://link.springer.com/article/10.1007/s10664-020-09909-5",
+    "snippet": "Code review is a widely used technique of systematic examination of code changes which aims at increasing software quality. Code reviews provide several be.",
+    "publication_info": {
+      "summary": "F Ebert, F Castor, N Novielli, A Serebrenik - Empirical Software …, 2021 - Springer",
+      "authors": [
+        {
+          "name": "F Ebert",
+          "link": "https://scholar.google.com/citations?user=0_kRyLwAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Castor",
+          "link": "https://scholar.google.com/citations?user=c_egjh0AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "N Novielli",
+          "link": "https://scholar.google.com/citations?user=XeCgthcAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Serebrenik",
+          "link": "https://scholar.google.com/citations?user=Mcn2e18AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "springer.com",
+        "file_format": "HTML",
+        "link": "https://link.springer.com/article/10.1007/s10664-020-09909-5"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=z9V7CrQmHSoJ",
+      "html_version": "https://link.springer.com/article/10.1007/s10664-020-09909-5",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:z9V7CrQmHSoJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=3034624278629438927&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "3034624278629438927",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3034624278629438927&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 7,
+    "title": "Bayesian Data Analysis in Empirical Software Engineering: The Case of Missing Data",
+    "result_id": "obwmO3Y-ydwJ",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-32489-6_11",
+    "snippet": "Page 1. Bayesian Data Analysis in Empirical Software Engineering: The Case of Missing Data Richard Torkar, Robert Feldt, and Carlo A. Furia Abstract Bayesian data analysis (BDA) is today used by a multitude of research disciplines …",
+    "publication_info": {
+      "summary": "R Torkar, R Feldt, CA Furia - Contemporary Empirical Methods in Software …, 2020 - Springer",
+      "authors": [
+        {
+          "name": "R Torkar",
+          "link": "https://scholar.google.com/citations?user=yNR3XUMAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "R Feldt",
+          "link": "https://scholar.google.com/citations?user=VemqkeEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "CA Furia",
+          "link": "https://scholar.google.com/citations?user=pqbv1BAAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/1904.00661"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=obwmO3Y-ydwJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:obwmO3Y-ydwJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=15909315836182445217&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "15909315836182445217",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=15909315836182445217&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 8,
+    "title": "Linguistic Anti-Patterns: Impact Analysis on Code Quality",
+    "result_id": "Jmopba08gkoJ",
+    "link": "https://publications.polymtl.ca/3950/",
+    "snippet": "Page 1. POLYTECHNIQUE MONTRÉAL affiliée à l'Université de Montréal Linguistic Anti-Patterns: Impact Analysis on Code Quality ZEINAB KERMANSARAVI Département de génie informatique et génie logiciel Thèse présentée …",
+    "publication_info": {
+      "summary": "Z Kermansaravi - 2019 - publications.polymtl.ca",
+      "authors": [
+        {
+          "name": "Z Kermansaravi",
+          "link": "https://scholar.google.com/citations?user=r0e5BqYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "polymtl.ca",
+        "file_format": "PDF",
+        "link": "https://publications.polymtl.ca/3950/1/2019_ZeinabKermansaravi.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Jmopba08gkoJ",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Jmopba08gkoJ:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  }
+]

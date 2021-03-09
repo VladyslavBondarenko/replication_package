@@ -1,0 +1,809 @@
+[
+  {
+    "position": 0,
+    "title": "Large-scale patch recommendation at Alibaba",
+    "result_id": "11M8uSS4cQAJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3377812.3390902",
+    "snippet": "… (1) Extracting Defect-Patch Pairs. The first step is to extract a large number of defect-patch pairs from the existing codebase. This is largely based on the SZZ algorithm [3] with a number of strategies customized for the Alibaba codebase …",
+    "publication_info": {
+      "summary": "X Zhang, C Zhu, Y Li, J Guo, L Liu, H Gu - Proceedings of the ACM/IEEE …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "C Zhu",
+          "link": "https://scholar.google.com/citations?user=08WK2s4AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "Y Li",
+          "link": "https://scholar.google.com/citations?user=B61QIUIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "J Guo",
+          "link": "https://scholar.google.com/citations?user=RwkVKswAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ntu.edu.sg",
+        "file_format": "PDF",
+        "link": "https://personal.ntu.edu.sg/yi_li/files/Zhang2020LSP.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=11M8uSS4cQAJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:11M8uSS4cQAJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=32009140234376151&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "32009140234376151",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=32009140234376151&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 1,
+    "title": "How bugs are born: a model to identify how bugs are introduced in software components",
+    "result_id": "ATc0DR4y6KQJ",
+    "link": "https://search.proquest.com/openview/d06833ce5e87dd847b3d23f06a834225/1?pq-origsite=gscholar&cbl=326341",
+    "snippet": "… Keywords Bug origins · Bug-introducing changes · First-failing change · SZZ algorithm · Extrinsic bugs · Intrinsic bugs … Rodrıguez-Pérez et al. performed a systematic literature study on the use of the SZZ algorithm and quantify its limitations (2018a) …",
+    "publication_info": {
+      "summary": "RP Gema, G Robles, S Alexander… - Empirical Software …, 2020 - search.proquest.com",
+      "authors": [
+        {
+          "name": "RP Gema",
+          "link": "https://scholar.google.com/citations?user=QijxP8AAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "G Robles",
+          "link": "https://scholar.google.com/citations?user=BhVjp-UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ATc0DR4y6KQJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ATc0DR4y6KQJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 2,
+    "title": "Are fix-inducing changes a moving target? a longitudinal case study of just-in-time defect prediction",
+    "result_id": "OawlEx8UpuQJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7898457/",
+    "snippet": "… The SZZ algorithm identifies fix-inducing changes by: (a) identifying defect-fixing changes, (b) pin- pointing the lines that are modified by defect-fixing changes using the diff command, and (c) traversing the version history to detect which change(s) introduced the modified lines …",
+    "publication_info": {
+      "summary": "S McIntosh, Y Kamei - IEEE Transactions on Software …, 2017 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "S McIntosh",
+          "link": "https://scholar.google.com/citations?user=FxUqGoUAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "Y Kamei",
+          "link": "https://scholar.google.com/citations?user=O0-BQaQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=OawlEx8UpuQJ",
+      "cited_by": {
+        "total": 57,
+        "link": "https://scholar.google.com/scholar?cites=16475878410479316025&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "16475878410479316025",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16475878410479316025&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:OawlEx8UpuQJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 8,
+        "link": "https://scholar.google.com/scholar?cluster=16475878410479316025&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "16475878410479316025",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=16475878410479316025&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 3,
+    "title": "Studying high impact fix-inducing changes",
+    "result_id": "_7fin5P7uWcJ",
+    "link": "https://link.springer.com/content/pdf/10.1007/s10664-015-9370-z.pdf",
+    "snippet": "… They show that their approach can improve the accuracy (ie, lead to less false positives and false negatives) over the SZZ algorithm. Similarly, Eyolfson et al … To determine whether or not a change induces a fix, we use the SZZ algorithm Sliwerski et al. (2005) …",
+    "publication_info": {
+      "summary": "AT Misirli, E Shihab, Y Kamei - Empirical Software Engineering, 2016 - Springer",
+      "authors": [
+        {
+          "name": "E Shihab",
+          "link": "https://scholar.google.com/citations?user=kF76KPAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "Y Kamei",
+          "link": "https://scholar.google.com/citations?user=O0-BQaQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "kyushu-u.ac.jp",
+        "file_format": "PDF",
+        "link": "http://posl.ait.kyushu-u.ac.jp/~kamei/publications/Ayse_EMSE2015.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=_7fin5P7uWcJ",
+      "cited_by": {
+        "total": 38,
+        "link": "https://scholar.google.com/scholar?cites=7474281668059248639&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "7474281668059248639",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7474281668059248639&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:_7fin5P7uWcJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 11,
+        "link": "https://scholar.google.com/scholar?cluster=7474281668059248639&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "7474281668059248639",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=7474281668059248639&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 4,
+    "title": "Does chronology matter in JIT defect prediction? A Partial Replication Study",
+    "result_id": "g37fp-HHPzMJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3345629.3351449",
+    "snippet": "… These systems exhibited three characteristics such as traceability, rapidly evolving and code review policy. The study used the SZZ algorithm to check whether or not a change introduces a bug. To overcome the limitations of …",
+    "publication_info": {
+      "summary": "H Jahanshahi, D Jothimani, A Başar… - Proceedings of the …, 2019 - dl.acm.org",
+      "authors": [
+        {
+          "name": "H Jahanshahi",
+          "link": "https://scholar.google.com/citations?user=aYMU4CIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D Jothimani",
+          "link": "https://scholar.google.com/citations?user=cmti4b8AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Başar",
+          "link": "https://scholar.google.com/citations?user=I17PkbUAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=g37fp-HHPzMJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=3692889991465107075&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "3692889991465107075",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3692889991465107075&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:g37fp-HHPzMJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 5,
+    "title": "An empirical study of code smells in javascript projects",
+    "result_id": "ZJondcTZ9mAJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7884630/",
+    "snippet": "… Identification of Fault-Inducing Changes: Our studied systems use Github as their issue tracker and we use Github APIs to get the list of all the resolved issues on the systems. We leverage the SZZ algorithm [31] to detect changes that introduced faults …",
+    "publication_info": {
+      "summary": "A Saboury, P Musavi, F Khomh… - 2017 IEEE 24th …, 2017 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "F Khomh",
+          "link": "https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "polymtl.ca",
+        "file_format": "PDF",
+        "link": "http://swat.polymtl.ca/~foutsekh/docs/Saboury-SANER.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ZJondcTZ9mAJ",
+      "cited_by": {
+        "total": 35,
+        "link": "https://scholar.google.com/scholar?cites=6987011309714250340&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "6987011309714250340",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6987011309714250340&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ZJondcTZ9mAJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=6987011309714250340&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "6987011309714250340",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6987011309714250340&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 6,
+    "title": "Investigating design anti-pattern and design pattern mutations and their change-and fault-proneness",
+    "result_id": "a1fWgOgEbPgJ",
+    "link": "https://link.springer.com/article/10.1007/s10664-020-09900-0",
+    "snippet": "… the edges between nodes. We compute the probability values by analyzing all the releases of the software systems during the considered period of time. Third, we use the SZZ algorithm (Śliwerski et al. 2005) to find fault-inducing …",
+    "publication_info": {
+      "summary": "ZA Kermansaravi, MS Rahman, F Khomh… - Empirical Software …, 2021 - Springer",
+      "authors": [
+        {
+          "name": "ZA Kermansaravi",
+          "link": "https://scholar.google.com/citations?user=r0e5BqYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "MS Rahman",
+          "link": "https://scholar.google.com/citations?user=ePTlUjUAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Khomh",
+          "link": "https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "polymtl.ca",
+        "file_format": "PDF",
+        "link": "http://swat.polymtl.ca/~foutsekh/docs/Investigating_Design_Patterns_and_Design_Anti_pattern_Mutations.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=a1fWgOgEbPgJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:a1fWgOgEbPgJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=17900688015531333483&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "17900688015531333483",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=17900688015531333483&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 7,
+    "title": "On Relating Technical, Social Factors, and the Introduction of Bugs",
+    "result_id": "fydo-zhI-zkJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9054824/",
+    "snippet": "… To locate these, we implement the SZZ algorithm [2], which aims at identifying the commits that introduced a bug in a software project. In this context, the SZZ algorithm requires the com- mit(s) that fixed a given bug, hence, we use a GitHub strategy to identify these commits …",
+    "publication_info": {
+      "summary": "F Falcão, C Barbosa, B Fonseca… - 2020 IEEE 27th …, 2020 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "F Falcão",
+          "link": "https://scholar.google.com/citations?user=TF5txOYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "C Barbosa",
+          "link": "https://scholar.google.com/citations?user=0QJTk3oAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "B Fonseca",
+          "link": "https://scholar.google.com/citations?user=qvID9jQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/1811.01918"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=fydo-zhI-zkJ",
+      "cited_by": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cites=4178012488889542527&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "4178012488889542527",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4178012488889542527&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:fydo-zhI-zkJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=4178012488889542527&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "4178012488889542527",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4178012488889542527&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 8,
+    "title": "On the Impact of Inter-language Dependencies in Multi-language Systems",
+    "result_id": "OwNA8M7jpaEJ",
+    "type": "Pdf",
+    "link": "https://mcis.cs.queensu.ca/publications/2020/qrs_manel.pdf",
+    "snippet": "… We take advantage of the existing SZZ algorithm [18] to identify bug-introducing dependencies. The SZZ algorithm identifies changes that are likely to introduce issues, it uses the issue report information to find such bug-introducing changes …",
+    "publication_info": {
+      "summary": "M Grichi, M Abidi, F Jaafar, EE Eghan… - 2020 IEEE 20th …, 2020 - mcis.cs.queensu.ca",
+      "authors": [
+        {
+          "name": "F Jaafar",
+          "link": "https://scholar.google.com/citations?user=-wrKRnEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "EE Eghan",
+          "link": "https://scholar.google.com/citations?user=BqUiUL4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "queensu.ca",
+        "file_format": "PDF",
+        "link": "https://mcis.cs.queensu.ca/publications/2020/qrs_manel.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=OwNA8M7jpaEJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:OwNA8M7jpaEJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=11647966489197151035&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "11647966489197151035",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11647966489197151035&engine=google_scholar&hl=en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:OwNA8M7jpaEJ:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 9,
+    "title": "The impact of human discussions on just-in-time quality assurance: An empirical study on openstack and eclipse",
+    "result_id": "79PayXECp6sJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7476642/",
+    "snippet": "… Table II shows the statistics of our data set. C. Identifying Defect-introducing Commits Identifying which commits introduce a defect is not straight- forward. Various algorithms and heuristics exist, with the SZZ algorithm [39] still one of the most popular approaches …",
+    "publication_info": {
+      "summary": "P Tourani, B Adams - 2016 IEEE 23rd International Conference …, 2016 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "B Adams",
+          "link": "https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "queensu.ca",
+        "file_format": "PDF",
+        "link": "http://mcis.cs.queensu.ca/publications/2016/saner_parastou.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=79PayXECp6sJ",
+      "cited_by": {
+        "total": 20,
+        "link": "https://scholar.google.com/scholar?cites=12368857589337478127&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "12368857589337478127",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12368857589337478127&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:79PayXECp6sJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=12368857589337478127&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "12368857589337478127",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12368857589337478127&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 10,
+    "title": "On the role of developer's scattered changes in bug prediction",
+    "result_id": "HFGDHw7z3FgJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7332470/",
+    "snippet": "… Once collected the set of bugs fixed in the change history of each system, we used the SZZ algorithm [33] to identify when each fixed bug was introduced. The SZZ algorithm relies on the annotation/blame feature of versioning systems …",
+    "publication_info": {
+      "summary": "D Di Nucci, F Palomba, S Siravo… - 2015 IEEE …, 2015 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "D Di Nucci",
+          "link": "https://scholar.google.com/citations?user=YJqcbnIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Palomba",
+          "link": "https://scholar.google.com/citations?user=hwcOgd4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "queensu.ca",
+        "file_format": "PDF",
+        "link": "https://research.cs.queensu.ca/home/ahmed/home/teaching/CISC880/F16/papers/OnTheRoleOfDeveloperScatteredChangesIn%20BugPrediction.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=HFGDHw7z3FgJ",
+      "cited_by": {
+        "total": 15,
+        "link": "https://scholar.google.com/scholar?cites=6403260012197794076&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "6403260012197794076",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6403260012197794076&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:HFGDHw7z3FgJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 14,
+        "link": "https://scholar.google.com/scholar?cluster=6403260012197794076&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "6403260012197794076",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6403260012197794076&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 11,
+    "title": "Changelocator: locate crash-inducing changes based on crash reports",
+    "result_id": "3fab5-fn0jUJ",
+    "link": "https://link.springer.com/article/10.1007/s10664-017-9567-4",
+    "snippet": "… 2005) are proposed to identify bug inducing changes based on bug-fixing changes. Sliwerski et al. proposed the SZZ algorithm (Śliwerski et al. 2005) … Kim et al. (2006) improved the SZZ algorithm by removing non-semantic source code changes and outlier fixes …",
+    "publication_info": {
+      "summary": "R Wu, M Wen, SC Cheung, H Zhang - Empirical Software Engineering, 2018 - Springer",
+      "authors": [
+        {
+          "name": "R Wu",
+          "link": "https://scholar.google.com/citations?user=xdxTt38AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "M Wen",
+          "link": "https://scholar.google.com/citations?user=ht2MknAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "SC Cheung",
+          "link": "https://scholar.google.com/citations?user=5RIgb3wAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "H Zhang",
+          "link": "https://scholar.google.com/citations?user=zsUN6PkAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ust.hk",
+        "file_format": "PDF",
+        "link": "http://www.cse.ust.hk/~mwenaa/paper/ChangeLocator.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=3fab5-fn0jUJ",
+      "cited_by": {
+        "total": 20,
+        "link": "https://scholar.google.com/scholar?cites=3878417212328638173&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "3878417212328638173",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3878417212328638173&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:3fab5-fn0jUJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 9,
+        "link": "https://scholar.google.com/scholar?cluster=3878417212328638173&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "3878417212328638173",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3878417212328638173&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 12,
+    "title": "Some sonarqube issues have a significant but small effect on faults and changes. a large-scale empirical study",
+    "result_id": "S_kwt4h0OC8J",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0164121220301734",
+    "snippet": "… In addition, the adoption of an existing study design also helped to cope with the limitations of the studies mentioned above by (i) analyzing the fault-proneness magnitude in terms of number of instances of SonarQube violation, and (ii) using the SZZ algorithm (Śliwerski et al …",
+    "publication_info": {
+      "summary": "V Lenarduzzi, N Saarimäki, D Taibi - Journal of Systems and Software, 2020 - Elsevier",
+      "authors": [
+        {
+          "name": "V Lenarduzzi",
+          "link": "https://scholar.google.com/citations?user=HKGXl54AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "N Saarimäki",
+          "link": "https://scholar.google.com/citations?user=dBhdGbQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D Taibi",
+          "link": "https://scholar.google.com/citations?user=ToWAPrcAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/1908.11590"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=S_kwt4h0OC8J",
+      "cited_by": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cites=3402597649016224075&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "3402597649016224075",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3402597649016224075&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:S_kwt4h0OC8J:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=3402597649016224075&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "3402597649016224075",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3402597649016224075&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 13,
+    "title": "Fault-insertion and fault-fixing: analysing developer activity over time",
+    "result_id": "AKiITE_mi-QJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3416508.3417117",
+    "snippet": "… package. We used the SZZ algorithm to extract fault fix and fault insertion git commits from the six systems [23]. The SZZ algorithm finds a link between a fault report and the corresponding fix git commits in the version control system …",
+    "publication_info": {
+      "summary": "D Bowes, G Destefanis, T Hall, J Petric… - Proceedings of the 16th …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "D Bowes",
+          "link": "https://scholar.google.com/citations?user=GTLr8esAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "G Destefanis",
+          "link": "https://scholar.google.com/citations?user=o2KkJXIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Hall",
+          "link": "https://scholar.google.com/citations?user=TPQhlqgAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Giuseppe_Destefanis/publication/344413457_Fault-Insertion_and_Fault-Fixing_Analysing_Developer_Activity_over_Time/links/5f737e30299bf1b53effb0ea/Fault-Insertion-and-Fault-Fixing-Analysing-Developer-Activity-over-Time.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=AKiITE_mi-QJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:AKiITE_mi-QJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=16468509690671179776&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "16468509690671179776",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=16468509690671179776&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 14,
+    "title": "On the Need of Removing Last Releases of Data When Using or Validating Defect Prediction Models",
+    "result_id": "zLvTmT_x1qoJ",
+    "link": "https://arxiv.org/abs/2003.14376",
+    "snippet": "… to non defective. One possible approach aimed at identifying when a defect has been actually introduced in a software project is the SZZ algorithm [57]. SZZ exploits … such a fix. We re-implemented the SZZ algorithm [57]. We then …",
+    "publication_info": {
+      "summary": "A Ahluwalia, M Di Penta, D Falessi - arXiv preprint arXiv:2003.14376, 2020 - arxiv.org",
+      "authors": [
+        {
+          "name": "M Di Penta",
+          "link": "https://scholar.google.com/citations?user=j6ucyOAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D Falessi",
+          "link": "https://scholar.google.com/citations?user=PQWZTB8AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2003.14376"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=zLvTmT_x1qoJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:zLvTmT_x1qoJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=12310291886929853388&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "12310291886929853388",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12310291886929853388&engine=google_scholar&hl=en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zLvTmT_x1qoJ:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  },
+  {
+    "position": 15,
+    "title": "Fine-grained just-in-time defect prediction",
+    "result_id": "wb2wnSRtSssJ",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0164121218302656",
+    "snippet": "JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article …",
+    "publication_info": {
+      "summary": "L Pascarella, F Palomba, A Bacchelli - Journal of Systems and Software, 2019 - Elsevier",
+      "authors": [
+        {
+          "name": "L Pascarella",
+          "link": "https://scholar.google.com/citations?user=s3RQeYQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Palomba",
+          "link": "https://scholar.google.com/citations?user=hwcOgd4AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Bacchelli",
+          "link": "https://scholar.google.com/citations?user=Jv-sW70AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "lucapascarella.com",
+        "file_format": "PDF",
+        "link": "https://www.lucapascarella.com/articles/2018/Pascarella_JSS_2018.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=wb2wnSRtSssJ",
+      "cited_by": {
+        "total": 31,
+        "link": "https://scholar.google.com/scholar?cites=14648640742007815617&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "14648640742007815617",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14648640742007815617&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:wb2wnSRtSssJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 10,
+        "link": "https://scholar.google.com/scholar?cluster=14648640742007815617&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "14648640742007815617",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14648640742007815617&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 16,
+    "title": "Why software repositories are not used for defect-insertion circumstance analysis more often: A case study",
+    "result_id": "ymDB1GOm52UJ",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0950584914001049",
+    "snippet": "… could be traced (P5). 6.1. Case: Steps, issues, results (naive set, improved set, difficulty B). The procedure implementing DCDIM is usually called SZZ algorithm, after the authors of the article that introduced it [25]. Infopark used it …",
+    "publication_info": {
+      "summary": "L Prechelt, A Pepper - Information and Software Technology, 2014 - Elsevier",
+      "authors": [
+        {
+          "name": "L Prechelt",
+          "link": "https://scholar.google.com/citations?user=ZY2MP7QAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "fu-berlin.de",
+        "file_format": "PDF",
+        "link": "http://page.mi.fu-berlin.de/prechelt/Biblio/PrePep14-misblame.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ymDB1GOm52UJ",
+      "cited_by": {
+        "total": 32,
+        "link": "https://scholar.google.com/scholar?cites=7343020665152299210&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "7343020665152299210",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7343020665152299210&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ymDB1GOm52UJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 8,
+        "link": "https://scholar.google.com/scholar?cluster=7343020665152299210&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "7343020665152299210",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=7343020665152299210&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 17,
+    "title": "Re-evaluating method-level bug prediction",
+    "result_id": "a1G7fDpnvqAJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8330264/",
+    "snippet": "… With this strategy we answer RQ2. An addition to the release-by-release strategy would be to consider the SZZ algorithm [79] and consider as buggy only the methods in which a bug was introduced before the release (regardless of when the fix happened) …",
+    "publication_info": {
+      "summary": "L Pascarella, F Palomba… - 2018 IEEE 25th …, 2018 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "L Pascarella",
+          "link": "https://scholar.google.com/citations?user=s3RQeYQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Palomba",
+          "link": "https://scholar.google.com/citations?user=hwcOgd4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uzh.ch",
+        "file_format": "PDF",
+        "link": "https://www.zora.uzh.ch/id/eprint/152985/1/saner2018rene.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=a1G7fDpnvqAJ",
+      "cited_by": {
+        "total": 18,
+        "link": "https://scholar.google.com/scholar?cites=11582808792541909355&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "11582808792541909355",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11582808792541909355&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:a1G7fDpnvqAJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 13,
+        "link": "https://scholar.google.com/scholar?cluster=11582808792541909355&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "11582808792541909355",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11582808792541909355&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 18,
+    "title": "An empirical study of crash-inducing commits in mozilla firefox",
+    "result_id": "2ujK2JUiODwJ",
+    "link": "https://link.springer.com/article/10.1007/s11219-017-9361-y",
+    "snippet": "… We analyse Firefox' crash reports and link them to the corresponding crash-related bugs. We then use the SZZ algorithm (Śliwerski et al … All our data and analytic scripts are available at: https://github.com/swatlab/crash-inducing. Applying the SZZ algorithm (Śliwerski et al …",
+    "publication_info": {
+      "summary": "L An, F Khomh, YG Guéhéneuc - Software Quality Journal, 2018 - Springer",
+      "authors": [
+        {
+          "name": "L An",
+          "link": "https://scholar.google.com/citations?user=bivLuJQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Khomh",
+          "link": "https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "YG Guéhéneuc",
+          "link": "https://scholar.google.com/citations?user=_VV4cZYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "acm.org",
+        "file_format": "PDF",
+        "link": "https://dl.acm.org/doi/pdf/10.1145/2810146.2810152"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=2ujK2JUiODwJ",
+      "cited_by": {
+        "total": 16,
+        "link": "https://scholar.google.com/scholar?cites=4339256267954120922&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "4339256267954120922",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4339256267954120922&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:2ujK2JUiODwJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=4339256267954120922&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "4339256267954120922",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4339256267954120922&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 19,
+    "title": "Investigating the Practicality of Just-in-time Defect Prediction with Semi-supervised Learning on Industrial Commit Data",
+    "result_id": "Ft2xnc9rG1AJ",
+    "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1336751",
+    "snippet": "… 9 2.3.1 Software Defect Prediction . . . . . 9 2.3.2 SZZ Algorithm … 44 6.4.1 Limitations of the SZZ Algorithm . . . . . 44 6.4.2 Observed Performance in Case Study …",
+    "publication_info": {
+      "summary": "A Syed - 2019 - diva-portal.org"
+    },
+    "resources": [
+      {
+        "title": "diva-portal.org",
+        "file_format": "PDF",
+        "link": "https://www.diva-portal.org/smash/get/diva2:1336751/FULLTEXT02"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Ft2xnc9rG1AJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Ft2xnc9rG1AJ:scholar.google.com/&scioq=%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=5772325886853504278&hl=en&num=20&as_sdt=0,5",
+        "cluster_id": "5772325886853504278",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5772325886853504278&engine=google_scholar&hl=en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Ft2xnc9rG1AJ:scholar.google.com/+%22szz+algorithm%22&hl=en&num=20&as_sdt=0,5"
+    }
+  }
+]

@@ -1,0 +1,154 @@
+<html>
+
+<head>
+  <title>title</title>
+</head>
+
+<body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script>
+    let fullDataAlg = []
+    let fullData = []
+    let unique = []
+    let uniqueAlg = []
+    const uniqueMap = new Map()
+    const uniqueMapAlg = new Map()
+    const uniqueWithLinkOrResource = []
+    const uniqueWithLinkOrResourceAlg = []
+    const diff = []
+    let selected
+
+    console.log(uniqueMap)
+    console.log(fullData)
+    console.log(fullDataAlg)
+    console.log(diff)
+
+    const iterateFiles = async _ => {
+      await $.getJSON('./selected.json', (data) => {
+        selected = data
+      })
+
+      for (let i = 1; i < 45; i++) {
+        const filename = `./page.${i}.json`
+        await $.getJSON(filename, (data) => {
+          fullData.concat(data)
+          data.map(p => {
+            fullData.push(p)
+
+            const title = p.title.toLowerCase().trim()
+            if (uniqueMap.has(title)) {
+              const entry = fullData.find(e => e.result_id === uniqueMap.get(title).result_id)
+              const currentCiteNumber = entry.inline_links.cited_by && entry.inline_links.cited_by.total || 0
+              const newCiteNumber = p.inline_links.cited_by && p.inline_links.cited_by.total || 0
+              if (newCiteNumber > currentCiteNumber) {
+                uniqueMap.set(title, {
+                  result_id: p.result_id,
+                  title: p.title,
+                  authors: p.authors,
+                })
+              }
+            } else {
+              uniqueMap.set(title, {
+                result_id: p.result_id,
+                title: p.title,
+                authors: p.publication_info.authors ? p.publication_info.authors.reduce((result, author) => `${result}, ${author.name}`, "").slice(2) : p.publication_info.summary,
+                resource: p.resources ? p.resources[0].link : null,
+                link: p.link,
+              })
+            }
+          })
+        })
+      }
+
+      console.log("Total: " + fullData.length)
+      console.log("Unique: " + uniqueMap.size)
+
+      fullData.map(p => {
+        const title = p.title.toLowerCase().trim()
+        if (uniqueMap.get(title)
+          && uniqueMap.get(title).result_id === p.result_id
+          && !unique.some(i => i.title.toLowerCase().trim() === title)
+          && p.type !== 'Book') {
+          const data = {
+            title: p.title,
+            authors: p.publication_info.authors ? p.publication_info.authors.reduce((result, author) => `${result}, ${author.name}`, "").slice(2) : p.publication_info.summary,
+            resource: p.resources ? p.resources[0].link : null,
+            link: p.link,
+          }
+          unique.push(data)
+        }
+      })
+    }
+
+    const iterateFilesAlg = async _ => {
+      for (let i = 1; i < 19; i++) {
+        const filename = `./algorithm/page.${i}.json`
+        await $.getJSON(filename, (data) => {
+          fullDataAlg.concat(data)
+          data.map(p => {
+            fullDataAlg.push(p)
+
+            const title = p.title.toLowerCase().trim()
+            if (uniqueMapAlg.has(title)) {
+              const entry = fullDataAlg.find(e => e.result_id === uniqueMapAlg.get(title).result_id)
+              const currentCiteNumber = entry.inline_links.cited_by && entry.inline_links.cited_by.total || 0
+              const newCiteNumber = p.inline_links.cited_by && p.inline_links.cited_by.total || 0
+              if (newCiteNumber > currentCiteNumber) {
+                uniqueMapAlg.set(title, {
+                  result_id: p.result_id,
+                  title: p.title,
+                  authors: p.publication_info.authors ? p.publication_info.authors.reduce((result, author) => `${result}, ${author.name}`, "").slice(2) : p.publication_info.summary,
+                  resource: p.resources ? p.resources[0].link : null,
+                  link: p.link,
+                })
+              }
+            } else {
+              uniqueMapAlg.set(title, {
+                result_id: p.result_id,
+                title: p.title,
+                authors: p.publication_info.authors ? p.publication_info.authors.reduce((result, author) => `${result}, ${author.name}`, "").slice(2) : p.publication_info.summary,
+                resource: p.resources ? p.resources[0].link : null,
+                link: p.link,
+              })
+            }
+          })
+        })
+      }
+
+      fullDataAlg.map(p => {
+        const title = p.title.toLowerCase().trim()
+        if (uniqueMapAlg.get(title)
+          && uniqueMapAlg.get(title).result_id === p.result_id
+          && !uniqueAlg.some(i => i.title.toLowerCase().trim() === title)
+          && p.type !== 'Book') {
+          const data = {
+            title: p.title,
+            authors: p.publication_info.authors ? p.publication_info.authors.reduce((result, author) => `${result}, ${author.name}`, "").slice(2) : p.publication_info.summary,
+            resource: p.resources ? p.resources[0].link : null,
+            link: p.link,
+          }
+          uniqueAlg.push(data)
+        }
+      })
+
+      console.log("Alg. After removing books: " + uniqueAlg.length)
+
+      uniqueAlg.map(p => (p.resource || p.link) && uniqueWithLinkOrResourceAlg.push(p))
+      console.log("Alg. After removing results without links: " + uniqueWithLinkOrResourceAlg.length)
+
+      uniqueWithLinkOrResourceAlg.map(p => !fullData.some(i => i.title === p.title) && diff.push(p))
+      console.log("Difference: " + diff.length)
+    }
+
+    iterateFiles().then(_ => {
+      iterateFilesAlg().then(_ => {
+        const fullBothMap = new Map([...uniqueMap].concat([...uniqueMapAlg]))
+        const fullDataBoth = Array.from(fullBothMap.values())
+        const res = fullDataBoth.filter(p => selected.includes(p.title))
+        console.log(res)
+      })
+    })
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,568 @@
+[
+  {
+    "position": 0,
+    "title": "An information retrieval strategy for large multimodal data collections involving source code and natural language",
+    "result_id": "WGBx1a1_QXcJ",
+    "link": "https://repositorio.unal.edu.co/handle/unal/76556",
+    "snippet": "Source code repositories store data from software products. Among this data we can find the evolution of the source code, requirements, bugs and communication between developers. Source code repositories have been growing rapidly in the recent years andwith them the …",
+    "publication_info": {
+      "summary": "JF Baquero Vargas - Ingeniería de Sistemas - repositorio.unal.edu.co"
+    },
+    "resources": [
+      {
+        "title": "unal.edu.co",
+        "file_format": "PDF",
+        "link": "https://repositorio.unal.edu.co/bitstream/handle/unal/76556/Tesis_Maestra_JFBV__Universidad_Nacional_de_Colombia.pdf?sequence=1&isAllowed=y"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=WGBx1a1_QXcJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:WGBx1a1_QXcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:WGBx1a1_QXcJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 1,
+    "title": "A benchmark study on the effectiveness of search-based data selection and feature selection for cross project defect prediction",
+    "result_id": "on9M1rRwRAcJ",
+    "link": "https://bura.brunel.ac.uk/handle/2438/14787",
+    "snippet": "Context: Previous studies have shown that steered training data or dataset selection can lead to better performance for cross project defect prediction (CPDP). On the other hand, feature selection and data quality are issues to consider in CPDP. Objective: We aim at …",
+    "publication_info": {
+      "summary": "B Turhan, M Mäntylä - 2017 - bura.brunel.ac.uk",
+      "authors": [
+        {
+          "name": "B Turhan",
+          "link": "https://scholar.google.com/citations?user=hiQnvicAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "M Mäntylä",
+          "link": "https://scholar.google.com/citations?user=iD0POWUAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "brunel.ac.uk",
+        "file_format": "PDF",
+        "link": "https://bura.brunel.ac.uk/bitstream/2438/14787/4/FullText.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=on9M1rRwRAcJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:on9M1rRwRAcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:on9M1rRwRAcJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 2,
+    "title": "Augmenting Traditional Static Analysis With Commonly Available Metadata",
+    "result_id": "kRts1rfbEPQJ",
+    "link": "http://etd.auburn.edu/handle/10415/4489",
+    "snippet": "Developers and security analysts have been using static analysis for a long time to analyze programs for defects and vulnerabilities with some success. Generally a static analysis tool is run on the source code for a given program, flagging areas of code that need to be further …",
+    "publication_info": {
+      "summary": "D Cook - 2015 - etd.auburn.edu",
+      "authors": [
+        {
+          "name": "D Cook",
+          "link": "https://scholar.google.com/citations?user=-PW6kdUAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "auburn.edu",
+        "file_format": "PDF",
+        "link": "http://etd.auburn.edu/bitstream/handle/10415/4489/cook_dissertation.pdf?sequence=2&ts=1436699097051"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=kRts1rfbEPQJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:kRts1rfbEPQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=17586798127504694161&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "17586798127504694161",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17586798127504694161&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:kRts1rfbEPQJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 3,
+    "title": "Modeling Software Developer Expertise and Inexpertise to Handle Diverse Information Needs",
+    "result_id": "qRYo13YqTh8J",
+    "link": "https://vtechworks.lib.vt.edu/handle/10919/83505",
+    "snippet": "Expert software developer recommendation is a mature research field with many different techniques being developed to help automate the search for experts to help with development tasks and questions. But all previous research on recommending expert …",
+    "publication_info": {
+      "summary": "FL Claytor - 2018 - vtechworks.lib.vt.edu"
+    },
+    "resources": [
+      {
+        "title": "vt.edu",
+        "file_format": "PDF",
+        "link": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/83505/Claytor_FL_T_2018.pdf?isAllowed=y&sequence=1"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=qRYo13YqTh8J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:qRYo13YqTh8J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qRYo13YqTh8J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 4,
+    "title": "A Technique to Link Bug and Commit Report based on Commit History",
+    "result_id": "CYF114v565kJ",
+    "link": "https://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JBGHLZ_2016_v22n5_235",
+    "snippet": "Abstract'Commit-bug link', the link between commit history and bug reports, is used for software maintenance and defect prediction in bug tracking systems. Previous studies have shown that the links are automatically detected based on text similarity, time interval, and …",
+    "publication_info": {
+      "summary": "Y Chae, E Lee - KIISE Transactions on Computing Practices, 2016 - koreascience.or.kr"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=CYF114v565kJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:CYF114v565kJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=11091232886340550921&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "11091232886340550921",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11091232886340550921&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:CYF114v565kJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 5,
+    "title": "ASCIENTIAE RERUM",
+    "result_id": "7IAW2UiS8jUJ",
+    "type": "Pdf",
+    "link": "http://jultika.oulu.fi/files/isbn9789526224480.pdf",
+    "snippet": "Context: This study contributes to the understanding of the current state of cross-project defect prediction (CPDP) by investigating the topic in themes, with special focus on data approaches and covering search-based training data selection, by proposing data selection …",
+    "publication_info": {
+      "summary": "S Hosseini - jultika.oulu.fi",
+      "authors": [
+        {
+          "name": "S Hosseini",
+          "link": "https://scholar.google.com/citations?user=zqnWtQIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "oulu.fi",
+        "file_format": "PDF",
+        "link": "http://jultika.oulu.fi/files/isbn9789526224480.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=7IAW2UiS8jUJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:7IAW2UiS8jUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:7IAW2UiS8jUJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 6,
+    "title": "Effort-aware just-in-time defect identification in practice: a case study at Alibaba",
+    "result_id": "t4Pf2cU6ZBYJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3368089.3417048",
+    "snippet": "ABSTRACT Effort-aware Just-in-Time (JIT) defect identification aims at identifying defect-introducing changes just-in-time with limited code inspection effort. Such identification has two benefits compared with traditional module-level defect identification, ie, identifying …",
+    "publication_info": {
+      "summary": "M Yan, X Xia, Y Fan, D Lo, AE Hassan… - Proceedings of the 28th …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "M Yan",
+          "link": "https://scholar.google.com/citations?user=UBTGNMwAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "X Xia",
+          "link": "https://scholar.google.com/citations?user=XSZRxOEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "Y Fan",
+          "link": "https://scholar.google.com/citations?user=KREvb9oAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D Lo",
+          "link": "https://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "AE Hassan",
+          "link": "https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Yuanrui_Fan/publication/344097528_Effort-Aware_Just-in-Time_Defect_Identification_in_Practice_A_Case_Study_at_Alibaba/links/5f51f386458515e96d2b56b1/Effort-Aware-Just-in-Time-Defect-Identification-in-Practice-A-Case-Study-at-Alibaba.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=t4Pf2cU6ZBYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:t4Pf2cU6ZBYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=1613479187943752631&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "1613479187943752631",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=1613479187943752631&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 7,
+    "title": "Application Taxonomy via Algorithmic Commonality for Domain-Specific Architecture Desgin",
+    "result_id": "wOJY2qYv4uIJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7397615/",
+    "snippet": "In this paper, we propose an approach of application taxonomy from a perspective of algorithmic commonality. The taxonomy exploits algorithm-inherent characterization to imply a categorization of domain-specific architecture in the initial phase of architecture design …",
+    "publication_info": {
+      "summary": "Y Wang, Q Li, G Tan - 2015 IEEE 22nd International …, 2015 - ieeexplore.ieee.org"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=wOJY2qYv4uIJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:wOJY2qYv4uIJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=16348681990982656704&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "16348681990982656704",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16348681990982656704&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 8,
+    "title": "Untriviality of Trivial Packages",
+    "result_id": "6dpP20wI1UgJ",
+    "link": "https://spectrum.library.concordia.ca/986164/",
+    "snippet": "Nowadays, developing software would be unthinkable without the use of third-party packages. Although such code reuse helps to achieve rapid continuous delivery of software to end-users, blindly reusing code has its pitfalls. Prior work investigated the rationale for …",
+    "publication_info": {
+      "summary": "MAR Chowdhury - 2019 - spectrum.library.concordia.ca"
+    },
+    "resources": [
+      {
+        "title": "concordia.ca",
+        "file_format": "PDF",
+        "link": "https://spectrum.library.concordia.ca/986164/1/Chowdhury_MCompSc_S2020.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=6dpP20wI1UgJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:6dpP20wI1UgJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=5248110066960161513&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "5248110066960161513",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=5248110066960161513&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6dpP20wI1UgJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 9,
+    "title": "Predicting the Likelihood of a Software Bug to be Re-Opened",
+    "result_id": "jVis3ZPb9zsJ",
+    "type": "Citation",
+    "publication_info": {
+      "summary": "A Ramaraju, Y Tebbal",
+      "authors": [
+        {
+          "name": "A Ramaraju",
+          "link": "https://scholar.google.com/citations?user=W3AHrBQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=jVis3ZPb9zsJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:jVis3ZPb9zsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 10,
+    "title": "Analysis on a release history database to assist management of the software maintenance",
+    "result_id": "ScUS3mWDA_IJ",
+    "link": "https://spectrum.library.concordia.ca/7826/",
+    "snippet": "Software maintenance is the most time consuming activity in the life cycle of software. Software maintenance suffers from missed deadlines and from being over budget. Managers usually pay more attention to development than to maintenance: for example …",
+    "publication_info": {
+      "summary": "S Bohlooli - 2013 - spectrum.library.concordia.ca"
+    },
+    "resources": [
+      {
+        "title": "concordia.ca",
+        "file_format": "PDF",
+        "link": "https://spectrum.library.concordia.ca/7826/1/Bohlooli_MASc_S2013.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ScUS3mWDA_IJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ScUS3mWDA_IJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=17438926655649400137&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "17438926655649400137",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17438926655649400137&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ScUS3mWDA_IJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 11,
+    "title": "Don't embarrass yourself: Beware of bias in your data",
+    "result_id": "3wBv325y1uEJ",
+    "type": "Pdf",
+    "link": "https://www.cabird.com/static/c2ded32fa58c22575772722838e79f5c/bird2016bias.pdf",
+    "snippet": "As is often the case, many polls were conducted in the run up to the election. Gallup, still one of the most trusted polling organizations today, predicted that republican Thomas Dewey would handily defeat democrat Harry Truman. In fact, the press was so convinced by the\" …",
+    "publication_info": {
+      "summary": "DD Truman - cabird.com"
+    },
+    "resources": [
+      {
+        "title": "cabird.com",
+        "file_format": "PDF",
+        "link": "https://www.cabird.com/static/c2ded32fa58c22575772722838e79f5c/bird2016bias.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=3wBv325y1uEJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:3wBv325y1uEJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:3wBv325y1uEJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 12,
+    "title": "PATTERNS OF PROPAGATING BUGS IN OPEN SOURCE SOFTWARES",
+    "result_id": "oJqO31FgvCsJ",
+    "link": "https://search.proquest.com/openview/0e5046b14c1df41cd1f6fe918f04fbe4/1?pq-origsite=gscholar&cbl=136217",
+    "snippet": "In software development, various debugging techniques are used to remove bugs which are found in source code. However in some situations, logical bugs still remain in the code after the debugging process. Furthermore, debuggers provides no mechanism to find out patterns …",
+    "publication_info": {
+      "summary": "MF Shehzad, MIU Lali… - NED University Journal of …, 2014 - search.proquest.com",
+      "authors": [
+        {
+          "name": "MF Shehzad",
+          "link": "https://scholar.google.com/citations?user=v_ny464AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "MIU Lali",
+          "link": "https://scholar.google.com/citations?user=wG9e2ncAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=oJqO31FgvCsJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:oJqO31FgvCsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=3151499744011786912&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "3151499744011786912",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=3151499744011786912&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 13,
+    "title": "Supporting Software Evolution in the Organizations",
+    "result_id": "lOFh4WXdv2kJ",
+    "type": "Pdf",
+    "link": "https://www.researchgate.net/profile/Nicolas_Anquetil/publication/278798292_Supporting_Software_Evolution_in_the_Organizations/links/58516c9608ae7d33e012a63e/Supporting-Software-Evolution-in-the-Organizations.pdf",
+    "snippet": "Software systems are now so intrinsically part of our lives that we do not see them any more. They run our phones, our cars, our leisures, our banks, our shops, our cities... This brings a significant burden on the software industry. All these systems need to be updated, corrected …",
+    "publication_info": {
+      "summary": "N Anquetil - researchgate.net",
+      "authors": [
+        {
+          "name": "N Anquetil",
+          "link": "https://scholar.google.com/citations?user=DSMdD9UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Nicolas_Anquetil/publication/278798292_Supporting_Software_Evolution_in_the_Organizations/links/58516c9608ae7d33e012a63e/Supporting-Software-Evolution-in-the-Organizations.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=lOFh4WXdv2kJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:lOFh4WXdv2kJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=7620052524176892308&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "7620052524176892308",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7620052524176892308&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:lOFh4WXdv2kJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 14,
+    "title": "Software Artifacts based Change Controller",
+    "result_id": "ck1o4YClC5MJ",
+    "type": "Citation",
+    "publication_info": {
+      "summary": "TK Agrawal, RKG Bhatia - 2008",
+      "authors": [
+        {
+          "name": "RKG Bhatia",
+          "link": "https://scholar.google.com/citations?user=B1HrGgYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ck1o4YClC5MJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ck1o4YClC5MJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 15,
+    "title": "June 6, 2018",
+    "result_id": "mziV5FB8oR0J",
+    "type": "Pdf",
+    "link": "http://swat.polymtl.ca/~foutsekh/docs/Prop-ESE.pdf",
+    "snippet": "Software engineering as a discipline exists since the 1960's, when participants of the NATO Software Engineering Conference in 1968 at Garmisch, Germany [39] recognised that there was a “software crisis” due to the increased complexity of the systems and of the software …",
+    "publication_info": {
+      "summary": "YG Guéhéneuc, F Khomh - 2018 - swat.polymtl.ca",
+      "authors": [
+        {
+          "name": "YG Guéhéneuc",
+          "link": "https://scholar.google.com/citations?user=_VV4cZYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Khomh",
+          "link": "https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "polymtl.ca",
+        "file_format": "PDF",
+        "link": "http://swat.polymtl.ca/~foutsekh/docs/Prop-ESE.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=mziV5FB8oR0J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:mziV5FB8oR0J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=2135124385224538267&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "2135124385224538267",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=2135124385224538267&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:mziV5FB8oR0J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 16,
+    "title": "UNDERSTANDING THE DEVELOPER PARTICIPATION IN BUG FIX PROCESS",
+    "result_id": "46WT5cdJOc8J",
+    "type": "Pdf",
+    "link": "https://core.ac.uk/download/pdf/322473769.pdf",
+    "snippet": "Prediction of the bug fix time in open source softwares is a challenging job. A software bug consists of many attributes that define the characteristics of the bug. Some of the attributes get filled at the time of reporting and some are at the time of bug fixing. In this paper, 836 bug …",
+    "publication_info": {
+      "summary": "M Kumari, M Sharma, N Yadav - INTERNATIONAL JOURNAL OF …, 2014 - core.ac.uk",
+      "authors": [
+        {
+          "name": "M Sharma",
+          "link": "https://scholar.google.com/citations?user=6ewDoE8AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "core.ac.uk",
+        "file_format": "PDF",
+        "link": "https://core.ac.uk/download/pdf/322473769.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=46WT5cdJOc8J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:46WT5cdJOc8J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:46WT5cdJOc8J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 17,
+    "title": "Industry-scale IR-based Bug Localization: A Perspective from Facebook",
+    "result_id": "ZEvc5ZvX-IsJ",
+    "link": "https://arxiv.org/abs/2010.09977",
+    "snippet": "We explore the application of Information Retrieval (IR) based bug localization methods at a large industrial setting, Facebook. Facebook's code base evolves rapidly, with thousands of code changes being committed to a monolithic repository every day. When a bug is …",
+    "publication_info": {
+      "summary": "V Murali, L Gross, R Qian, S Chandra - arXiv preprint arXiv:2010.09977, 2020 - arxiv.org",
+      "authors": [
+        {
+          "name": "V Murali",
+          "link": "https://scholar.google.com/citations?user=wlp0v4kAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Chandra",
+          "link": "https://scholar.google.com/citations?user=4p8fJSgAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2010.09977"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ZEvc5ZvX-IsJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ZEvc5ZvX-IsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=10086048430072548196&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "10086048430072548196",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=10086048430072548196&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ZEvc5ZvX-IsJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 18,
+    "title": "ON THE EVOLUTIONARY COUPLING AND ITS MEASUREMENT",
+    "result_id": "fBvv5TxjawYJ",
+    "type": "Pdf",
+    "link": "https://www.researchgate.net/profile/Serkan_Kirbas2/publication/327156138_ON_THE_EVOLUTIONARY_COUPLING_AND_ITS_MEASUREMENT/links/5b7d4d69a6fdcc5f8b5b4787/ON-THE-EVOLUTIONARY-COUPLING-AND-ITS-MEASUREMENT.pdf",
+    "snippet": "Evolutionary Coupling (EC) is the implicit relationship between the artifacts or parts of the software system that are frequently changed together during evolution of a system. Understanding the EC in software systems is important, as it has been shown to provide …",
+    "publication_info": {
+      "summary": "S Kırbas - 2017 - researchgate.net"
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Serkan_Kirbas2/publication/327156138_ON_THE_EVOLUTIONARY_COUPLING_AND_ITS_MEASUREMENT/links/5b7d4d69a6fdcc5f8b5b4787/ON-THE-EVOLUTIONARY-COUPLING-AND-ITS-MEASUREMENT.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=fBvv5TxjawYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:fBvv5TxjawYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=462572499942447996&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "462572499942447996",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=462572499942447996&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:fBvv5TxjawYJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 19,
+    "title": "An Empirical Study on Relationships between Comments and Design Properties",
+    "result_id": "KVz358sSX7QJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8787090/",
+    "snippet": "Recent studies empirically revealed a relationship between source code comments and code quality. Those studies considered activity-based metrics as quality indicators. Project management tasks often used source code-based metrics, and analysis of such metrics can …",
+    "publication_info": {
+      "summary": "Y Miyake, S Amasaki, T Yokogawa… - 2017 5th Intl Conf on …, 2017 - ieeexplore.ieee.org"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=KVz358sSX7QJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:KVz358sSX7QJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=12997127716593949737&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "12997127716593949737",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=12997127716593949737&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  }
+]

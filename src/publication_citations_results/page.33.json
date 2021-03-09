@@ -1,0 +1,678 @@
+[
+  {
+    "position": 0,
+    "title": "Concept-based exploration of rich semi-structured data collections",
+    "result_id": "8d7wBcEQirkJ",
+    "link": "http://scholar.sun.ac.za/handle/10019.1/100859",
+    "snippet": "Search has become one of the fundamental operations in computer science, allowing users to extract data and ultimately information from datasets. However, when users have no previous knowledge of a dataset, or have not clearly defined their search task and are …",
+    "publication_info": {
+      "summary": "GJ Greene - 2017 - scholar.sun.ac.za",
+      "authors": [
+        {
+          "name": "GJ Greene",
+          "link": "https://scholar.google.com/citations?user=F_DIAJUAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "sun.ac.za",
+        "file_format": "PDF",
+        "link": "https://scholar.sun.ac.za/bitstream/handle/10019.1/100859/greene_concept_2017.pdf?isAllowed=y&sequence=2"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=8d7wBcEQirkJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:8d7wBcEQirkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=13369516865017143025&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "13369516865017143025",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=13369516865017143025&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:8d7wBcEQirkJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 1,
+    "title": "Studying the Impact of Developer Communication on the Quality and Evolution of a Software System",
+    "result_id": "3zXVBloGljcJ",
+    "type": "Pdf",
+    "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.648.1760&rep=rep1&type=pdf",
+    "snippet": "Software development is a largely collaborative effort, of which the actual encoding of program logic in source code is a relatively small part. Software developers have to collaborate effectively and communicate with their peers in order to avoid coordination …",
+    "publication_info": {
+      "summary": "N Bettenburg - 2014 - Citeseer",
+      "authors": [
+        {
+          "name": "N Bettenburg",
+          "link": "https://scholar.google.com/citations?user=Jf3tJa8AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.648.1760&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=3zXVBloGljcJ",
+      "cited_by": {
+        "total": null,
+        "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.648.1760&rep=rep1&type=pdf"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:3zXVBloGljcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=4005395902324094431&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "4005395902324094431",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=4005395902324094431&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:3zXVBloGljcJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 2,
+    "title": "Extracting group relationships within changing software using text analysis",
+    "result_id": "hnXWBshNmtIJ",
+    "link": "http://uhra.herts.ac.uk/handle/2299/11896",
+    "snippet": "This research looks at identifying and classifying changes in evolving software by making simple textual comparisons between groups of source code files. The two areas investigated are software origin analysis and collusion detection. Textual comparison is attractive …",
+    "publication_info": {
+      "summary": "PD Green - 2013 - uhra.herts.ac.uk"
+    },
+    "resources": [
+      {
+        "title": "herts.ac.uk",
+        "file_format": "PDF",
+        "link": "https://uhra.herts.ac.uk/bitstream/handle/2299/11896/02048994%20Green%20Pamela%20final%20PhD%20submission.pdf?sequence=1"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=hnXWBshNmtIJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:hnXWBshNmtIJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=15175527415881823622&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "15175527415881823622",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=15175527415881823622&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:hnXWBshNmtIJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 3,
+    "title": "Understanding the Impact of Release Processes and Practices on Software Quality",
+    "result_id": "xtLYBjMAVtYJ",
+    "link": "https://publications.polymtl.ca/3857/",
+    "snippet": "Release engineering encompasses all the activities aimed at “building a pipeline that transforms source code into an integrated, compiled, packaged, tested, and signed product that is ready for release”. The strategy of the release processes and practices can impact the …",
+    "publication_info": {
+      "summary": "L An - 2019 - publications.polymtl.ca",
+      "authors": [
+        {
+          "name": "L An",
+          "link": "https://scholar.google.com/citations?user=bivLuJQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "polymtl.ca",
+        "file_format": "PDF",
+        "link": "https://publications.polymtl.ca/3857/1/2019_LeAn.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=xtLYBjMAVtYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:xtLYBjMAVtYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:xtLYBjMAVtYJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 4,
+    "title": "Precfix: large-scale patch recommendation by mining defect-patch pairs",
+    "result_id": "m825CDVsqTAJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3377813.3381356",
+    "snippet": "Patch recommendation is the process of identifying errors in software systems and suggesting suitable fixes for them. Patch recommendation can significantly improve developer productivity by reducing both the debugging and repairing time. Existing …",
+    "publication_info": {
+      "summary": "X Zhang, C Zhu, Y Li, J Guo, L Liu, H Gu - Proceedings of the ACM/IEEE …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "C Zhu",
+          "link": "https://scholar.google.com/citations?user=08WK2s4AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "Y Li",
+          "link": "https://scholar.google.com/citations?user=B61QIUIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "J Guo",
+          "link": "https://scholar.google.com/citations?user=RwkVKswAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ntu.edu.sg",
+        "file_format": "PDF",
+        "link": "https://personal.ntu.edu.sg/yi_li/files/Zhang2020PLS.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=m825CDVsqTAJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=3506452759920102811&as_sdt=5,47&sciodt=0,47&hl=en&num=20",
+        "cites_id": "3506452759920102811",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=3506452759920102811&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:m825CDVsqTAJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=3506452759920102811&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "3506452759920102811",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=3506452759920102811&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 5,
+    "title": "Development of Agent-Based Simulation Models for Software Evolution",
+    "result_id": "XccdCtQHQVMJ",
+    "type": "Pdf",
+    "link": "https://ediss.uni-goettingen.de/bitstream/handle/21.11130/00-1735-0000-0005-1318-B/PhDThesis_Daniel-Honsel_rev.pdf?sequence=1",
+    "snippet": "Software has become a part of everyday life for us. This is also associated with increasing requirements for adaptability to rapidly changing environments. This evolutionary process of software is being studied by a software engineering related research area, called software …",
+    "publication_info": {
+      "summary": "D Honsel - 2020 - ediss.uni-goettingen.de"
+    },
+    "resources": [
+      {
+        "title": "uni-goettingen.de",
+        "file_format": "PDF",
+        "link": "https://ediss.uni-goettingen.de/bitstream/handle/21.11130/00-1735-0000-0005-1318-B/PhDThesis_Daniel-Honsel_rev.pdf?sequence=1"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=XccdCtQHQVMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:XccdCtQHQVMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=5999084785918396253&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "5999084785918396253",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=5999084785918396253&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:XccdCtQHQVMJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 6,
+    "title": "Security assessment of open source third-parties applications",
+    "result_id": "or-DCuHoTNwJ",
+    "link": "http://eprints-phd.biblio.unitn.it/2543/",
+    "snippet": "Free and Open Source Software (FOSS) components are ubiquitous in both proprietary and open source applications. In this dissertation we discuss challenges that large software vendors face when they must integrate and maintain FOSS components into their software …",
+    "publication_info": {
+      "summary": "S Dashevskyi - 2017 - eprints-phd.biblio.unitn.it",
+      "authors": [
+        {
+          "name": "S Dashevskyi",
+          "link": "https://scholar.google.com/citations?user=Omfs6UQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "unitn.it",
+        "file_format": "PDF",
+        "link": "http://eprints-phd.biblio.unitn.it/2543/1/thesis-dashevskyi-unitn.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=or-DCuHoTNwJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:or-DCuHoTNwJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:or-DCuHoTNwJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 7,
+    "title": "On the relationship between refactoring actions and bugs: a differentiated replication",
+    "result_id": "5DIBDKMASZ4J",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3368089.3409695",
+    "snippet": "Software refactoring aims at improving code quality while preserving the system's external behavior. Although in principle refactoring is a behavior-preserving activity, a study presented by Bavota etal in 2012 reported the proneness of some refactoring actions (eg …",
+    "publication_info": {
+      "summary": "M Di Penta, G Bavota, F Zampetti - Proceedings of the 28th ACM Joint …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "M Di Penta",
+          "link": "https://scholar.google.com/citations?user=j6ucyOAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "G Bavota",
+          "link": "https://scholar.google.com/citations?user=inc2FLEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Zampetti",
+          "link": "https://scholar.google.com/citations?user=-qRba7AAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2009.11685"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=5DIBDKMASZ4J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:5DIBDKMASZ4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=11405648231573566180&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "11405648231573566180",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=11405648231573566180&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 8,
+    "title": "Revisiting Heterogeneous Defect Prediction: How Far Are We?",
+    "result_id": "G8dPDNFgaVgJ",
+    "link": "https://arxiv.org/abs/1908.06560",
+    "snippet": "Until now, researchers have proposed several novel heterogeneous defect prediction HDP methods with promising performance. To the best of our knowledge, whether HDP methods can perform significantly better than unsupervised methods has not yet been thoroughly …",
+    "publication_info": {
+      "summary": "X Chen, Y Mu, C Ni, Z Cui - arXiv preprint arXiv:1908.06560, 2019 - arxiv.org",
+      "authors": [
+        {
+          "name": "X Chen",
+          "link": "https://scholar.google.com/citations?user=Q2w5lq0AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "C Ni",
+          "link": "https://scholar.google.com/citations?user=ZTVm1RoAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/1908.06560"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=G8dPDNFgaVgJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=6370729598863263515&as_sdt=5,47&sciodt=0,47&hl=en&num=20",
+        "cites_id": "6370729598863263515",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cites=6370729598863263515&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:G8dPDNFgaVgJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=6370729598863263515&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "6370729598863263515",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=6370729598863263515&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:G8dPDNFgaVgJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 9,
+    "title": "Analysis and Characterization of Author Contribution Patterns in Open Source Software Development",
+    "result_id": "BUSvDHRaOpwJ",
+    "link": "https://scholarsarchive.byu.edu/etd/2971/",
+    "snippet": "Software development is a process fraught with unpredictability, in part because software is created by people. Human interactions add complexity to development processes, and collaborative development can become a liability if not properly understood and managed …",
+    "publication_info": {
+      "summary": "QC Taylor - 2012 - scholarsarchive.byu.edu"
+    },
+    "resources": [
+      {
+        "title": "byu.edu",
+        "file_format": "PDF",
+        "link": "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3970&context=etd"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=BUSvDHRaOpwJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:BUSvDHRaOpwJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=11257409673041495045&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "11257409673041495045",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=11257409673041495045&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:BUSvDHRaOpwJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 10,
+    "title": "How bugs are born: a model to identify how bugs are introduced in software components",
+    "result_id": "ATc0DR4y6KQJ",
+    "link": "https://search.proquest.com/openview/d06833ce5e87dd847b3d23f06a834225/1?pq-origsite=gscholar&cbl=326341",
+    "snippet": "When identifying the origin of software bugs, many studies assume that “a bug was introduced by the lines of code that were modified to fix it”. However, this assumption does not always hold and at least in some cases, these modified lines are not responsible for …",
+    "publication_info": {
+      "summary": "RP Gema, G Robles, S Alexander… - Empirical Software …, 2020 - search.proquest.com",
+      "authors": [
+        {
+          "name": "RP Gema",
+          "link": "https://scholar.google.com/citations?user=QijxP8AAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "G Robles",
+          "link": "https://scholar.google.com/citations?user=BhVjp-UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ATc0DR4y6KQJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ATc0DR4y6KQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 11,
+    "title": "How to Improve Linking Between Issues and Commits for the Sake of Software Defect Prediction?",
+    "result_id": "JZ8UDi4iLdMJ",
+    "type": "Pdf",
+    "link": "https://www.researchgate.net/profile/Lech_Madeyski/publication/308059246_How_to_Improve_Linking_Between_Issues_and_Commits_for_the_Sake_of_Software_Defect_Prediction/links/57d8602d08ae0c0081ee0055/How-to-Improve-Linking-Between-Issues-and-Commits-for-the-Sake-of-Software-Defect-Prediction.pdf",
+    "snippet": "Bug predictions and defect predictions can save a lot of money which otherwise would be spent on bug fixes. Commit logs and bug reports are very often not linked with each other [1] although those links can provide very valuable information which can help in software defect …",
+    "publication_info": {
+      "summary": "T Gawęda, E Nestorowicz, O Wołk, L Madeyski… - researchgate.net",
+      "authors": [
+        {
+          "name": "L Madeyski",
+          "link": "https://scholar.google.com/citations?user=qmX546sAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Lech_Madeyski/publication/308059246_How_to_Improve_Linking_Between_Issues_and_Commits_for_the_Sake_of_Software_Defect_Prediction/links/57d8602d08ae0c0081ee0055/How-to-Improve-Linking-Between-Issues-and-Commits-for-the-Sake-of-Software-Defect-Prediction.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=JZ8UDi4iLdMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:JZ8UDi4iLdMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=15216856297154846501&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "15216856297154846501",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=15216856297154846501&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:JZ8UDi4iLdMJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 12,
+    "title": "Is Developer Sentiment Related to Software Bugs: An Exploratory Study on GitHub Commits",
+    "result_id": "-WBXD_Pfkg0J",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9054801/",
+    "snippet": "The outcome of software products primarily depends on the developers, including their emotion or sentiment in a software development environment. Developer emotions have been observed to be correlated to several patterns, for instance, task resolution time …",
+    "publication_info": {
+      "summary": "SF Huq, AZ Sadiq, K Sakib - 2020 IEEE 27th International …, 2020 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "SF Huq",
+          "link": "https://scholar.google.com/citations?user=J4GjvRUAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "AZ Sadiq",
+          "link": "https://scholar.google.com/citations?user=_FQrbk4AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "K Sakib",
+          "link": "https://scholar.google.com/citations?user=G88J0-EAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Syed_Fatiul_Huq/publication/340401339_Is_Developer_Sentiment_Related_to_Software_Bugs_An_Exploratory_Study_on_GitHub_Commits/links/5f40e79992851cd302158bd5/Is-Developer-Sentiment-Related-to-Software-Bugs-An-Exploratory-Study-on-GitHub-Commits.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=-WBXD_Pfkg0J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:-WBXD_Pfkg0J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=978090304120250617&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "978090304120250617",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=978090304120250617&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 13,
+    "title": "Predicting Component Failures at Early Design Time",
+    "result_id": "E_uWEMKqAycJ",
+    "type": "Pdf",
+    "link": "http://domino.mpi-inf.mpg.de/imprs/imprspubl.nsf/989344adb49e8b15c12565f50045087d/0f2065964e8fa9a6c125724200373d11/$FILE/Masterarbeit-Melih-Demir.pdf",
+    "snippet": "For the effective prevention and elimination of defects and failures in a software system, it is important to know which parts of the software are more likely to contain errors, and therefore, can be considered as “risky”. To increase reliability and quality, more effort should be spent …",
+    "publication_info": {
+      "summary": "M Demir - 2006 - domino.mpi-inf.mpg.de"
+    },
+    "resources": [
+      {
+        "title": "mpg.de",
+        "file_format": "PDF",
+        "link": "http://domino.mpi-inf.mpg.de/imprs/imprspubl.nsf/989344adb49e8b15c12565f50045087d/0f2065964e8fa9a6c125724200373d11/$FILE/Masterarbeit-Melih-Demir.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=E_uWEMKqAycJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:E_uWEMKqAycJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cluster=2811278342888028947&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "2811278342888028947",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=2811278342888028947&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:E_uWEMKqAycJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 14,
+    "title": "Investigating the Effects of Design Quality in OSS Projects",
+    "result_id": "-RY4EfJ-KlsJ",
+    "link": "https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/c534fw42q",
+    "snippet": "Software systems require constant modifications in the form of bug fixes and the addition of new features to satisfy end user needs. Failure to do so might lead to losing users or unsatisfied users [41, 153]. The pressure to keep growing and evolving the software often …",
+    "publication_info": {
+      "summary": "UA Mannan - 2020 - ir.library.oregonstate.edu",
+      "authors": [
+        {
+          "name": "UA Mannan",
+          "link": "https://scholar.google.com/citations?user=xURmmlwAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "oregonstate.edu",
+        "file_format": "PDF",
+        "link": "https://ir.library.oregonstate.edu/downloads/8910k1977"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=-RY4EfJ-KlsJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:-RY4EfJ-KlsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:-RY4EfJ-KlsJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 15,
+    "title": "Measuring and improving code quality in highly configurable software systems",
+    "result_id": "8BDbEpbNOfMJ",
+    "link": "https://opendata.uni-halle.de/handle/1981185920/34942",
+    "snippet": "Highly configurable software systems (also known as software product lines) are software systems that can be configured to fulfill multiple sets of requirements. To achieve this configurability, the code base of highly configurable software systems must be variable, so …",
+    "publication_info": {
+      "summary": "W Fenske - 2020 - opendata.uni-halle.de",
+      "authors": [
+        {
+          "name": "W Fenske",
+          "link": "https://scholar.google.com/citations?user=KrLTnpIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uni-halle.de",
+        "file_format": "PDF",
+        "link": "https://opendata.uni-halle.de/bitstream/1981185920/34942/1/Fenske_Wolfram_Dissertation_2020.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=8BDbEpbNOfMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:8BDbEpbNOfMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:8BDbEpbNOfMJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 16,
+    "title": "Software Process Recovery",
+    "result_id": "r25zE4h9YlcJ",
+    "type": "Pdf",
+    "link": "https://softwareprocess.es/x/compii.20090824.173120.Aug.24.2009.pdf",
+    "snippet": "When developers create software they leave a trail of artifacts in their wake. These artifacts include source code changes, discussions over electronic mediums, documentation, tests, build scripts, requirements, etc. We propose to investigate methods in which one can …",
+    "publication_info": {
+      "summary": "A Hindle - 2009 - softwareprocess.es",
+      "authors": [
+        {
+          "name": "A Hindle",
+          "link": "https://scholar.google.com/citations?user=vuT1ZlUAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "softwareprocess.es",
+        "file_format": "PDF",
+        "link": "https://softwareprocess.es/x/compii.20090824.173120.Aug.24.2009.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=r25zE4h9YlcJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:r25zE4h9YlcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=6296733252412731055&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "6296733252412731055",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=6296733252412731055&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:r25zE4h9YlcJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 17,
+    "title": "On the Relationship Between Self-Admitted Technical Debt and Software Quality",
+    "result_id": "KvvYE07n5aIJ",
+    "type": "Html",
+    "link": "https://spectrum.library.concordia.ca/982522/",
+    "snippet": "Developers settle for a non-optimal solution under pressure to meet deadlines and quotas despite the potential pitfalls that might ensue at later stages in development, which has been referred to as “technical debt.” And like its financial analogue, if not carefully monitored and …",
+    "publication_info": {
+      "summary": "S ALWEHAIBI - 2017 - spectrum.library.concordia.ca",
+      "authors": [
+        {
+          "name": "S ALWEHAIBI",
+          "link": "https://scholar.google.com/citations?user=6s31hd4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "concordia.ca",
+        "file_format": "HTML",
+        "link": "https://spectrum.library.concordia.ca/982522/"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=KvvYE07n5aIJ",
+      "html_version": "https://spectrum.library.concordia.ca/982522/",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:KvvYE07n5aIJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=11738042326337518378&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "11738042326337518378",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=11738042326337518378&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:KvvYE07n5aIJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47"
+    }
+  },
+  {
+    "position": 18,
+    "title": "Visually Exploring Software Maintenance Activities",
+    "result_id": "BO4zFc1yHr4J",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8900959/",
+    "snippet": "Lehman's Laws teach us that a software system will become progressively less satisfying to its users over time, unless it is continually adapted to meet new needs. A line of previous works sought to better understand software maintenance by studying how commits can be …",
+    "publication_info": {
+      "summary": "S Levin, A Yehudai - 2019 Working Conference on Software …, 2019 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "S Levin",
+          "link": "https://scholar.google.com/citations?user=8JuX3DkAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Yehudai",
+          "link": "https://scholar.google.com/citations?user=-M38OagAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/1910.08907"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=BO4zFc1yHr4J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:BO4zFc1yHr4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=13699513341657214468&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "13699513341657214468",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=13699513341657214468&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 19,
+    "title": "Leveraging the Defects Life Cycle to Label Affected Versions and Defective Classes",
+    "result_id": "O2T7GNcf6ksJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3433928",
+    "snippet": "Two recent studies explicitly recommend labeling defective classes in releases using the affected versions (AV) available in issue trackers (eg, Jira). This practice is coined as the realistic approach. However, no study has investigated whether it is feasible to rely on AVs …",
+    "publication_info": {
+      "summary": "B Vandehei, DAD Costa, D Falessi - ACM Transactions on Software …, 2021 - dl.acm.org",
+      "authors": [
+        {
+          "name": "DAD Costa",
+          "link": "https://scholar.google.com/citations?user=J3bNU2MAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D Falessi",
+          "link": "https://scholar.google.com/citations?user=PQWZTB8AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2011.05531"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=O2T7GNcf6ksJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:O2T7GNcf6ksJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=5470219706092446779&hl=en&lr=lang_en&num=20&as_sdt=5,47&sciodt=0,47",
+        "cluster_id": "5470219706092446779",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C47&cluster=5470219706092446779&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  }
+]

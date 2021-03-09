@@ -1,0 +1,95 @@
+[
+  {
+    "position": 0,
+    "title": "On the Impact of Multi-language Development in Machine Learning Frameworks",
+    "result_id": "B8uh-gHVlGIJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9240642/",
+    "snippet": "The role of machine learning frameworks in software applications has exploded in recent years. Similar to non-machine learning frameworks, those frameworks need to evolve to incorporate new features, optimizations, etc., yet their evolution is impacted by the …",
+    "publication_info": {
+      "summary": "M Grichi, EE Eghan, B Adams - 2020 IEEE International …, 2020 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "EE Eghan",
+          "link": "https://scholar.google.com/citations?user=BqUiUL4AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "B Adams",
+          "link": "https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=B8uh-gHVlGIJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:B8uh-gHVlGIJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,44&sciodt=0,44",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=7103536716746705671&hl=en&lr=lang_en&num=20&as_sdt=5,44&sciodt=0,44",
+        "cluster_id": "7103536716746705671",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7103536716746705671&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 1,
+    "title": "Influence of Technical and Social Factors for Introducing Bugs",
+    "result_id": "naqw_E52Ub4J",
+    "link": "https://arxiv.org/abs/1811.03758",
+    "snippet": "[This paper has been withdrawn by the author due to updated research available on arXiv (arXiv: 1811.01918)] As the modern open-source paradigm makes it easier to contribute to software projects, the number of developers involved in these projects keep increasing. This …",
+    "publication_info": {
+      "summary": "F Falcão, C Barbosa, B Fonseca, A Garcia… - arXiv preprint arXiv …, 2018 - arxiv.org",
+      "authors": [
+        {
+          "name": "C Barbosa",
+          "link": "https://scholar.google.com/citations?user=0QJTk3oAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "B Fonseca",
+          "link": "https://scholar.google.com/citations?user=qvID9jQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Garcia",
+          "link": "https://scholar.google.com/citations?user=rP1LYboAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=naqw_E52Ub4J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:naqw_E52Ub4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,44&sciodt=0,44",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=13713872421938834077&hl=en&lr=lang_en&num=20&as_sdt=5,44&sciodt=0,44",
+        "cluster_id": "13713872421938834077",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=13713872421938834077&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:naqw_E52Ub4J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,44&sciodt=0,44"
+    }
+  },
+  {
+    "position": 2,
+    "title": "Improvements to Test Case Prioritisation considering Efficiency and Effectiveness on Real Faults",
+    "result_id": "9QTK_E6QbAsJ",
+    "link": "http://etheses.whiterose.ac.uk/id/eprint/26380",
+    "snippet": "Despite the best efforts of programmers and component manufacturers, software does not always work perfectly. In order to guard against this, developers write test suites that execute parts of the code and compare the expected result with the actual result. Over time, test …",
+    "publication_info": {
+      "summary": "D Paterson - 2019 - etheses.whiterose.ac.uk"
+    },
+    "resources": [
+      {
+        "title": "whiterose.ac.uk",
+        "file_format": "PDF",
+        "link": "http://etheses.whiterose.ac.uk/26380/1/Thesis.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=9QTK_E6QbAsJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:9QTK_E6QbAsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,44&sciodt=0,44",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=823191500824904949&hl=en&lr=lang_en&num=20&as_sdt=5,44&sciodt=0,44",
+        "cluster_id": "823191500824904949",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=823191500824904949&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:9QTK_E6QbAsJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,44&sciodt=0,44"
+    }
+  }
+]

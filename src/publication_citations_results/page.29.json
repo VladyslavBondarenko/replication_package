@@ -1,0 +1,751 @@
+[
+  {
+    "position": 0,
+    "title": "The knowledge accumulation and transfer in open-source software (oss) development",
+    "result_id": "Pd7Ny1VRBCIJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7070275/",
+    "snippet": "We examine the learning curves of individual software developers in Open-Source Software (OSS) Development. We collected the dataset of multi-year code change histories from the repositories for 20 open source software projects involving more than 200 developers. We …",
+    "publication_info": {
+      "summary": "Y Kim, L Jiang - 2015 48th Hawaii International Conference on …, 2015 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "Y Kim",
+          "link": "https://scholar.google.com/citations?user=U5p9OZMAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "L Jiang",
+          "link": "https://scholar.google.com/citations?user=0hssXLPZL2YC&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "smu.edu.sg",
+        "file_format": "PDF",
+        "link": "https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=3645&context=sis_research"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Pd7Ny1VRBCIJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=2451173526129729085&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "2451173526129729085",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=2451173526129729085&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Pd7Ny1VRBCIJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cluster=2451173526129729085&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "2451173526129729085",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=2451173526129729085&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 1,
+    "title": "Large-scale manual validation of bugfixing changes",
+    "result_id": "qmbZ14hlm04J",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3379597.3387504",
+    "snippet": "Context: Accurate data about bug fixes is important for different venues of research, eg, program repair. While automated procedures are able to identify bug fixing activities, they cannot distinguish between the bug fix and other activities that are happening in parallel, eg …",
+    "publication_info": {
+      "summary": "S Herbold, A Trautsch, B Ledel - … of the 17th International Conference on …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "S Herbold",
+          "link": "https://scholar.google.com/citations?user=Fac_e58AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Trautsch",
+          "link": "https://scholar.google.com/citations?user=VlSBMuIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "B Ledel",
+          "link": "https://scholar.google.com/citations?user=-ZY-UeAAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "osf.io",
+        "file_format": "PDF",
+        "link": "https://files.osf.io/v1/resources/acnwk/providers/osfstorage/5e6772d9a0964503c30555f5?version=1&displayName=paper-2020-03-10T10:46:33.022237%2B00:00.pdf&action=download&direct"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=qmbZ14hlm04J",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=5664232594759837354&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "5664232594759837354",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=5664232594759837354&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:qmbZ14hlm04J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=5664232594759837354&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "5664232594759837354",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=5664232594759837354&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 2,
+    "title": "Using bug report as a software quality measure: an empirical study",
+    "result_id": "FqBN2odpwRQJ",
+    "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJIQ.2013.054280",
+    "snippet": "Bug reporting systems, such as Bugzilla are online tools used in software development and maintenance to store and track the status of a bug report. They are widely used by both open-source software projects and commercial software companies and have become a major …",
+    "publication_info": {
+      "summary": "L Yu, S Ramaswamy - International Journal of Information …, 2013 - inderscienceonline.com",
+      "authors": [
+        {
+          "name": "L Yu",
+          "link": "https://scholar.google.com/citations?user=wo-eLOoAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Ramaswamy",
+          "link": "https://scholar.google.com/citations?user=ziFSN_8AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=FqBN2odpwRQJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=1495592583467737110&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "1495592583467737110",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=1495592583467737110&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:FqBN2odpwRQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=1495592583467737110&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "1495592583467737110",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=1495592583467737110&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 3,
+    "title": "An automated approach for performance deviation analysis of evolving software systems",
+    "result_id": "bF4a4VQSRhwJ",
+    "type": "Citation",
+    "publication_info": {
+      "summary": "FAP Pinto - 2015 - … Federal do Rio Grande do Norte"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=bF4a4VQSRhwJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=2037336037194882668&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "2037336037194882668",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=2037336037194882668&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:bF4a4VQSRhwJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  },
+  {
+    "position": 4,
+    "title": "Graph-based web video search reranking through consistency analysis using spectral clustering",
+    "result_id": "Yzhj59XbDaEJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7552935/",
+    "snippet": "This paper proposes a graph-based Web video search reranking method through consistency analysis using spectral clustering. Graph-based reranking is effective for refining text-based video search results. Generally, this approach constructs a graph where …",
+    "publication_info": {
+      "summary": "S Yoshida, T Ogawa… - 2016 IEEE International …, 2016 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "T Ogawa",
+          "link": "https://scholar.google.com/citations?user=vPixFIsAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Yzhj59XbDaEJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=11605173526560192611&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "11605173526560192611",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=11605173526560192611&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Yzhj59XbDaEJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=11605173526560192611&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "11605173526560192611",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=11605173526560192611&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 5,
+    "title": "Empirical study on software metrics and issues in object oriented systems",
+    "result_id": "1e_K53b9DJQJ",
+    "link": "https://books.google.com/books?hl=en&lr=lang_en&id=xgJoAgAAQBAJ&oi=fnd&pg=PA33&ots=3NlNgWroW1&sig=lwLbrE3z-5_1Ix_tSGpTTclUvu8",
+    "snippet": "We introduced a new approach to describe Java software as graph, where nodes represent a Java file-called compilation unit (CU)-and an edges represent a relations between them. The software system is characterized by the degree distribution of the graph properties, like …",
+    "publication_info": {
+      "summary": "A Murgia, G Concas, M Marchesi… - Emerging Trends in …, 2009 - books.google.com",
+      "authors": [
+        {
+          "name": "A Murgia",
+          "link": "https://scholar.google.com/citations?user=v2HywXwAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "M Marchesi",
+          "link": "https://scholar.google.com/citations?user=TROFGlO4ftgC&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "academia.edu",
+        "file_format": "PDF",
+        "link": "https://www.academia.edu/download/42710277/Measuring_the_impact_of_testing_on_code_20160215-28372-1dutkcm.pdf#page=39"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=1e_K53b9DJQJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=10668180304470667221&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "10668180304470667221",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=10668180304470667221&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:1e_K53b9DJQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=10668180304470667221&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "10668180304470667221",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=10668180304470667221&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 6,
+    "title": "Adaptive software fault prediction approach using object-oriented metrics",
+    "result_id": "R2Hq7TG89WkJ",
+    "link": "https://digitalcommons.fiu.edu/etd/767/",
+    "snippet": "As users continually request additional functionality, software systems will continue to grow in their complexity, as well as in their susceptibility to failures. Particularly for sensitive systems requiring higher levels of reliability, faulty system modules may increase …",
+    "publication_info": {
+      "summary": "D Babic - 2012 - digitalcommons.fiu.edu"
+    },
+    "resources": [
+      {
+        "title": "fiu.edu",
+        "file_format": "PDF",
+        "link": "https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?article=1880&context=etd"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=R2Hq7TG89WkJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=7635215665907523911&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "7635215665907523911",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=7635215665907523911&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:R2Hq7TG89WkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=7635215665907523911&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "7635215665907523911",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=7635215665907523911&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:R2Hq7TG89WkJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  },
+  {
+    "position": 7,
+    "title": "Characterizing and understanding software developer networks in security development",
+    "result_id": "CUcv-AgcyQMJ",
+    "link": "https://arxiv.org/abs/1907.12141",
+    "snippet": "To build secure software, developers often work together during software development and maintenance to find, fix, and prevent security vulnerabilities. Examining the nature of developer interactions during their security activities regarding security introducing and …",
+    "publication_info": {
+      "summary": "S Wang, N Nagappan - arXiv preprint arXiv:1907.12141, 2019 - arxiv.org",
+      "authors": [
+        {
+          "name": "N Nagappan",
+          "link": "https://scholar.google.com/citations?user=Nzx_7P8AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/1907.12141"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=CUcv-AgcyQMJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=272780077281789705&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "272780077281789705",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=272780077281789705&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:CUcv-AgcyQMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=272780077281789705&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "272780077281789705",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=272780077281789705&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:CUcv-AgcyQMJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  },
+  {
+    "position": 8,
+    "title": "On Relating Technical, Social Factors, and the Introduction of Bugs",
+    "result_id": "fydo-zhI-zkJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9054824/",
+    "snippet": "As collaborative coding environments make it easier to contribute to software projects, the number of developers involved in these projects keeps increasing. This increase makes it more difficult for code reviewers to deal with buggy contributions. Collaborative …",
+    "publication_info": {
+      "summary": "F Falcão, C Barbosa, B Fonseca… - 2020 IEEE 27th …, 2020 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "F Falcão",
+          "link": "https://scholar.google.com/citations?user=TF5txOYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "C Barbosa",
+          "link": "https://scholar.google.com/citations?user=0QJTk3oAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "B Fonseca",
+          "link": "https://scholar.google.com/citations?user=qvID9jQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/1811.01918"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=fydo-zhI-zkJ",
+      "cited_by": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cites=4178012488889542527&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "4178012488889542527",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=4178012488889542527&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:fydo-zhI-zkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=4178012488889542527&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "4178012488889542527",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=4178012488889542527&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 9,
+    "title": "Investigating the Impact of Personal, Temporal and Participation Factors on Code Review Quality",
+    "result_id": "7c9KAiiuz88J",
+    "link": "https://papyrus.bib.umontreal.ca/xmlui/handle/1866/12570",
+    "snippet": "Code review is an essential element of any mature software development project; it aims at evaluating code contributions submitted by developers. In principle, code review should improve the quality of code changes (patches) before they are committed to the project's …",
+    "publication_info": {
+      "summary": "Y Cao - 2015 - papyrus.bib.umontreal.ca"
+    },
+    "resources": [
+      {
+        "title": "umontreal.ca",
+        "file_format": "PDF",
+        "link": "https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/12570/Yaxin_Cao_2015_memoire.pdf?sequence=4"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=7c9KAiiuz88J",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=14974378772890570733&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "14974378772890570733",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=14974378772890570733&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:7c9KAiiuz88J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=14974378772890570733&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "14974378772890570733",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=14974378772890570733&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:7c9KAiiuz88J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  },
+  {
+    "position": 10,
+    "title": "Comparative study of fault-proneness filtering with pmd",
+    "result_id": "eJtABBSE2WcJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/4700354/",
+    "snippet": "Fault-prone module detection is important for assurance of software quality. We have proposed a novel approach for detecting fault-prone modules using spam filtering technique, named Fault-proneness filtering. In order to show the effectiveness of fault …",
+    "publication_info": {
+      "summary": "H Hata, O Mizuno, T Kikuno - 2008 19th International …, 2008 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "H Hata",
+          "link": "https://scholar.google.com/citations?user=iPigeoYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "O Mizuno",
+          "link": "https://scholar.google.com/citations?user=Ha-gD8IAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=eJtABBSE2WcJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=7483157477358345080&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "7483157477358345080",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=7483157477358345080&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:eJtABBSE2WcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=7483157477358345080&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "7483157477358345080",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=7483157477358345080&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 11,
+    "title": "Evidence-based software process recovery",
+    "result_id": "zGdsBMG2GI8J",
+    "link": "https://uwspace.uwaterloo.ca/handle/10012/5608",
+    "snippet": "Developing a large software system involves many complicated, varied, and inter-dependent tasks, and these tasks are typically implemented using a combination of defined processes, semi-automated tools, and ad hoc practices. Stakeholders in the development …",
+    "publication_info": {
+      "summary": "A Hindle - 2010 - uwspace.uwaterloo.ca",
+      "authors": [
+        {
+          "name": "A Hindle",
+          "link": "https://scholar.google.com/citations?user=vuT1ZlUAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uwaterloo.ca",
+        "file_format": "PDF",
+        "link": "https://uwspace.uwaterloo.ca/bitstream/handle/10012/5608/Hindle_Abram.pdf?sequence=1"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=zGdsBMG2GI8J",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=10311192286983907276&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "10311192286983907276",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=10311192286983907276&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:zGdsBMG2GI8J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 9,
+        "link": "https://scholar.google.com/scholar?cluster=10311192286983907276&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "10311192286983907276",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=10311192286983907276&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zGdsBMG2GI8J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  },
+  {
+    "position": 12,
+    "title": "Towards an empirical validation of the TIOBE Quality Indicator",
+    "result_id": "OXnPCE3k8PoJ",
+    "type": "Pdf",
+    "link": "https://research.tue.nl/files/46933219/844322-1.pdf",
+    "snippet": "We present an evaluation of the TIOBE Quality Indicator (TQI), a methodology by the company TIOBE that aims to measure software quality. The TQI is based on software metrics, a popular means to assessing various properties of software. These metrics are …",
+    "publication_info": {
+      "summary": "M Steneker - 2016 - research.tue.nl"
+    },
+    "resources": [
+      {
+        "title": "tue.nl",
+        "file_format": "PDF",
+        "link": "https://research.tue.nl/files/46933219/844322-1.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=OXnPCE3k8PoJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=18082203523403970873&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "18082203523403970873",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=18082203523403970873&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:OXnPCE3k8PoJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=18082203523403970873&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "18082203523403970873",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=18082203523403970873&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:OXnPCE3k8PoJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  },
+  {
+    "position": 13,
+    "title": "Software defect prediction via deep belief network",
+    "result_id": "DIOKCcHKdrcJ",
+    "link": "https://digital-library.theiet.org/content/journals/10.1049/cje.2019.06.012",
+    "snippet": "Defect distribution prediction is a meaningful topic because software defects are the fundamental cause of many attacks and data loss. Building accurate prediction models can help developers find bugs and prioritize their testing efforts. Previous researches focus on …",
+    "publication_info": {
+      "summary": "WEI Hua, S Chun, HU Changzhen, Y ZHANG… - Chinese Journal of …, 2019 - IET"
+    },
+    "resources": [
+      {
+        "title": "ejournal.org.cn",
+        "file_format": "PDF",
+        "link": "http://www.ejournal.org.cn/Jweb_cje/EN/article/downloadArticleFile.do?attachType=PDF&id=11569"
+      },
+      {
+        "title": "Full View",
+        "link": "https://scholar.google.com/scholar?output=instlink&q=info:DIOKCcHKdrcJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39&scillfp=6122228305025090528&oi=lle"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=DIOKCcHKdrcJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=13219976686630241036&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "13219976686630241036",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=13219976686630241036&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:DIOKCcHKdrcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=13219976686630241036&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "13219976686630241036",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=13219976686630241036&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 14,
+    "title": "Structures simulation of curved sensor based on PVDF for fetal heart rate monitoring",
+    "result_id": "Sk_gCWRKyQUJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8612800/",
+    "snippet": "This paper presents the comparative study of the output voltage's numerical response of new structures of a curved sensor based on PVDF film. These structures will be used to detect the incident pressure received through the mechanical vibrations and convert them …",
+    "publication_info": {
+      "summary": "M Nassit, H Berbia - 2018 IEEE/ACS 15th International …, 2018 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "M Nassit",
+          "link": "https://scholar.google.com/citations?user=Sd_l-TYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "H Berbia",
+          "link": "https://scholar.google.com/citations?user=BxqIy9cAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Sk_gCWRKyQUJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=416946234031361866&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "416946234031361866",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=416946234031361866&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Sk_gCWRKyQUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=416946234031361866&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "416946234031361866",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=416946234031361866&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 15,
+    "title": "Dynamic Detection of Software Defects Using Supervised Learning Techniques",
+    "result_id": "9l0UFBRBD_QJ",
+    "link": "https://search.proquest.com/openview/50c7a49bae36a747f3bd6d3070cbd349/1?pq-origsite=gscholar&cbl=52057",
+    "snippet": "In software testing, automatic detection of faults and defects in software is both complex and important. There are different techniques utilized to predict future defects. Machine learning is one of the most significant techniques used to build such prediction models. In this paper …",
+    "publication_info": {
+      "summary": "A Al-Nusirat, F Hanandeh… - International …, 2019 - search.proquest.com"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=9l0UFBRBD_QJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=17586346624397106678&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "17586346624397106678",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=17586346624397106678&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:9l0UFBRBD_QJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=17586346624397106678&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "17586346624397106678",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=17586346624397106678&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 16,
+    "title": "Supporting Source Code Comprehension During Software Evolution and Maintenance",
+    "result_id": "MZ1uGKkirRcJ",
+    "link": "https://rave.ohiolink.edu/etdc/view?acc_num=kent1374790792",
+    "snippet": "This dissertation addresses the problems of program comprehension to support the evolution of large-scale software systems. The research concerns how software engineers locate features and concepts along with categorizing changes within very large bodies of …",
+    "publication_info": {
+      "summary": "NT Alhindawi - 2013 - rave.ohiolink.edu",
+      "authors": [
+        {
+          "name": "NT Alhindawi",
+          "link": "https://scholar.google.com/citations?user=rNi_iLkAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ohiolink.edu",
+        "file_format": "PDF",
+        "link": "https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=kent1374790792&disposition=inline"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=MZ1uGKkirRcJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=1706057943498005809&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "1706057943498005809",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=1706057943498005809&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:MZ1uGKkirRcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=1706057943498005809&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "1706057943498005809",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=1706057943498005809&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:MZ1uGKkirRcJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  },
+  {
+    "position": 17,
+    "title": "Finding regressions in projects under version control systems",
+    "result_id": "btGnGWA2LegJ",
+    "link": "https://arxiv.org/abs/1708.06623",
+    "snippet": "Version Control Systems (VCS) are frequently used to support development of large-scale software projects. A typical VCS repository of a large project can contain various intertwined branches consisting of a large number of commits. If some kind of unwanted behaviour (eg a …",
+    "publication_info": {
+      "summary": "J Bendík, N Benes, I Cerna - arXiv preprint arXiv:1708.06623, 2017 - arxiv.org",
+      "authors": [
+        {
+          "name": "J Bendík",
+          "link": "https://scholar.google.com/citations?user=ZFKL2zcAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "N Benes",
+          "link": "https://scholar.google.com/citations?user=Yb4bSawAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "I Cerna",
+          "link": "https://scholar.google.com/citations?user=ktCv0pkAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/1708.06623"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=btGnGWA2LegJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=16730087977126449518&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "16730087977126449518",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=16730087977126449518&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:btGnGWA2LegJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=16730087977126449518&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "16730087977126449518",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=16730087977126449518&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:btGnGWA2LegJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  },
+  {
+    "position": 18,
+    "title": "Anti-patterns in Infrastructure as Code.",
+    "result_id": "pJtSIWS4UdYJ",
+    "type": "Pdf",
+    "link": "https://repository.lib.ncsu.edu/bitstream/handle/1840.20/36715/etd.pdf?sequence=1",
+    "snippet": "ABSTRACT RAHMAN, AKOND ASHFAQUE UR. Anti-patterns in Infrastructure as Code.(Under the direction of Laurie Williams). In continuous deployment, infrastructure as code (IaC) scripts are used by practitioners to create and manage an automated deployment …",
+    "publication_info": {
+      "summary": "AAU Rahman - 2019 - repository.lib.ncsu.edu",
+      "authors": [
+        {
+          "name": "AAU Rahman",
+          "link": "https://scholar.google.com/citations?user=6yZrePQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ncsu.edu",
+        "file_format": "PDF",
+        "link": "https://repository.lib.ncsu.edu/bitstream/handle/1840.20/36715/etd.pdf?sequence=1"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=pJtSIWS4UdYJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=15443327337425443748&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "15443327337425443748",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=15443327337425443748&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:pJtSIWS4UdYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=15443327337425443748&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "15443327337425443748",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=15443327337425443748&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:pJtSIWS4UdYJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  },
+  {
+    "position": 19,
+    "title": "Repeating the past experimental and empirical methods in system and software security",
+    "result_id": "quSlK2z2F5wJ",
+    "type": "Pdf",
+    "link": "https://d-nb.info/1005150052/34",
+    "snippet": "I propose a new method of analyzing intrusions: instead of analyzing evidence and deducing what must have happened, I find the intrusion-causing circumstances by a series of automatic experiments. I first capture process's system calls, and when an intrusion has …",
+    "publication_info": {
+      "summary": "S Neuhaus - 2008 - d-nb.info"
+    },
+    "resources": [
+      {
+        "title": "d-nb.info",
+        "file_format": "PDF",
+        "link": "https://d-nb.info/1005150052/34"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=quSlK2z2F5wJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=11247729538830296234&as_sdt=5,39&sciodt=0,39&hl=en&num=20",
+        "cites_id": "11247729538830296234",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cites=11247729538830296234&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:quSlK2z2F5wJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=11247729538830296234&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39",
+        "cluster_id": "11247729538830296234",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C39&cluster=11247729538830296234&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:quSlK2z2F5wJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,39&sciodt=0,39"
+    }
+  }
+]

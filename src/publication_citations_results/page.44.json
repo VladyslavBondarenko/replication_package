@@ -1,0 +1,642 @@
+[
+  {
+    "position": 0,
+    "title": "Using Citation Influence and Social Network Analysis to Predict Software Defects",
+    "result_id": "UBtg6LowMuAJ",
+    "link": "https://era.library.ualberta.ca/items/188349e7-b727-4a47-bd05-69aeb0396bf5",
+    "snippet": "Resource constraints, eg lack of time and human resources, is a major issue in software testing practice. In short, testers have limited time to test software systems. Therefore, managers are expected to spend more resources on software components that are likely to …",
+    "publication_info": {
+      "summary": "W Hu - 2013 - era.library.ualberta.ca"
+    },
+    "resources": [
+      {
+        "title": "ualberta.ca",
+        "file_format": "PDF",
+        "link": "https://era.library.ualberta.ca/items/188349e7-b727-4a47-bd05-69aeb0396bf5/view/7ba72a66-53c1-4679-abe3-953f8181ff08/Hu_Wei_Fall-202013.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=UBtg6LowMuAJ",
+      "cited_by": {
+        "total": 1,
+        "link": "https://scholar.google.com/scholar?cites=16155028392652053328&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "16155028392652053328",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16155028392652053328&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:UBtg6LowMuAJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=16155028392652053328&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "16155028392652053328",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16155028392652053328&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:UBtg6LowMuAJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 1,
+    "title": "Understanding the Evolution of Code Clones in Software Systems",
+    "result_id": "Ixmt6mDvBgcJ",
+    "type": "Pdf",
+    "link": "https://central.bac-lac.gc.ca/.item?id=TC-SSU-2013081173&op=pdf&app=Library&oclc_number=1032929481",
+    "snippet": "Code cloning is a common practice in software development. However, code cloning has both positive aspects such as accelerating the development process and negative aspects such as causing code bloat. After a decade of active research, it is clear that removing all of …",
+    "publication_info": {
+      "summary": "A Saha - 2013 - central.bac-lac.gc.ca"
+    },
+    "resources": [
+      {
+        "title": "bac-lac.gc.ca",
+        "file_format": "PDF",
+        "link": "https://central.bac-lac.gc.ca/.item?id=TC-SSU-2013081173&op=pdf&app=Library&oclc_number=1032929481"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Ixmt6mDvBgcJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Ixmt6mDvBgcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=506355207658871075&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "506355207658871075",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=506355207658871075&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Ixmt6mDvBgcJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 2,
+    "title": "Predicting Defects in SAP Products: A Replicated Study",
+    "result_id": "HHgN64WQGVkJ",
+    "type": "Pdf",
+    "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.572.145&rep=rep1&type=pdf",
+    "snippet": "Given a large body of code, how do we know where to focus our quality assurance effort? By mining the software's defect history, we can automatically learn which code features correlated with defects in the past—and leverage these correlations for new predictions:“In …",
+    "publication_info": {
+      "summary": "K Herzig, R Premraj, T Zimmermann, A Zeller… - Citeseer",
+      "authors": [
+        {
+          "name": "K Herzig",
+          "link": "https://scholar.google.com/citations?user=SO7DTfoAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Zimmermann",
+          "link": "https://scholar.google.com/citations?user=5zvbpooAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Zeller",
+          "link": "https://scholar.google.com/citations?user=-Qytr_YAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.572.145&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=HHgN64WQGVkJ",
+      "cited_by": {
+        "total": null,
+        "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.572.145&rep=rep1&type=pdf"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:HHgN64WQGVkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=6420321648641931292&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "6420321648641931292",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=6420321648641931292&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:HHgN64WQGVkJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 3,
+    "title": "Identity, Security and Safety in Product Lifecycle Data Management",
+    "result_id": "D-cx65DSKKMJ",
+    "type": "Pdf",
+    "link": "https://iot4cps.at/wp-content/uploads/2020/10/IoT4CPS_D5.4.2_FINAL.pdf",
+    "snippet": "For more information on this document or the IoT4CPS project, please contact: Mario Drobics, AIT Austrian Institute of Technology, mario.drobics@ait.ac.at … IoT4CPS – 863129 D5.4.2 Identity, Security and Safety in Product Lifecycle Data Management … Title: Identity, Security …",
+    "publication_info": {
+      "summary": "V Damjanovic-Behrendt, LH Bottler, K Diwold… - Sensors, 2017 - iot4cps.at",
+      "authors": [
+        {
+          "name": "V Damjanovic-Behrendt",
+          "link": "https://scholar.google.com/citations?user=OvZcqIsAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "iot4cps.at",
+        "file_format": "PDF",
+        "link": "https://iot4cps.at/wp-content/uploads/2020/10/IoT4CPS_D5.4.2_FINAL.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=D-cx65DSKKMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:D-cx65DSKKMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=11756878347113719567&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "11756878347113719567",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11756878347113719567&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:D-cx65DSKKMJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 4,
+    "title": "A Data-Mining Based Study of Security Vulnerability Types and Their Mitigation in Different Languages",
+    "result_id": "GiU96558Mf0J",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-58811-3_72",
+    "snippet": "The number of people accessing online services is increasing day by day, and with new users, comes a greater need for effective and responsive cyber-security. Our goal in this study was to find out if there are common patterns within the most widely used programming …",
+    "publication_info": {
+      "summary": "G Antal, B Mosolygó, N Vándor, P Hegedűs - International Conference on …, 2020 - Springer",
+      "authors": [
+        {
+          "name": "G Antal",
+          "link": "https://scholar.google.com/citations?user=Pidc14gAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "P Hegedűs",
+          "link": "https://scholar.google.com/citations?user=BddRfNEAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "mtak.hu",
+        "file_format": "PDF",
+        "link": "http://real.mtak.hu/114820/1/cpaper_szte_Antal%2B20iccsa.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=GiU96558Mf0J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:GiU96558Mf0J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=18244500587447919898&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "18244500587447919898",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=18244500587447919898&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 5,
+    "title": "Towards the Repayment of Self-Admitted Technical Debt",
+    "result_id": "ari87K1e5PUJ",
+    "type": "Pdf",
+    "link": "http://das.encs.concordia.ca/uploads/sierra_thesis.pdf",
+    "snippet": "In Software Engineering, Technical Debt (TD) is a metaphor used to express sub-optimal source code implementations introduced for short-term benefits which often must be paid back later, at an increased cost. Cunningham (1992) first used this metaphor to explain that …",
+    "publication_info": {
+      "summary": "G Sierra - 2019 - das.encs.concordia.ca",
+      "authors": [
+        {
+          "name": "G Sierra",
+          "link": "https://scholar.google.com/citations?user=Ki9mSLMAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "concordia.ca",
+        "file_format": "PDF",
+        "link": "http://das.encs.concordia.ca/uploads/sierra_thesis.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ari87K1e5PUJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ari87K1e5PUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:ari87K1e5PUJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 6,
+    "title": "An extensive empirical study of inconsistent labels in multi-version-project defect data sets",
+    "result_id": "-WKZ7b9T5C8J",
+    "link": "https://arxiv.org/abs/2101.11749",
+    "snippet": "The label quality of defect data sets has a direct influence on the reliability of defect prediction models. In this study, for multi-version-project defect data sets, we propose an approach to automatically detecting instances with inconsistent labels (ie the phenomena of …",
+    "publication_info": {
+      "summary": "S Liu, Z Guo, Y Li, C Wang, L Chen, Z Sun… - arXiv preprint arXiv …, 2021 - arxiv.org"
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2101.11749"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=-WKZ7b9T5C8J",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=3450975298262754041&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "3450975298262754041",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=3450975298262754041&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:-WKZ7b9T5C8J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 7,
+    "title": "The MSR Cookbook",
+    "result_id": "TUTo7elOTWQJ",
+    "type": "Pdf",
+    "link": "http://swag.uwaterloo.ca/~okononen/msr/msr13-hadi-review.pdf",
+    "snippet": "The Mining Software Repositories (MSR) research community has grown significantly since the first MSR workshop was held in 2004. As the community continues to broaden its scope and deepens its expertise, it is worthwhile to reflect on the best practices that our community …",
+    "publication_info": {
+      "summary": "H Hemmati, S Nadi, O Baysal, O Kononenko, W Wang… - swag.uwaterloo.ca",
+      "authors": [
+        {
+          "name": "H Hemmati",
+          "link": "https://scholar.google.com/citations?user=TznXpSIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Nadi",
+          "link": "https://scholar.google.com/citations?user=PxNO2g8AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "O Baysal",
+          "link": "https://scholar.google.com/citations?user=1yuYTRAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "O Kononenko",
+          "link": "https://scholar.google.com/citations?user=yphWC4oAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uwaterloo.ca",
+        "file_format": "PDF",
+        "link": "http://swag.uwaterloo.ca/~okononen/msr/msr13-hadi-review.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=TUTo7elOTWQJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:TUTo7elOTWQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 13,
+        "link": "https://scholar.google.com/scholar?cluster=7227519743625282637&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "7227519743625282637",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=7227519743625282637&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:TUTo7elOTWQJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 8,
+    "title": "Analysis of Cross-System Porting and Porting Errors in Software Projects",
+    "result_id": "bAMW7ozKd7cJ",
+    "type": "Pdf",
+    "link": "http://foresight.ifmo.ru/ict/shared/files/201309/1_18.pdf",
+    "snippet": "I would like to thank my family, friends, and mentors who helped me through out my graduate studies and made my PhD a fun experience. I am grateful to my advisor, Miryung Kim, for holding my hand in each step of the PhD program. She taught me how to be critical …",
+    "publication_info": {
+      "summary": "S Khurshid, DE Perry, S Person - foresight.ifmo.ru",
+      "authors": [
+        {
+          "name": "S Khurshid",
+          "link": "https://scholar.google.com/citations?user=bG5-ZzIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ifmo.ru",
+        "file_format": "PDF",
+        "link": "http://foresight.ifmo.ru/ict/shared/files/201309/1_18.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=bAMW7ozKd7cJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:bAMW7ozKd7cJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:bAMW7ozKd7cJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 9,
+    "title": "Empirical Software Linguistics: An Investigation of Code Reviews, Recommendations and Faults",
+    "result_id": "BhF-7lURKWYJ",
+    "link": "https://repository.tudelft.nl/islandora/object/uuid:ff7acb60-a3e9-4f72-9c8d-bc65398d8d6a",
+    "snippet": "Communication is fundamental to human nature and underlies many of its successes as a species. In recent decades, the adoption of increasingly abstract software languages has supported many advances in computer science and software engineering. Although in many …",
+    "publication_info": {
+      "summary": "VJ Hellendoorn - 2015 - repository.tudelft.nl",
+      "authors": [
+        {
+          "name": "VJ Hellendoorn",
+          "link": "https://scholar.google.com/citations?user=PfYrc5kAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=BhF-7lURKWYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:BhF-7lURKWYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:BhF-7lURKWYJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 10,
+    "title": "An initial investigation of concurrency bugs in open source systems",
+    "result_id": "Jfvi7kH8Ge8J",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-319-70578-1_8",
+    "snippet": "In the last 10 years CPUs have evolved focusing on performance improvements based on the introduction of multi-core architectures forcing developers to build software in a completely different way. Concurrent programming is now the main approach to improve …",
+    "publication_info": {
+      "summary": "P Ciancarini, F Poggi, D Rossi, A Sillitti - International Conference in …, 2016 - Springer",
+      "authors": [
+        {
+          "name": "P Ciancarini",
+          "link": "https://scholar.google.com/citations?user=71mmi78AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Poggi",
+          "link": "https://scholar.google.com/citations?user=vyA0BzUAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Sillitti",
+          "link": "https://scholar.google.com/citations?user=llB0z60AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "univpancasila.ac.id",
+        "file_format": "PDF",
+        "link": "http://perpus.univpancasila.ac.id/repository/EPROUPT180053.pdf#page=82"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Jfvi7kH8Ge8J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Jfvi7kH8Ge8J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=17229079209593469733&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "17229079209593469733",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17229079209593469733&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 11,
+    "title": "How bugs are born: a model to identify how bugs are introduced in software components",
+    "result_id": "gI037zbX3o0J",
+    "type": "Pdf",
+    "link": "https://research.tudelft.nl/files/70175683/Rodr_guez_P_rez2020_Article_HowBugsAreBornAModelToIdentify.pdf",
+    "snippet": "When identifying the origin of software bugs, many studies assume that “a bug was introduced by the lines of code that were modified to fix it”. However, this assumption does not always hold and at least in some cases, these modified lines are not responsible for …",
+    "publication_info": {
+      "summary": "A Zaidman, M Daniel, JM Gonzalez-Barahona - 2020 - research.tudelft.nl",
+      "authors": [
+        {
+          "name": "A Zaidman",
+          "link": "https://scholar.google.com/citations?user=CDTfcG4AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "JM Gonzalez-Barahona",
+          "link": "https://scholar.google.com/citations?user=vYIPWB0AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "tudelft.nl",
+        "file_format": "PDF",
+        "link": "https://research.tudelft.nl/files/70175683/Rodr_guez_P_rez2020_Article_HowBugsAreBornAModelToIdentify.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=gI037zbX3o0J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:gI037zbX3o0J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=10222844835119205760&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "10222844835119205760",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=10222844835119205760&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:gI037zbX3o0J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 12,
+    "title": "On the Impact of Inter-language Dependencies in Multi-language Systems",
+    "result_id": "OwNA8M7jpaEJ",
+    "type": "Pdf",
+    "link": "https://mcis.cs.queensu.ca/publications/2020/qrs_manel.pdf",
+    "snippet": "Nowadays, developers are often using mul-tiple programming languages to exploit the advantages of each language and to reuse code. However, dependency analysis across multi-language is more challenging compared to mono-language systems. In this paper, we …",
+    "publication_info": {
+      "summary": "M Grichi, M Abidi, F Jaafar, EE Eghan… - 2020 IEEE 20th …, 2020 - mcis.cs.queensu.ca",
+      "authors": [
+        {
+          "name": "F Jaafar",
+          "link": "https://scholar.google.com/citations?user=-wrKRnEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "EE Eghan",
+          "link": "https://scholar.google.com/citations?user=BqUiUL4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "queensu.ca",
+        "file_format": "PDF",
+        "link": "https://mcis.cs.queensu.ca/publications/2020/qrs_manel.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=OwNA8M7jpaEJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:OwNA8M7jpaEJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=11647966489197151035&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "11647966489197151035",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11647966489197151035&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:OwNA8M7jpaEJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 13,
+    "title": "Exploring the Security Awareness of the Python and JavaScript Open Source Communities",
+    "result_id": "nUuK8Dm76FMJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3379597.3387513",
+    "snippet": "Software security is undoubtedly a major concern in today's software engineering. Although the level of awareness of security issues is often high, practical experiences show that neither preventive actions nor reactions to possible issues are always addressed properly in …",
+    "publication_info": {
+      "summary": "G Antal, M Keleti, P Hegedŭs - … of the 17th International Conference on …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "G Antal",
+          "link": "https://scholar.google.com/citations?user=Pidc14gAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2006.13652"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=nUuK8Dm76FMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:nUuK8Dm76FMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 8,
+        "link": "https://scholar.google.com/scholar?cluster=6046288357268016029&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "6046288357268016029",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=6046288357268016029&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 14,
+    "title": "Global and Geographically Distributed Work Teams: Understanding the Bug Fixing Process and Potentially Bug-prone Activity Patterns",
+    "result_id": "CtmA8di0hPEJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/6178931/",
+    "snippet": "This dissertation has studied the roots of the errors introduced involuntary into the source code through the analysis of the history of source code management systems (SCMs). The event of introducing an error has been named as bug seeding commit, and its place in the …",
+    "publication_info": {
+      "summary": "D Izquierdo-Cortazar - 2012 16th European Conference on …, 2012 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "D Izquierdo-Cortazar",
+          "link": "https://scholar.google.com/citations?user=KNHcPS4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=CtmA8di0hPEJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:CtmA8di0hPEJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=17403233703924128010&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "17403233703924128010",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17403233703924128010&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 15,
+    "title": "Bug Patterns Detection from Android Apps",
+    "result_id": "53dC8n00CgcJ",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-13-0896-3_27",
+    "snippet": "Android has become the most popular OS because of its user-friendly environment, free-ware licensing and thousands of available applications. It is an open source for contributors and developers. The challenging problem in Android apps is to handle the bugs those are …",
+    "publication_info": {
+      "summary": "WY Ramay, A Akbar, M Sajjad - International Conference on Geo-Spatial …, 2017 - Springer"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=53dC8n00CgcJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:53dC8n00CgcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 16,
+    "title": "Conditional Domain Adversarial Adaptation for Heterogeneous Defect Prediction",
+    "result_id": "GBhv84fKxTMJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9169630/",
+    "snippet": "Heterogeneous defect prediction (HDP) has become a very active research field in software engineering, which predicts the maximum number of bug-suspiciousness modules of a target project by prediction models built on source project with heterogeneous metric set. At …",
+    "publication_info": {
+      "summary": "L Gong, S Jiang, L Jiang - IEEE Access, 2020 - ieeexplore.ieee.org"
+    },
+    "resources": [
+      {
+        "title": "ieee.org",
+        "file_format": "PDF",
+        "link": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09169630.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=GBhv84fKxTMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:GBhv84fKxTMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 17,
+    "title": "TA-RE: An exchange language for mining software repositories",
+    "result_id": "hnb489n1V1YJ",
+    "type": "Pdf",
+    "link": "https://www.academia.edu/download/51242110/TA-RE_an_exchange_language_for_mining_so20170107-7201-7oufxo.pdf",
+    "snippet": "Software repositories have been getting a lot of attention from researchers in recent years. In order to analyze software repositories, it is necessary to first extract raw data from the version control and problem tracking systems. This poses two challenges:(1) extraction …",
+    "publication_info": {
+      "summary": "AE Hassan - 2006 - academia.edu",
+      "authors": [
+        {
+          "name": "AE Hassan",
+          "link": "https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "academia.edu",
+        "file_format": "PDF",
+        "link": "https://www.academia.edu/download/51242110/TA-RE_an_exchange_language_for_mining_so20170107-7201-7oufxo.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=hnb489n1V1YJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:hnb489n1V1YJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:hnb489n1V1YJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 18,
+    "title": "Teaching Programming on Cloud: A Perspective Beyond Programming",
+    "result_id": "aSnc9m-izDoJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7396219/",
+    "snippet": "This paper presents the design and implementation of a programming on cloud course. Teaching programming on cloud embraces topics of the cloud service model, architectural patterns, REST APIs, data models, schema free databases, the MapReduce paradigm and …",
+    "publication_info": {
+      "summary": "Y Liu - 2015 IEEE 7th International Conference on Cloud …, 2015 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "Y Liu",
+          "link": "https://scholar.google.com/citations?user=7yrUAMsAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=aSnc9m-izDoJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:aSnc9m-izDoJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=4236939951215487337&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "4236939951215487337",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=4236939951215487337&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 19,
+    "title": "How Developers Diagnose and Repair Software Bugs",
+    "result_id": "ykDz9kMAlWAJ",
+    "type": "Pdf",
+    "link": "https://www.st.cs.uni-saarland.de/debugging/dbgbench/dbgbench.pdf",
+    "snippet": "How do practitioners debug computer programs? In a retrospective study with 180 respondents and an observational study with 12 practitioners, we collect and discuss data on how developers spend their time on diagnosis and fixing bugs, with key findings on tools …",
+    "publication_info": {
+      "summary": "M Böhme, EO Soremekun, S Chattopadhyay… - st.cs.uni-saarland.de",
+      "authors": [
+        {
+          "name": "M Böhme",
+          "link": "https://scholar.google.com/citations?user=cWmLE6oAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "EO Soremekun",
+          "link": "https://scholar.google.com/citations?user=r8T1-yoAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Chattopadhyay",
+          "link": "https://scholar.google.com/citations?user=ngOBIzAAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uni-saarland.de",
+        "file_format": "PDF",
+        "link": "https://www.st.cs.uni-saarland.de/debugging/dbgbench/dbgbench.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ykDz9kMAlWAJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ykDz9kMAlWAJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ykDz9kMAlWAJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  }
+]

@@ -1,0 +1,864 @@
+[
+  {
+    "position": 0,
+    "title": "Mining version histories to guide software changes",
+    "result_id": "0HMs5DDUJ_sJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/1463228/",
+    "snippet": "We apply data mining to version histories in order to guide programmers along related changes:\" Programmers who changed these functions also changed....\" Given a set of existing changes, the mined association rules 1) suggest and predict likely further changes …",
+    "publication_info": {
+      "summary": "T Zimmermann, A Zeller… - IEEE Transactions on …, 2005 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "T Zimmermann",
+          "link": "https://scholar.google.com/citations?user=5zvbpooAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Zeller",
+          "link": "https://scholar.google.com/citations?user=-Qytr_YAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uni-sb.de",
+        "file_format": "PDF",
+        "link": "http://www.st.cs.uni-sb.de/publications/files/zimmermann-thesis-2004.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=0HMs5DDUJ_sJ",
+      "cited_by": {
+        "total": 1571,
+        "link": "https://scholar.google.com/scholar?cites=18097666934063264720&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "18097666934063264720",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=18097666934063264720&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:0HMs5DDUJ_sJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 31,
+        "link": "https://scholar.google.com/scholar?cluster=18097666934063264720&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "18097666934063264720",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=18097666934063264720&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 1,
+    "title": "Mining metrics to predict component failures",
+    "result_id": "XKFUkxYnjNcJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/1134285.1134349",
+    "snippet": "What is it that makes software fail? In an empirical study of the post-release defect history of five Microsoft software systems, we found that failure-prone software entities are statistically correlated with code complexity measures. However, there is no single set of complexity …",
+    "publication_info": {
+      "summary": "N Nagappan, T Ball, A Zeller - … of the 28th international conference on …, 2006 - dl.acm.org",
+      "authors": [
+        {
+          "name": "N Nagappan",
+          "link": "https://scholar.google.com/citations?user=Nzx_7P8AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Ball",
+          "link": "https://scholar.google.com/citations?user=d2f0VUQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Zeller",
+          "link": "https://scholar.google.com/citations?user=-Qytr_YAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "core.ac.uk",
+        "file_format": "PDF",
+        "link": "https://core.ac.uk/download/pdf/22873079.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=XKFUkxYnjNcJ",
+      "cited_by": {
+        "total": 956,
+        "link": "https://scholar.google.com/scholar?cites=15531832192808558940&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "15531832192808558940",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=15531832192808558940&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:XKFUkxYnjNcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 21,
+        "link": "https://scholar.google.com/scholar?cluster=15531832192808558940&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "15531832192808558940",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=15531832192808558940&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 2,
+    "title": "Predicting defects for eclipse",
+    "result_id": "uh80TCgfI4wJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/4273265/",
+    "snippet": "We have mapped defects from the bug database of eclipse (one of the largest open-source projects) to source code locations. The resulting data set lists the number of pre-and post-release defects for every package and file in the eclipse releases 2.0, 2.1, and 3.0. We …",
+    "publication_info": {
+      "summary": "T Zimmermann, R Premraj… - … International Workshop on …, 2007 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "T Zimmermann",
+          "link": "https://scholar.google.com/citations?user=5zvbpooAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "boxmate.org",
+        "file_format": "PDF",
+        "link": "https://www.boxmate.org/softevo/bug-data/eclipse/promise2007-dataset-20a.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=uh80TCgfI4wJ",
+      "cited_by": {
+        "total": 810,
+        "link": "https://scholar.google.com/scholar?cites=10097949047432421306&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "10097949047432421306",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=10097949047432421306&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:uh80TCgfI4wJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 23,
+        "link": "https://scholar.google.com/scholar?cluster=10097949047432421306&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "10097949047432421306",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=10097949047432421306&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 3,
+    "title": "Why programs fail: a guide to systematic debugging",
+    "result_id": "UNOg-wW8omkJ",
+    "type": "Book",
+    "link": "https://books.google.com/books?hl=en&lr=lang_en&id=_63Bm4LAdDIC&oi=fnd&pg=PP1&ots=TCrp17zBN4&sig=GADav6v7UOZxJXXTlCMC53LDgeI",
+    "snippet": "Why Programs Fail: A Guide to Systematic Debugging is proof that debugging has graduated from a black art to a systematic discipline. It demystifies one of the toughest aspects of software programming, showing clearly how to discover what caused software …",
+    "publication_info": {
+      "summary": "A Zeller - 2009 - books.google.com",
+      "authors": [
+        {
+          "name": "A Zeller",
+          "link": "https://scholar.google.com/citations?user=-Qytr_YAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=UNOg-wW8omkJ",
+      "cited_by": {
+        "total": 725,
+        "link": "https://scholar.google.com/scholar?cites=7611853054092038992&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "7611853054092038992",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7611853054092038992&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:UNOg-wW8omkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 9,
+        "link": "https://scholar.google.com/scholar?cluster=7611853054092038992&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "7611853054092038992",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=7611853054092038992&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 4,
+    "title": "Change distilling: Tree differencing for fine-grained source code change extraction",
+    "result_id": "o8TjS3q6P1kJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/4339230/",
+    "snippet": "A key issue in software evolution analysis is the identification of particular changes that occur across several versions of a program. We present change distilling, a tree differencing algorithm for fine-grained source code change extraction. For that, we have improved the …",
+    "publication_info": {
+      "summary": "B Fluri, M Wursch, M PInzger… - IEEE Transactions on …, 2007 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "M PInzger",
+          "link": "https://scholar.google.com/citations?user=MTZ0l60AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=o8TjS3q6P1kJ",
+      "cited_by": {
+        "total": 646,
+        "link": "https://scholar.google.com/scholar?cites=6431063827330352291&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "6431063827330352291",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=6431063827330352291&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:o8TjS3q6P1kJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cluster=6431063827330352291&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "6431063827330352291",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=6431063827330352291&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 5,
+    "title": "Classifying software changes: Clean or buggy?",
+    "result_id": "N3zpHxCWQ94J",
+    "link": "https://ieeexplore.ieee.org/abstract/document/4408585/",
+    "snippet": "This paper introduces a new technique for predicting latent software bugs, called change classification. Change classification uses a machine learning classifier to determine whether a new software change is more similar to prior buggy changes or clean changes. In this …",
+    "publication_info": {
+      "summary": "S Kim, EJ Whitehead, Y Zhang - IEEE Transactions on Software …, 2008 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "S Kim",
+          "link": "https://scholar.google.com/citations?user=JE_m2UgAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "EJ Whitehead",
+          "link": "https://scholar.google.com/citations?user=_2UkAYEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "Y Zhang",
+          "link": "https://scholar.google.com/citations?user=XnGXs7oAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.2942&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=N3zpHxCWQ94J",
+      "cited_by": {
+        "total": 603,
+        "link": "https://scholar.google.com/scholar?cites=16015809695858654263&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "16015809695858654263",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=16015809695858654263&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:N3zpHxCWQ94J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 12,
+        "link": "https://scholar.google.com/scholar?cluster=16015809695858654263&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "16015809695858654263",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=16015809695858654263&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 6,
+    "title": "Predicting faults from cached history",
+    "result_id": "rmD2VRO1sgQJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/4222610/",
+    "snippet": "We analyze the version history of 7 software systems to predict the most fault prone entities and files. The basic assumption is that faults do not occur in isolation, but rather in bursts of several related faults. Therefore, we cache locations that are likely to have faults: starting …",
+    "publication_info": {
+      "summary": "S Kim, T Zimmermann… - … Engineering (ICSE'07), 2007 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "S Kim",
+          "link": "https://scholar.google.com/citations?user=JE_m2UgAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Zimmermann",
+          "link": "https://scholar.google.com/citations?user=5zvbpooAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ust.hk",
+        "file_format": "PDF",
+        "link": "https://home.cse.ust.hk/~hunkim/images/3/37/Papers_kim_2007_bugcache.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=rmD2VRO1sgQJ",
+      "cited_by": {
+        "total": 582,
+        "link": "https://scholar.google.com/scholar?cites=338532016657424558&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "338532016657424558",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=338532016657424558&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:rmD2VRO1sgQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 36,
+        "link": "https://scholar.google.com/scholar?cluster=338532016657424558&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "338532016657424558",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=338532016657424558&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 7,
+    "title": "A survey and taxonomy of approaches for mining software repositories in the context of software evolution",
+    "result_id": "k2rCsUS5LRsJ",
+    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.344",
+    "snippet": "A comprehensive literature survey on approaches for mining software repositories (MSR) in the context of software evolution is presented. In particular, this survey deals with those investigations that examine multiple versions of software artifacts or other temporal …",
+    "publication_info": {
+      "summary": "H Kagdi, ML Collard, JI Maletic - Journal of software …, 2007 - Wiley Online Library",
+      "authors": [
+        {
+          "name": "H Kagdi",
+          "link": "https://scholar.google.com/citations?user=pjtXU_0AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "ML Collard",
+          "link": "https://scholar.google.com/citations?user=O3viS-kAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "JI Maletic",
+          "link": "https://scholar.google.com/citations?user=n9_W4kYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "kent.edu",
+        "file_format": "PDF",
+        "link": "http://www.cs.kent.edu/~jmaletic/papers/JSME07-survey.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=k2rCsUS5LRsJ",
+      "cited_by": {
+        "total": 521,
+        "link": "https://scholar.google.com/scholar?cites=1958425117667256979&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "1958425117667256979",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=1958425117667256979&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:k2rCsUS5LRsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 13,
+        "link": "https://scholar.google.com/scholar?cluster=1958425117667256979&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "1958425117667256979",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=1958425117667256979&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 8,
+    "title": "Fair and balanced? bias in bug-fix datasets",
+    "result_id": "wmJZsMWhSKsJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/1595696.1595716",
+    "snippet": "Software engineering researchers have long been interested in where and why bugs occur in code, and in predicting where they might turn up next. Historical bug-occurence data has been key to this research. Bug tracking systems, and code version histories, record when …",
+    "publication_info": {
+      "summary": "C Bird, A Bachmann, E Aune, J Duffy… - Proceedings of the 7th …, 2009 - dl.acm.org",
+      "authors": [
+        {
+          "name": "C Bird",
+          "link": "https://scholar.google.com/citations?user=aDVlS-wAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Bachmann",
+          "link": "https://scholar.google.com/citations?user=fiIfpWQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uzh.ch",
+        "file_format": "PDF",
+        "link": "https://www.zora.uzh.ch/id/eprint/25866/2/fair_and_balancedV.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=wmJZsMWhSKsJ",
+      "cited_by": {
+        "total": 416,
+        "link": "https://scholar.google.com/scholar?cites=12342292649248121538&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "12342292649248121538",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=12342292649248121538&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:wmJZsMWhSKsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 15,
+        "link": "https://scholar.google.com/scholar?cluster=12342292649248121538&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "12342292649248121538",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=12342292649248121538&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 9,
+    "title": "Is it a bug or an enhancement? A text-based approach to classify change requests",
+    "result_id": "R_b3W-E6TSwJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/1463788.1463819",
+    "snippet": "Bug tracking systems are valuable assets for managing maintenance activities. They are widely used in open-source projects as well as in the software industry. They collect many different kinds of issues: requests for defect fixing, enhancements, refactoring/restructuring …",
+    "publication_info": {
+      "summary": "G Antoniol, K Ayari, M Di Penta, F Khomh… - Proceedings of the …, 2008 - dl.acm.org",
+      "authors": [
+        {
+          "name": "G Antoniol",
+          "link": "https://scholar.google.com/citations?user=136elhQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "M Di Penta",
+          "link": "https://scholar.google.com/citations?user=j6ucyOAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Khomh",
+          "link": "https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "polymtl.ca",
+        "file_format": "PDF",
+        "link": "http://swat.polymtl.ca/~foutsekh/docs/CASCON'08.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=R_b3W-E6TSwJ",
+      "cited_by": {
+        "total": 404,
+        "link": "https://scholar.google.com/scholar?cites=3192272450460579399&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "3192272450460579399",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=3192272450460579399&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:R_b3W-E6TSwJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 9,
+        "link": "https://scholar.google.com/scholar?cluster=3192272450460579399&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "3192272450460579399",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=3192272450460579399&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 10,
+    "title": "Predicting vulnerable software components",
+    "result_id": "6FcQCtRQUJ4J",
+    "link": "https://dl.acm.org/doi/abs/10.1145/1315245.1315311",
+    "snippet": "Where do most vulnerabilities occur in software? Our Vulture tool automatically mines existing vulnerability databases and version archives to map past vulnerabilities to components. The resulting ranking of the most vulnerable components is a perfect base for …",
+    "publication_info": {
+      "summary": "S Neuhaus, T Zimmermann, C Holler… - Proceedings of the 14th …, 2007 - dl.acm.org",
+      "authors": [
+        {
+          "name": "T Zimmermann",
+          "link": "https://scholar.google.com/citations?user=5zvbpooAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.8861&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=6FcQCtRQUJ4J",
+      "cited_by": {
+        "total": 387,
+        "link": "https://scholar.google.com/scholar?cites=11407706727761598440&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "11407706727761598440",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=11407706727761598440&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:6FcQCtRQUJ4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 17,
+        "link": "https://scholar.google.com/scholar?cluster=11407706727761598440&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "11407706727761598440",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=11407706727761598440&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 11,
+    "title": "It's not a bug, it's a feature: how misclassification impacts bug prediction",
+    "result_id": "uaTr9FWUawEJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/6606585/",
+    "snippet": "In a manual examination of more than 7,000 issue reports from the bug databases of five open-source projects, we found 33.8% of all bug reports to be misclassified-that is, rather than referring to a code fix, they resulted in a new feature, an update to documentation, or an …",
+    "publication_info": {
+      "summary": "K Herzig, S Just, A Zeller - 2013 35th International Conference …, 2013 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "K Herzig",
+          "link": "https://scholar.google.com/citations?user=SO7DTfoAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Just",
+          "link": "https://scholar.google.com/citations?user=zdgrkOsAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Zeller",
+          "link": "https://scholar.google.com/citations?user=-Qytr_YAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "gi.de",
+        "file_format": "PDF",
+        "link": "https://dl.gi.de/bitstream/handle/20.500.12116/2512/103.pdf?sequence=1"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=uaTr9FWUawEJ",
+      "cited_by": {
+        "total": 363,
+        "link": "https://scholar.google.com/scholar?cites=102338513448182969&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "102338513448182969",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=102338513448182969&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:uaTr9FWUawEJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 12,
+        "link": "https://scholar.google.com/scholar?cluster=102338513448182969&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "102338513448182969",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=102338513448182969&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 12,
+    "title": "See all by looking at a few: Sparse modeling for finding representative objects",
+    "result_id": "-Qj1TNWalv4J",
+    "link": "https://ieeexplore.ieee.org/abstract/document/6247852/",
+    "snippet": "We consider the problem of finding a few representatives for a dataset, ie, a subset of data points that efficiently describes the entire dataset. We assume that each data point can be expressed as a linear combination of the representatives and formulate the problem of …",
+    "publication_info": {
+      "summary": "E Elhamifar, G Sapiro, R Vidal - 2012 IEEE conference on …, 2012 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "E Elhamifar",
+          "link": "https://scholar.google.com/citations?user=cpgUf6wAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "G Sapiro",
+          "link": "https://scholar.google.com/citations?user=ISRNX3gAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "R Vidal",
+          "link": "https://scholar.google.com/citations?user=uT8fgagAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.9058&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=-Qj1TNWalv4J",
+      "cited_by": {
+        "total": 363,
+        "link": "https://scholar.google.com/scholar?cites=18345020373050132729&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "18345020373050132729",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=18345020373050132729&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:-Qj1TNWalv4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 11,
+        "link": "https://scholar.google.com/scholar?cluster=18345020373050132729&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "18345020373050132729",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=18345020373050132729&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 13,
+    "title": "A large-scale empirical study of just-in-time quality assurance",
+    "result_id": "PYIO9L3_Jq4J",
+    "link": "https://ieeexplore.ieee.org/abstract/document/6341763/",
+    "snippet": "Defect prediction models are a well-known technique for identifying defect-prone files or packages such that practitioners can allocate their quality assurance efforts (eg, testing and code reviews). However, once the critical files or packages have been identified, developers …",
+    "publication_info": {
+      "summary": "Y Kamei, E Shihab, B Adams… - IEEE Transactions …, 2012 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "Y Kamei",
+          "link": "https://scholar.google.com/citations?user=O0-BQaQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "E Shihab",
+          "link": "https://scholar.google.com/citations?user=kF76KPAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "B Adams",
+          "link": "https://scholar.google.com/citations?user=XS9QH_UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=PYIO9L3_Jq4J",
+      "cited_by": {
+        "total": 342,
+        "link": "https://scholar.google.com/scholar?cites=12548998603022959165&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "12548998603022959165",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=12548998603022959165&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:PYIO9L3_Jq4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 8,
+        "link": "https://scholar.google.com/scholar?cluster=12548998603022959165&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "12548998603022959165",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=12548998603022959165&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 14,
+    "title": "Relink: recovering links between bugs and changes",
+    "result_id": "NwDRshfCIkYJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/2025113.2025120",
+    "snippet": "Software defect information, including links between bugs and committed changes, plays an important role in software maintenance such as measuring quality and predicting defects. Usually, the links are automatically mined from change logs and bug reports using heuristics …",
+    "publication_info": {
+      "summary": "R Wu, H Zhang, S Kim, SC Cheung - Proceedings of the 19th ACM …, 2011 - dl.acm.org",
+      "authors": [
+        {
+          "name": "R Wu",
+          "link": "https://scholar.google.com/citations?user=xdxTt38AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "H Zhang",
+          "link": "https://scholar.google.com/citations?user=zsUN6PkAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Kim",
+          "link": "https://scholar.google.com/citations?user=JE_m2UgAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "SC Cheung",
+          "link": "https://scholar.google.com/citations?user=5RIgb3wAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ust.hk",
+        "file_format": "PDF",
+        "link": "https://www.cse.ust.hk/~hunkim/images/b/b6/Relink_fse2011.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=NwDRshfCIkYJ",
+      "cited_by": {
+        "total": 324,
+        "link": "https://scholar.google.com/scholar?cites=5053815138903195703&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "5053815138903195703",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=5053815138903195703&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:NwDRshfCIkYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 12,
+        "link": "https://scholar.google.com/scholar?cluster=5053815138903195703&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "5053815138903195703",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=5053815138903195703&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 15,
+    "title": "Do crosscutting concerns cause defects?",
+    "result_id": "gKB-0cXx9vkJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/4527257/",
+    "snippet": "There is a growing consensus that crosscutting concerns harm code quality. An example of a crosscutting concern is a functional requirement whose implementation is distributed across multiple software modules. We asked the question,\" How much does the amount that …",
+    "publication_info": {
+      "summary": "M Eaddy, T Zimmermann, KD Sherwood… - IEEE transactions on …, 2008 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "M Eaddy",
+          "link": "https://scholar.google.com/citations?user=X9yugiEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Zimmermann",
+          "link": "https://scholar.google.com/citations?user=5zvbpooAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.487.5777&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=gKB-0cXx9vkJ",
+      "cited_by": {
+        "total": 318,
+        "link": "https://scholar.google.com/scholar?cites=18011849591640465536&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "18011849591640465536",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=18011849591640465536&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:gKB-0cXx9vkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 13,
+        "link": "https://scholar.google.com/scholar?cluster=18011849591640465536&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "18011849591640465536",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=18011849591640465536&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 16,
+    "title": "Dealing with noise in defect prediction",
+    "result_id": "-IGY4JmuLTsJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/6032487/",
+    "snippet": "Many software defect prediction models have been built using historical defect data obtained by mining software repositories (MSR). Recent studies have discovered that data so collected contain noises because current defect collection practices are based on …",
+    "publication_info": {
+      "summary": "S Kim, H Zhang, R Wu, L Gong - 2011 33rd International …, 2011 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "S Kim",
+          "link": "https://scholar.google.com/citations?user=JE_m2UgAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "H Zhang",
+          "link": "https://scholar.google.com/citations?user=zsUN6PkAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "R Wu",
+          "link": "https://scholar.google.com/citations?user=xdxTt38AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "L Gong",
+          "link": "https://scholar.google.com/citations?user=GA9tAsYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Rongxin_Wu/publication/221556058_Dealing_with_noise_in_defect_prediction/links/0deec536ccea82528e000000.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=-IGY4JmuLTsJ",
+      "cited_by": {
+        "total": 318,
+        "link": "https://scholar.google.com/scholar?cites=4264256398111048184&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "4264256398111048184",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=4264256398111048184&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:-IGY4JmuLTsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 17,
+        "link": "https://scholar.google.com/scholar?cluster=4264256398111048184&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "4264256398111048184",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=4264256398111048184&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 17,
+    "title": "Automatic identification of bug-introducing changes",
+    "result_id": "fG4YJOvVNmkJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/4019564/",
+    "snippet": "Bug-fixes are widely used for predicting bugs or finding risky parts of software. However, a bug-fix does not contain information about the change that initially introduced a bug. Such bug-introducing changes can help identify important properties of software bugs such as …",
+    "publication_info": {
+      "summary": "S Kim, T Zimmermann, K Pan… - 21st IEEE/ACM …, 2006 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "S Kim",
+          "link": "https://scholar.google.com/citations?user=JE_m2UgAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Zimmermann",
+          "link": "https://scholar.google.com/citations?user=5zvbpooAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ucalgary.ca",
+        "file_format": "PDF",
+        "link": "http://pages.cpsc.ucalgary.ca/~zimmerth/talks/ase2006.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=fG4YJOvVNmkJ",
+      "cited_by": {
+        "total": 312,
+        "link": "https://scholar.google.com/scholar?cites=7581482228624420476&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "7581482228624420476",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=7581482228624420476&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:fG4YJOvVNmkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 12,
+        "link": "https://scholar.google.com/scholar?cluster=7581482228624420476&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "7581482228624420476",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=7581482228624420476&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 18,
+    "title": "Characterizing and predicting which bugs get fixed: an empirical study of microsoft windows",
+    "result_id": "ZNnLdz76gA0J",
+    "link": "https://dl.acm.org/doi/abs/10.1145/1806799.1806871",
+    "snippet": "We performed an empirical study to characterize factors that affect which bugs get fixed in Windows Vista and Windows 7, focusing on factors related to bug report edits and relationships between people involved in handling the bug. We found that bugs reported by …",
+    "publication_info": {
+      "summary": "PJ Guo, T Zimmermann, N Nagappan… - Proceedings of the 32Nd …, 2010 - dl.acm.org",
+      "authors": [
+        {
+          "name": "PJ Guo",
+          "link": "https://scholar.google.com/citations?user=CKXeqHoAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Zimmermann",
+          "link": "https://scholar.google.com/citations?user=5zvbpooAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "N Nagappan",
+          "link": "https://scholar.google.com/citations?user=Nzx_7P8AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "anl.gov",
+        "file_format": "PDF",
+        "link": "https://www.mcs.anl.gov/~ketan/Papers/guo_icse10_camera_ready.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ZNnLdz76gA0J",
+      "cited_by": {
+        "total": 290,
+        "link": "https://scholar.google.com/scholar?cites=973052665716791652&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "973052665716791652",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=973052665716791652&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ZNnLdz76gA0J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 11,
+        "link": "https://scholar.google.com/scholar?cluster=973052665716791652&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "973052665716791652",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=973052665716791652&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 19,
+    "title": "Using complexity, coupling, and cohesion metrics as early indicators of vulnerabilities",
+    "result_id": "AM1CnBWz5dgJ",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1383762110000615",
+    "snippet": "Software security failures are common and the problem is growing. A vulnerability is a weakness in the software that, when exploited, causes a security failure. It is difficult to detect vulnerabilities until they manifest themselves as security failures in the operational stage of …",
+    "publication_info": {
+      "summary": "I Chowdhury, M Zulkernine - Journal of Systems Architecture, 2011 - Elsevier"
+    },
+    "resources": [
+      {
+        "title": "bac-lac.gc.ca",
+        "file_format": "PDF",
+        "link": "https://central.bac-lac.gc.ca/.item?id=MR65165&op=pdf&app=Library&oclc_number=772685198"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=AM1CnBWz5dgJ",
+      "cited_by": {
+        "total": 256,
+        "link": "https://scholar.google.com/scholar?cites=15629094987256483072&as_sdt=400005&sciodt=0,14&hl=en&num=20",
+        "cites_id": "15629094987256483072",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=15629094987256483072&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:AM1CnBWz5dgJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=15629094987256483072&hl=en&lr=lang_en&num=20&as_sdt=400005&sciodt=0,14",
+        "cluster_id": "15629094987256483072",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cluster=15629094987256483072&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  }
+]

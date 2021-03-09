@@ -1,0 +1,613 @@
+[
+  {
+    "position": 0,
+    "title": "Misalignments of software quality models",
+    "result_id": "_3_fVWoAj8MJ",
+    "type": "Book",
+    "link": "https://search.proquest.com/openview/9b6c7aef6c4a270765a0e3b9116e630f/1?pq-origsite=gscholar&cbl=18750&diss=y",
+    "snippet": "Software defects are expensive, costing the US economy $60 billion annually [1]. However, quality control techniques are expensive and are further constrained by the availability of resources. Therefore, a large body of research focuses on efficient quality control activities …",
+    "publication_info": {
+      "summary": "MF Rahman - 2013 - search.proquest.com"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=_3_fVWoAj8MJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:_3_fVWoAj8MJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 1,
+    "title": "The Impact of Classifier Configuration and Classifier Combination on Bug Localization",
+    "result_id": "f8RPVmWAlgAJ",
+    "type": "Pdf",
+    "link": "https://cs.uwaterloo.ca/~m2nagapp/publications/pdfs/The-Impact-of-Classifier-Configuration-and-Classifier-Combination-on-Bug-Localization.pdf",
+    "snippet": "Bug localization is the task of determining which source code entities are relevant to a bug report. Manual bug localization is labor intensive, since developers must consider thousands of source code entities. Current research builds bug localization classifiers …",
+    "publication_info": {
+      "summary": "AE Hassan - cs.uwaterloo.ca",
+      "authors": [
+        {
+          "name": "AE Hassan",
+          "link": "https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uwaterloo.ca",
+        "file_format": "PDF",
+        "link": "https://cs.uwaterloo.ca/~m2nagapp/publications/pdfs/The-Impact-of-Classifier-Configuration-and-Classifier-Combination-on-Bug-Localization.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=f8RPVmWAlgAJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:f8RPVmWAlgAJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=42362419234718847&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+        "cluster_id": "42362419234718847",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cluster=42362419234718847&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:f8RPVmWAlgAJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 2,
+    "title": "Home Research",
+    "result_id": "oYdnV0USPWwJ",
+    "type": "Html",
+    "link": "http://www.elff.org.uk/research/",
+    "snippet": "Background Finding and fixing faults in software costs the UK software industry billions of pounds every year. Faults can occur in many software artefacts, but here we focus only on faults found in code. The proliferation of models developed in the last 20 years which predict …",
+    "publication_info": {
+      "summary": "FEB Home, T Hall, D Bowes, S Counsell, T Shippey… - elff.org.uk",
+      "authors": [
+        {
+          "name": "T Hall",
+          "link": "https://scholar.google.com/citations?user=TPQhlqgAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Counsell",
+          "link": "https://scholar.google.com/citations?user=It_Dl_UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "elff.org.uk",
+        "file_format": "HTML",
+        "link": "http://www.elff.org.uk/research/"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=oYdnV0USPWwJ",
+      "html_version": "http://www.elff.org.uk/research/",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:oYdnV0USPWwJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:oYdnV0USPWwJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 3,
+    "title": "Predicting Defects with Causality Tests",
+    "result_id": "pYjsV_z4Sw4J",
+    "type": "Pdf",
+    "link": "http://www.llp.dcc.ufmg.br/Publications/Journal2014/2014-jss-cesar-predicting.pdf",
+    "snippet": "Defect prediction is an important challenge for software engineering research [2, 7, 11, 19, 31]. The goal is to build reliable predictors that can indicate in advance those components of a software system that are more likely to fail. The availability of this information is of central …",
+    "publication_info": {
+      "summary": "C Couto, P Pires, MT Valente, RS Bigonha, N Anquetil - llp.dcc.ufmg.br",
+      "authors": [
+        {
+          "name": "MT Valente",
+          "link": "https://scholar.google.com/citations?user=0vFkqMIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "RS Bigonha",
+          "link": "https://scholar.google.com/citations?user=B57bRIUAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "N Anquetil",
+          "link": "https://scholar.google.com/citations?user=DSMdD9UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ufmg.br",
+        "file_format": "PDF",
+        "link": "http://www.llp.dcc.ufmg.br/Publications/Journal2014/2014-jss-cesar-predicting.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=pYjsV_z4Sw4J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:pYjsV_z4Sw4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=1030190702474856613&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+        "cluster_id": "1030190702474856613",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cluster=1030190702474856613&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:pYjsV_z4Sw4J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 4,
+    "title": "The Relation of Test-Related Factors to Software Quality: A Case Study on Apache Systems",
+    "result_id": "0jXCWVmF5WUJ",
+    "type": "Html",
+    "link": "https://link.springer.com/article/10.1007/s10664-020-09891-y",
+    "snippet": "Testing represents a crucial activity to ensure software quality. Recent studies have shown that test-related factors (eg, code coverage) can be reliable predictors of software code quality, as measured by post-release defects. While these studies provided initial compelling …",
+    "publication_info": {
+      "summary": "F Pecorelli, F Palomba, A De Lucia - Empirical Software Engineering, 2021 - Springer",
+      "authors": [
+        {
+          "name": "F Pecorelli",
+          "link": "https://scholar.google.com/citations?user=HVvH1tYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Palomba",
+          "link": "https://scholar.google.com/citations?user=hwcOgd4AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A De Lucia",
+          "link": "https://scholar.google.com/citations?user=iyx0u6kAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "springer.com",
+        "file_format": "HTML",
+        "link": "https://link.springer.com/article/10.1007/s10664-020-09891-y"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=0jXCWVmF5WUJ",
+      "html_version": "https://link.springer.com/article/10.1007/s10664-020-09891-y",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=7342421386301945298&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+        "cluster_id": "7342421386301945298",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cluster=7342421386301945298&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 5,
+    "title": "Build failure prediction in continuous integration workflows",
+    "result_id": "1yFPW6TLXb4J",
+    "link": "https://repositum.tuwien.at/handle/20.500.12708/3329",
+    "snippet": "Continuous integration (CI) is a practice where developers integrate their work into the main stream of development frequently. A CI server monitors the source code repository of a project and automatically executes the software build process when new changes are …",
+    "publication_info": {
+      "summary": "T Rausch - 2016 - repositum.tuwien.at",
+      "authors": [
+        {
+          "name": "T Rausch",
+          "link": "https://scholar.google.com/citations?user=1hzPMR4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "tuwien.at",
+        "file_format": "PDF",
+        "link": "https://repositum.tuwien.at/bitstream/20.500.12708/3329/2/Build%20failure%20prediction%20in%20continuous%20integration%20workflows.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=1yFPW6TLXb4J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:1yFPW6TLXb4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:1yFPW6TLXb4J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 6,
+    "title": "Ptidej Team",
+    "result_id": "ED0BXKeotcIJ",
+    "type": "Pdf",
+    "link": "http://www.ptidej.net/seminars/2010/100617%20-%20Yann-Gael%20Gueheneuc%20-%20Ptidej%20Team%20for%20Triskell/100617%20-%20Yann-Gael%20Gueheneuc%20-%20Ptidej%20Team%20for%20Triskell.pdf",
+    "snippet": "The Ptidej Team The Chair Roadmap and Contributions Software Systems Two Examples Directions of Collaborations",
+    "publication_info": {
+      "summary": "YG Guéhéneuc - Navigation, 2009 - ptidej.net",
+      "authors": [
+        {
+          "name": "YG Guéhéneuc",
+          "link": "https://scholar.google.com/citations?user=_VV4cZYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ptidej.net",
+        "file_format": "PDF",
+        "link": "http://www.ptidej.net/seminars/2010/100617%20-%20Yann-Gael%20Gueheneuc%20-%20Ptidej%20Team%20for%20Triskell/100617%20-%20Yann-Gael%20Gueheneuc%20-%20Ptidej%20Team%20for%20Triskell.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ED0BXKeotcIJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ED0BXKeotcIJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=14030305650899238160&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+        "cluster_id": "14030305650899238160",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cluster=14030305650899238160&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:ED0BXKeotcIJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 7,
+    "title": "Revisiting heterogeneous defect prediction methods: How far are we?",
+    "result_id": "QzLXXDcXpu0J",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0950584920301944",
+    "snippet": "Context: Cross-project defect prediction applies to the scenarios that the target projects are new projects. Most of the previous studies tried to utilize the training data from other projects (ie, the source projects). However, metrics used by practitioners to measure the extracted …",
+    "publication_info": {
+      "summary": "X Chen, Y Mu, K Liu, Z Cui, C Ni - Information and Software Technology, 2021 - Elsevier",
+      "authors": [
+        {
+          "name": "X Chen",
+          "link": "https://scholar.google.com/citations?user=Q2w5lq0AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "C Ni",
+          "link": "https://scholar.google.com/citations?user=ZTVm1RoAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=QzLXXDcXpu0J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:QzLXXDcXpu0J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 8,
+    "title": "First Workshop on Patterns Promotion and Anti-patterns Prevention (PPAP 2013)",
+    "result_id": "3DjgXWPOa80J",
+    "type": "Pdf",
+    "link": "http://www.ptidej.net/publications/documents/ECEASST14.doc.pdf",
+    "snippet": "Anti-patterns are motifs that are usually thought to be good solutions to some design or implementation problems, but back-fires badly when applied. Previous studies have reported that anti-patterns make object oriented systems hard to maintain. Anti-patterns …",
+    "publication_info": {
+      "summary": "F Jaafar, YG Guéhéneuc, S Hamel, F Khomh - … Communications of the …, 2013 - ptidej.net",
+      "authors": [
+        {
+          "name": "F Jaafar",
+          "link": "https://scholar.google.com/citations?user=-wrKRnEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "YG Guéhéneuc",
+          "link": "https://scholar.google.com/citations?user=_VV4cZYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Hamel",
+          "link": "https://scholar.google.com/citations?user=Xohi3bwAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Khomh",
+          "link": "https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ptidej.net",
+        "file_format": "PDF",
+        "link": "http://www.ptidej.net/publications/documents/ECEASST14.doc.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=3DjgXWPOa80J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:3DjgXWPOa80J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=14802151526455326940&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+        "cluster_id": "14802151526455326940",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cluster=14802151526455326940&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:3DjgXWPOa80J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 9,
+    "title": "An Empirical Study on Critical Blocking Bugs",
+    "result_id": "H1z0Xoh8Ix4J",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3387904.3389267",
+    "snippet": "Blocking bugs are a severe type of bugs that prevent other bugs from being fixed. As software becomes increasingly complex and large, blocking bugs occur in many large-scale software, especially in software ecosystems. Blocking bugs may have a high negative …",
+    "publication_info": {
+      "summary": "H Ren, Y Li, L Chen - Proceedings of the 28th International Conference …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "L Chen",
+          "link": "https://scholar.google.com/citations?user=kuWNhAoAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=H1z0Xoh8Ix4J",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=2171716370473180191&as_sdt=5,25&sciodt=0,25&hl=en&num=20",
+        "cites_id": "2171716370473180191",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cites=2171716370473180191&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:H1z0Xoh8Ix4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 10,
+    "title": "Crosscutting concerns, fault proneness, feature location, requirements traceability, mining software repositories, metrics, statistical analysis, empirical …",
+    "result_id": "srdfYIFleiYJ",
+    "type": "Citation",
+    "publication_info": {
+      "summary": "M Eaddy, T Zimmermann, D Sherwood K… - 2008 - the IEEE Computer Society.",
+      "authors": [
+        {
+          "name": "M Eaddy",
+          "link": "https://scholar.google.com/citations?user=X9yugiEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Zimmermann",
+          "link": "https://scholar.google.com/citations?user=5zvbpooAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=srdfYIFleiYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:srdfYIFleiYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 11,
+    "title": "Software Repository Mining Analytics to Estimate Software Component Reliability",
+    "result_id": "90AVYuOC7NUJ",
+    "link": "https://repositorio-aberto.up.pt/handle/10216/89450",
+    "snippet": "Given the rising necessity of identifying errors on the source code of software, in order to make the developers work easier and to speed up the development process, many progresses have been made in its automation. There are three main approaches: Program …",
+    "publication_info": {
+      "summary": "ATO da Silva Duarte - 2016 - repositorio-aberto.up.pt"
+    },
+    "resources": [
+      {
+        "title": "up.pt",
+        "file_format": "PDF",
+        "link": "https://repositorio-aberto.up.pt/bitstream/10216/89450/2/139844.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=90AVYuOC7NUJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:90AVYuOC7NUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:90AVYuOC7NUJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 12,
+    "title": "BugCache for Inspections: Hit or Miss?",
+    "result_id": "eh2HYkhMoTcJ",
+    "type": "Citation",
+    "publication_info": {
+      "summary": "FRDPA Hindle, EBP Devanbu - 2011"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=eh2HYkhMoTcJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:eh2HYkhMoTcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 13,
+    "title": "Supporting Software Evolution in the Organizations",
+    "result_id": "pwk6ZZKbFFMJ",
+    "link": "https://hal.inria.fr/tel-01086785/",
+    "snippet": "Software systems are now so intrinsically part of our lives that we don't see them any more. They run our phones, our cars, our leisures, our banks, our shops, our cities… This brings a significant burden on the software industry. All these systems need to be updated, corrected …",
+    "publication_info": {
+      "summary": "N Anquetil - 2014 - hal.inria.fr",
+      "authors": [
+        {
+          "name": "N Anquetil",
+          "link": "https://scholar.google.com/citations?user=DSMdD9UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "inria.fr",
+        "file_format": "PDF",
+        "link": "https://hal.inria.fr/tel-01086785/file/hdr-univlille1.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=pwk6ZZKbFFMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:pwk6ZZKbFFMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=5986580857748064679&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+        "cluster_id": "5986580857748064679",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cluster=5986580857748064679&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:pwk6ZZKbFFMJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 14,
+    "title": "Bug Prediction for Fine-Grained Source Code Changes.",
+    "result_id": "Q7R-ZYsgzX4J",
+    "type": "Citation",
+    "publication_info": {
+      "summary": "Z Yuan, L Yu, C Liu - SEKE, 2013"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Q7R-ZYsgzX4J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Q7R-ZYsgzX4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 15,
+    "title": "Mining Software History to Improve Software Maintenance Quality",
+    "result_id": "_jkTZ3iETRUJ",
+    "type": "Citation",
+    "publication_info": {
+      "summary": "A Tarvo",
+      "authors": [
+        {
+          "name": "A Tarvo",
+          "link": "https://scholar.google.com/citations?user=qXr4yu4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=_jkTZ3iETRUJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:_jkTZ3iETRUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 16,
+    "title": "On the Time-Based Conclusion Stability of Software Defect Prediction Models.",
+    "result_id": "KcFQZwFDjAkJ",
+    "type": "Html",
+    "link": "https://deepai.org/publication/on-the-time-based-conclusion-stability-of-software-defect-prediction-models",
+    "snippet": "Researchers in empirical software engineering often make claims based on observable data such as defect reports. Unfortunately, in many cases, these claims are generalized beyond the data sets that have been evaluated. Will the researcher's conclusions hold a year from …",
+    "publication_info": {
+      "summary": "AA Bangash, H Sahar, A Hindle, K Ali - CoRR, 2019 - deepai.org",
+      "authors": [
+        {
+          "name": "A Hindle",
+          "link": "https://scholar.google.com/citations?user=vuT1ZlUAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "K Ali",
+          "link": "https://scholar.google.com/citations?user=TC8495oAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "deepai.org",
+        "file_format": "HTML",
+        "link": "https://deepai.org/publication/on-the-time-based-conclusion-stability-of-software-defect-prediction-models"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=KcFQZwFDjAkJ",
+      "html_version": "https://deepai.org/publication/on-the-time-based-conclusion-stability-of-software-defect-prediction-models",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:KcFQZwFDjAkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:KcFQZwFDjAkJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 17,
+    "title": "Predicting Risky Program Source Files",
+    "result_id": "TTUDak5-JXMJ",
+    "type": "Pdf",
+    "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.917.473&rep=rep1&type=pdf",
+    "snippet": "Change in source codes is an essential and routine activity of software development and maintenance. It has been observed that this activity might result in faults that might harm the use of the software. Therefore, it is always useful for software managers and programmers …",
+    "publication_info": {
+      "summary": "SN Ahsan, SHA Naqvi, K Raza - Citeseer",
+      "authors": [
+        {
+          "name": "SN Ahsan",
+          "link": "https://scholar.google.com/citations?user=NHHRRIAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "K Raza",
+          "link": "https://scholar.google.com/citations?user=KCVfzfwAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.917.473&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=TTUDak5-JXMJ",
+      "cited_by": {
+        "total": null,
+        "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.917.473&rep=rep1&type=pdf"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:TTUDak5-JXMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=8297176763751150925&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+        "cluster_id": "8297176763751150925",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cluster=8297176763751150925&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:TTUDak5-JXMJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 18,
+    "title": "Document Version",
+    "result_id": "G2PBbKm5WhYJ",
+    "type": "Pdf",
+    "link": "http://researchprofiles.herts.ac.uk/portal/files/12780317/Published_Version.pdf",
+    "snippet": "Evolutionary coupling (EC) is defined as the implicit relationship between 2 or more software artifacts that are frequently changed together. Changing software is widely reported to be defect-prone. In this study, we investigate the effect of EC on the defect proneness of large …",
+    "publication_info": {
+      "summary": "S Kirbas, B Caglayan, T Hall, S Counsell, D Bowes… - 2017 - researchprofiles.herts.ac.uk",
+      "authors": [
+        {
+          "name": "B Caglayan",
+          "link": "https://scholar.google.com/citations?user=ANZg0hsAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Hall",
+          "link": "https://scholar.google.com/citations?user=TPQhlqgAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Counsell",
+          "link": "https://scholar.google.com/citations?user=It_Dl_UAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D Bowes",
+          "link": "https://scholar.google.com/citations?user=GTLr8esAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "herts.ac.uk",
+        "file_format": "PDF",
+        "link": "http://researchprofiles.herts.ac.uk/portal/files/12780317/Published_Version.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=G2PBbKm5WhYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:G2PBbKm5WhYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=1610803954063598363&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+        "cluster_id": "1610803954063598363",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cluster=1610803954063598363&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:G2PBbKm5WhYJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25"
+    }
+  },
+  {
+    "position": 19,
+    "title": "How (Not) to Find Bugs: The Interplay Between Merge Conflicts, Co-Changes, and Bugs",
+    "result_id": "CofkbKM7eVgJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9240688/",
+    "snippet": "Context: In a seminal work, Ball et al.[1] investigate if the information available in version control systems could be used to predict defect density, arguing that practitioners and researchers could better understand errors\" if [our] version control system could talk\". In the …",
+    "publication_info": {
+      "summary": "L Amaral, MC Oliveira, W Luz, J Fortes… - 2020 IEEE …, 2020 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "L Amaral",
+          "link": "https://scholar.google.com/citations?user=l60NTcAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "MC Oliveira",
+          "link": "https://scholar.google.com/citations?user=ymgxZqEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "W Luz",
+          "link": "https://scholar.google.com/citations?user=S0IdbNsAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=CofkbKM7eVgJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:CofkbKM7eVgJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=6375192320612271882&hl=en&lr=lang_en&num=20&as_sdt=5,25&sciodt=0,25",
+        "cluster_id": "6375192320612271882",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C25&cluster=6375192320612271882&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  }
+]

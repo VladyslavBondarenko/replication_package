@@ -1,0 +1,629 @@
+[
+  {
+    "position": 0,
+    "title": "THESIS/THÈSE",
+    "result_id": "dKSwPwTtEFYJ",
+    "type": "Pdf",
+    "link": "https://pure.unamur.be/ws/portalfiles/portal/38620527/Fernandez_Grand_m_moire.pdf",
+    "snippet": "Abstract. Software measurement aims at providing a reliable and repeatable method to assess software quality. However, quantifying precisely (ie defining meaningful thresholds) the connection between software metrics and higher level quality attributes has been a …",
+    "publication_info": {
+      "summary": "D Fernández-Grande - pure.unamur.be"
+    },
+    "resources": [
+      {
+        "title": "unamur.be",
+        "file_format": "PDF",
+        "link": "https://pure.unamur.be/ws/portalfiles/portal/38620527/Fernandez_Grand_m_moire.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=dKSwPwTtEFYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:dKSwPwTtEFYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=6201717289393366132&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "6201717289393366132",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=6201717289393366132&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:dKSwPwTtEFYJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 1,
+    "title": "Code Cleaning for Software Defect Prediction: A Cautionary Tale",
+    "result_id": "5BALQJrtZ38J",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8498214/",
+    "snippet": "In this paper, we describe our experience of developing a new technique to improve defect prediction (code cleaning) which performed very encouragingly on the first two systems on which we evaluated it (both systems had their origins in one company). Code cleaning also …",
+    "publication_info": {
+      "summary": "T Shippey, D Bowes, S Counsell… - 2018 44th Euromicro …, 2018 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "T Shippey",
+          "link": "https://scholar.google.com/citations?user=SyLUthAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D Bowes",
+          "link": "https://scholar.google.com/citations?user=GTLr8esAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Counsell",
+          "link": "https://scholar.google.com/citations?user=It_Dl_UAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=5BALQJrtZ38J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:5BALQJrtZ38J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=9180567612173258980&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "9180567612173258980",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=9180567612173258980&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 2,
+    "title": "Demystifying the challenges and benefits of analyzing user-reported logs in bug reports",
+    "result_id": "7k72QWgf3ukJ",
+    "link": "https://link.springer.com/article/10.1007/s10664-020-09893-w",
+    "snippet": "Logs in bug reports provide important debugging information for developers. During the debugging process, developers need to study the bug report and examine user-provided logs to understand the system executions that lead to the problem. Intuitively, user-provided …",
+    "publication_info": {
+      "summary": "AR Chen, THP Chen, S Wang - Empirical Software Engineering, 2021 - Springer",
+      "authors": [
+        {
+          "name": "AR Chen",
+          "link": "https://scholar.google.com/citations?user=yyRaSGwAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "THP Chen",
+          "link": "https://scholar.google.com/citations?user=gUBD7x0AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=7k72QWgf3ukJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:7k72QWgf3ukJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 3,
+    "title": "To what extent could we detect field defects? An empirical study of false negatives in static bug finding tools.(2012)",
+    "result_id": "BzWsQvz6SooJ",
+    "type": "Pdf",
+    "link": "https://core.ac.uk/download/pdf/13248731.pdf",
+    "snippet": "Software defects can cause much loss. Static bug-finding tools are believed to help detect and remove defects. These tools are designed to find programming errors; but, do they in fact help prevent actual defects that occur in the field and reported by users? If these tools …",
+    "publication_info": {
+      "summary": "F THUNG, L Lucia, D LO, L JIANG, P DEVANBU… - ASE 2012: Proceedings … - core.ac.uk",
+      "authors": [
+        {
+          "name": "F THUNG",
+          "link": "https://scholar.google.com/citations?user=47okQ-UAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D LO",
+          "link": "https://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "P DEVANBU",
+          "link": "https://scholar.google.com/citations?user=tQ5vbOAAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "core.ac.uk",
+        "file_format": "PDF",
+        "link": "https://core.ac.uk/download/pdf/13248731.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=BzWsQvz6SooJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:BzWsQvz6SooJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:BzWsQvz6SooJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 4,
+    "title": "Process electronic refractar meter in a compact structure",
+    "result_id": "2M-eQzN0X3cJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/4022939/",
+    "snippet": "The use of refracto-metric methods, is largely spread, in many branches of chemical, oil, food, pharmaceutical industry and in biological, chemical and medico-sanitary laboratories. The use of refractometry has also a practical importance in the research of complex systems …",
+    "publication_info": {
+      "summary": "C Constantin - … Conference on Automation, Quality and Testing …, 2006 - ieeexplore.ieee.org"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=2M-eQzN0X3cJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:2M-eQzN0X3cJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=8601721576827572184&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "8601721576827572184",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=8601721576827572184&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 5,
+    "title": "Bug Introducing Changes: A Study with Android",
+    "result_id": "rHnMRC9esIcJ",
+    "type": "Pdf",
+    "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.703.4016&rep=rep1&type=pdf",
+    "snippet": "Changes, a rather inevitable part of software development can cause maintenance implications if they introduce bugs into the system. By isolating and characterizing these bug introducing changes it is possible to uncover potential risky source code entities or issues …",
+    "publication_info": {
+      "summary": "MAMCB Chanchal, KRKA Schneider - Citeseer",
+      "authors": [
+        {
+          "name": "KRKA Schneider",
+          "link": "https://scholar.google.com/citations?user=Jlu_3qcAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.703.4016&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=rHnMRC9esIcJ",
+      "cited_by": {
+        "total": null,
+        "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.703.4016&rep=rep1&type=pdf"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:rHnMRC9esIcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=9777418348132071852&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "9777418348132071852",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=9777418348132071852&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:rHnMRC9esIcJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 6,
+    "title": "Bflinks: Reliable Bugfix Links via Bidirectional References and Tuned Heuristics",
+    "result_id": "oRvJRQpdCHcJ",
+    "type": "Pdf",
+    "link": "http://downloads.hindawi.com/archive/2014/701357.pdf",
+    "snippet": "Background. Data from software version archives and defect databases can be used for defect insertion circumstance analysis and defect prediction. The first step in such analyses is identifying defect-correcting changes in the version archive (bugfix commits) and …",
+    "publication_info": {
+      "summary": "L Prechelt, A Pepper - International scholarly research …, 2014 - downloads.hindawi.com",
+      "authors": [
+        {
+          "name": "L Prechelt",
+          "link": "https://scholar.google.com/citations?user=ZY2MP7QAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "hindawi.com",
+        "file_format": "PDF",
+        "link": "http://downloads.hindawi.com/archive/2014/701357.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=oRvJRQpdCHcJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:oRvJRQpdCHcJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 24,
+        "link": "https://scholar.google.com/scholar?cluster=8577207789028973473&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "8577207789028973473",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=8577207789028973473&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:oRvJRQpdCHcJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 7,
+    "title": "DATA PERFORMANCE SECURITY AND ITS APPLICATION",
+    "result_id": "K9O7SCzwtUYJ",
+    "type": "Pdf",
+    "link": "https://www.digitalxplore.org/up_proc/pdf/273-148679327553-56.pdf",
+    "snippet": "Computer is an essential tool for research, whether for academic purpose or for commercial purpose. Computers play a major role today in every field of scientific research from genetic engineering to astrophysics research. In new era the information and data communication …",
+    "publication_info": {
+      "summary": "Y PRIYADARSHINI - digitalxplore.org"
+    },
+    "resources": [
+      {
+        "title": "digitalxplore.org",
+        "file_format": "PDF",
+        "link": "https://www.digitalxplore.org/up_proc/pdf/273-148679327553-56.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=K9O7SCzwtUYJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:K9O7SCzwtUYJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:K9O7SCzwtUYJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 8,
+    "title": "How Bugs Are Born: A Model to Identify How Bugs Are Introduced in Software Components",
+    "result_id": "SMiWSYf9tZMJ",
+    "type": "Pdf",
+    "link": "https://www.win.tue.nl/~aserebre/EMSE2019.pdf",
+    "snippet": "When identifying the origin of software bugs, many studies assume that “a bug was introduced by the lines of code that were modified to fix it”. However, this assumption does not always hold and at least in some cases, these modified lines are not responsible for …",
+    "publication_info": {
+      "summary": "M Gonzalez-Barahona - win.tue.nl"
+    },
+    "resources": [
+      {
+        "title": "tue.nl",
+        "file_format": "PDF",
+        "link": "https://www.win.tue.nl/~aserebre/EMSE2019.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=SMiWSYf9tZMJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:SMiWSYf9tZMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:SMiWSYf9tZMJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 9,
+    "title": "A Framework for Rapid and Systematic Software Quality Assessment",
+    "result_id": "lfmaSW1cOJQJ",
+    "link": "https://www.zora.uzh.ch/id/eprint/119433/",
+    "snippet": "Software quality assessment monitors and guides the evolution of a software system based on quality measurements. Continuous Integration (CI) environ-ments can provide measurement data to feed such continuous assessments. However, in modern CI …",
+    "publication_info": {
+      "summary": "M Brandtner - 2015 - zora.uzh.ch",
+      "authors": [
+        {
+          "name": "M Brandtner",
+          "link": "https://scholar.google.com/citations?user=9WifmsMAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "uzh.ch",
+        "file_format": "PDF",
+        "link": "https://www.zora.uzh.ch/id/eprint/119433/1/Thesis_Brandtner.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=lfmaSW1cOJQJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:lfmaSW1cOJQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=10680388140765215125&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "10680388140765215125",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=10680388140765215125&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:lfmaSW1cOJQJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 10,
+    "title": "1An Empirical Methodology to Evaluate Vulnerability Discovery Models",
+    "result_id": "TgQJTMUwmuwJ",
+    "link": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.468.865",
+    "snippet": "Vulnerability Discovery Models (VDMs) operate on known vulnerability data to estimate the total number of vulnerabilities that will be reported after a software is released. VDMs have been proposed by industry and academia, but there has been no systematic independent …",
+    "publication_info": {
+      "summary": "F Massacci, VH Nguyen - Citeseer",
+      "authors": [
+        {
+          "name": "F Massacci",
+          "link": "https://scholar.google.com/citations?user=gC_ZVPgAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=TgQJTMUwmuwJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:TgQJTMUwmuwJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:TgQJTMUwmuwJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 11,
+    "title": "Fault-insertion and fault-fixing: analysing developer activity over time",
+    "result_id": "AKiITE_mi-QJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3416508.3417117",
+    "snippet": "Developers inevitably make human errors while coding. These errors can lead to faults in code, some of which may result in system failures. It is important to reduce the faults inserted by developers as well as fix any that slip through. To investigate the fault insertion and fault …",
+    "publication_info": {
+      "summary": "D Bowes, G Destefanis, T Hall, J Petric… - Proceedings of the 16th …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "D Bowes",
+          "link": "https://scholar.google.com/citations?user=GTLr8esAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "G Destefanis",
+          "link": "https://scholar.google.com/citations?user=o2KkJXIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Hall",
+          "link": "https://scholar.google.com/citations?user=TPQhlqgAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Giuseppe_Destefanis/publication/344413457_Fault-Insertion_and_Fault-Fixing_Analysing_Developer_Activity_over_Time/links/5f737e30299bf1b53effb0ea/Fault-Insertion-and-Fault-Fixing-Analysing-Developer-Activity-over-Time.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=AKiITE_mi-QJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:AKiITE_mi-QJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=16468509690671179776&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "16468509690671179776",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=16468509690671179776&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 12,
+    "title": "CoinWatch: A Clone-Based Approach For Detecting Vulnerabilities in Cryptocurrencies",
+    "result_id": "QALMTiHA17UJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9284650/",
+    "snippet": "Cryptocurrencies have become very popular in recent years. Thousands of new cryptocurrencies have emerged, proposing new and novel techniques that improve on Bitcoin's core innovation of the blockchain data structure and consensus mechanism …",
+    "publication_info": {
+      "summary": "Q Hum, WJ Tan, SY Tey, L Lenus… - 2020 IEEE …, 2020 - ieeexplore.ieee.org"
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2006.10280"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=QALMTiHA17UJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:QALMTiHA17UJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cluster=13103152890146193984&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "13103152890146193984",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=13103152890146193984&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 13,
+    "title": "Domain-Specific Defect Models",
+    "result_id": "qsqFT_ouvNQJ",
+    "type": "Pdf",
+    "link": "http://www.mockus.org/papers/tsinghua.pdf",
+    "snippet": "3 Almost impossible to beat past changes [7, 9] 3 Use some measure of code size if change data is not available 3 Other things that have been shown to matter: coupling (calls, MRs, organization, experience) 3 What really matters tend to be outside the scope of software …",
+    "publication_info": {
+      "summary": "A Mockus - International Workshop on Defects in Large Software …, 2008 - mockus.org",
+      "authors": [
+        {
+          "name": "A Mockus",
+          "link": "https://scholar.google.com/citations?user=ZGvnVQUAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "mockus.org",
+        "file_format": "PDF",
+        "link": "http://www.mockus.org/papers/tsinghua.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=qsqFT_ouvNQJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:qsqFT_ouvNQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 16,
+        "link": "https://scholar.google.com/scholar?cluster=15329178884273195690&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "15329178884273195690",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=15329178884273195690&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:qsqFT_ouvNQJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 14,
+    "title": "Early failure prediction during change impact analysis for improving object-oriented software maintenance",
+    "result_id": "xqdIUCMjWVoJ",
+    "link": "http://repository.nwu.ac.za/handle/10394/17986",
+    "snippet": "Change is inevitable and an important property of software. Software applications are changed during their life-time in order to remain useful. Nonetheless, changes also come with high risks when it is made. Regardless of their size, they can have significant and …",
+    "publication_info": {
+      "summary": "BE Isong - 2014 - repository.nwu.ac.za",
+      "authors": [
+        {
+          "name": "BE Isong",
+          "link": "https://scholar.google.com/citations?user=Fcp4Qu4AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "nwu.ac.za",
+        "file_format": "PDF",
+        "link": "http://repository.nwu.ac.za/bitstream/handle/10394/17986/Isong_BE.pdf?sequence=1"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=xqdIUCMjWVoJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:xqdIUCMjWVoJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:xqdIUCMjWVoJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 15,
+    "title": "Has the Bug Really Been Fixed?",
+    "result_id": "dX-5UPXq3w4J",
+    "type": "Pdf",
+    "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.408.8507&rep=rep1&type=pdf",
+    "snippet": "Software has bugs, and fixing those bugs pervades the software engineering process. It is folklore that bug fixes are often buggy themselves, resulting in bad fixes, either failing to fix a bug or creating new bugs. To confirm this folklore, we explored bug databases of the Ant …",
+    "publication_info": {
+      "summary": "ZGETB David, JHZ Su - 2010 - Citeseer"
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.408.8507&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=dX-5UPXq3w4J",
+      "cited_by": {
+        "total": null,
+        "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.408.8507&rep=rep1&type=pdf"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:dX-5UPXq3w4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=1071833575679688565&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "1071833575679688565",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=1071833575679688565&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:dX-5UPXq3w4J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 16,
+    "title": "On the Prevalence, Impact, and Evolution of SQL Code Smells in Data-Intensive Systems",
+    "result_id": "RbUBUivnp04J",
+    "type": "Pdf",
+    "link": "http://swat.polymtl.ca/~foutsekh/docs/biruk-MSR2020.pdf",
+    "snippet": "Code smells indicate software design problems that harm software quality. Data-intensive systems that frequently access databases often suffer from SQL code smells besides the traditional smells. While there have been extensive studies on traditional code smells …",
+    "publication_info": {
+      "summary": "MM Rahman, C Nagy, A Cleve, F Khomh, G Antoniol - 2020 - swat.polymtl.ca",
+      "authors": [
+        {
+          "name": "C Nagy",
+          "link": "https://scholar.google.com/citations?user=WLgmKW4AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "A Cleve",
+          "link": "https://scholar.google.com/citations?user=LM0e_fcAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Khomh",
+          "link": "https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "G Antoniol",
+          "link": "https://scholar.google.com/citations?user=136elhQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "polymtl.ca",
+        "file_format": "PDF",
+        "link": "http://swat.polymtl.ca/~foutsekh/docs/biruk-MSR2020.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=RbUBUivnp04J",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:RbUBUivnp04J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=5667752829314512197&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "5667752829314512197",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=5667752829314512197&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:RbUBUivnp04J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 17,
+    "title": "Fine-Grained Binary Code Authorship Analysis: Identification and Evasion",
+    "result_id": "kmwfUqSnByIJ",
+    "type": "Pdf",
+    "link": "https://scholar.google.comftp://ftp.cs.wisc.edu/paradyn/papers/Meng18Dissertation.pdf",
+    "snippet": "Pursuing a Ph. D. is a long journey. Without the help and support from many people, there is no chance that I can be where I am now. My advisor, Bart Miller, patiently taught me how to be an independent researcher. I needed to be able to identify the key issues in a problems …",
+    "publication_info": {
+      "summary": "X Meng - 2018 - cs.wisc.edu",
+      "authors": [
+        {
+          "name": "X Meng",
+          "link": "https://scholar.google.com/citations?user=TzOGkuYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "wisc.edu",
+        "file_format": "PDF",
+        "link": "https://scholar.google.comftp://ftp.cs.wisc.edu/paradyn/papers/Meng18Dissertation.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=kmwfUqSnByIJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:kmwfUqSnByIJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=2452112846320790674&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "2452112846320790674",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=2452112846320790674&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:kmwfUqSnByIJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 18,
+    "title": "An Enhanced Fault Prediction Model for Embedded Software based on Code Churn, Complexity Metrics, and Static Analysis Results",
+    "result_id": "6HiAU4zagxQJ",
+    "type": "Pdf",
+    "link": "https://www.academia.edu/download/61560423/icsea_2019_full20191219-27038-g96uru.pdf#page=190",
+    "snippet": "Software systems evolve over time because of functionality extensions, changes in requirements, optimization of code, fixes for security and reliability bugs, etc., and it is commonly known that software quality assurance is thus a continuous issue and is often …",
+    "publication_info": {
+      "summary": "S Omri, C Sinz, P Montag - ICSEA 2019, 2019 - academia.edu",
+      "authors": [
+        {
+          "name": "S Omri",
+          "link": "https://scholar.google.com/citations?user=MKrFEtYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "C Sinz",
+          "link": "https://scholar.google.com/citations?user=bF9qmvsAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "academia.edu",
+        "file_format": "PDF",
+        "link": "https://www.academia.edu/download/61560423/icsea_2019_full20191219-27038-g96uru.pdf#page=190"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=6HiAU4zagxQJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:6HiAU4zagxQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=1478265398938859752&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+        "cluster_id": "1478265398938859752",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=20000005&cluster=1478265398938859752&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6HiAU4zagxQJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  },
+  {
+    "position": 19,
+    "title": "Android OS vulnerabilities: analysis and categorization",
+    "result_id": "32RtVZBW2tkJ",
+    "type": "Pdf",
+    "link": "https://repositorio.uniandes.edu.co/bitstream/handle/1992/39703/u806584.pdf?sequence=1",
+    "snippet": "Android devices are increasingly used in everyday life. They incorporate most of our private data. This data becomes the target of attacks that exploit Android vulnerabilities. To this day, a study has not been carried out on all the vulnerabilities that affect the Android operating …",
+    "publication_info": {
+      "summary": "JE Bautista Mora - 2017 - repositorio.uniandes.edu.co"
+    },
+    "resources": [
+      {
+        "title": "uniandes.edu.co",
+        "file_format": "PDF",
+        "link": "https://repositorio.uniandes.edu.co/bitstream/handle/1992/39703/u806584.pdf?sequence=1"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=32RtVZBW2tkJ",
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:32RtVZBW2tkJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:32RtVZBW2tkJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=20000005&sciodt=0,21"
+    }
+  }
+]

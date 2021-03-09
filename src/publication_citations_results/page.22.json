@@ -1,0 +1,795 @@
+[
+  {
+    "position": 0,
+    "title": "AFID: an automated approach to collecting software faults",
+    "result_id": "Xv9K3okA7D0J",
+    "link": "https://link.springer.com/article/10.1007/s10515-010-0068-6",
+    "snippet": "We present a new approach for creating repositories of real software faults. We have developed a tool, the Automatic Fault IDentification Tool (AFID), that implements this approach. AFID records both a fault revealing test case and a faulty version of the source …",
+    "publication_info": {
+      "summary": "A Edwards, S Tucker, B Demsky - Automated Software Engineering, 2010 - Springer"
+    },
+    "resources": [
+      {
+        "title": "springer.com",
+        "file_format": "PDF",
+        "link": "https://link.springer.com/content/pdf/10.1007/s10515-010-0068-6.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Xv9K3okA7D0J",
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cites=4461941922957295454&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "4461941922957295454",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4461941922957295454&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Xv9K3okA7D0J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 15,
+        "link": "https://scholar.google.com/scholar?cluster=4461941922957295454&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "4461941922957295454",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=4461941922957295454&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 1,
+    "title": "A Methodology for Analyzing Cost and Cost-Drivers of Technical Software Documentation",
+    "result_id": "YZnZ4WjxU3MJ",
+    "link": "https://prism.ucalgary.ca/handle/11023/180",
+    "snippet": "Software documentation is an important impact factor to achieve high software maintainability, especially for those large-scale complex changing legacy systems. The question:“how much documentation is enough”, is concerned by organizations who are …",
+    "publication_info": {
+      "summary": "B Sun - 2012 - prism.ucalgary.ca"
+    },
+    "resources": [
+      {
+        "title": "ucalgary.ca",
+        "file_format": "PDF",
+        "link": "https://prism.ucalgary.ca/bitstream/handle/11023/180/ucalgary_2012_bo_sun.pdf?sequence=2"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=YZnZ4WjxU3MJ",
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cites=8310251170196724065&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "8310251170196724065",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8310251170196724065&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:YZnZ4WjxU3MJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:YZnZ4WjxU3MJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 2,
+    "title": "Efficient bug prediction and fix suggestions",
+    "result_id": "ZTLz4mmdZggJ",
+    "link": "https://escholarship.org/uc/item/47x1t79s",
+    "snippet": "Bugs are a well known Achilles' heel of software development. In the last few years, machine learning techniques to combat software bugs have become popular. However, results of these techniques are not good enough for practical adoption. In addition, most techniques …",
+    "publication_info": {
+      "summary": "S Shivaji - 2013 - escholarship.org",
+      "authors": [
+        {
+          "name": "S Shivaji",
+          "link": "https://scholar.google.com/citations?user=2oAxBzwAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "escholarship.org",
+        "file_format": "PDF",
+        "link": "https://escholarship.org/content/qt47x1t79s/qt47x1t79s.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ZTLz4mmdZggJ",
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cites=605344278032626277&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "605344278032626277",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=605344278032626277&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ZTLz4mmdZggJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cluster=605344278032626277&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "605344278032626277",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=605344278032626277&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ZTLz4mmdZggJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 3,
+    "title": "Entropy guided spectrum based bug localization using statistical language model",
+    "result_id": "xYoo6Iqy26YJ",
+    "link": "https://arxiv.org/abs/1802.06947",
+    "snippet": "Locating bugs is challenging but one of the most important activities in software development and maintenance phase because there are no certain rules to identify all types of bugs. Existing automatic bug localization tools use various heuristics based on test …",
+    "publication_info": {
+      "summary": "S Chakraborty, Y Li, M Irvine, R Saha, B Ray - arXiv preprint arXiv …, 2018 - arxiv.org",
+      "authors": [
+        {
+          "name": "S Chakraborty",
+          "link": "https://scholar.google.com/citations?user=Hl_6OwwAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "R Saha",
+          "link": "https://scholar.google.com/citations?user=ZVX6VjEAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "B Ray",
+          "link": "https://scholar.google.com/citations?user=VaAEb5YAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/1802.06947"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=xYoo6Iqy26YJ",
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cites=12023399939865873093&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "12023399939865873093",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12023399939865873093&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:xYoo6Iqy26YJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=12023399939865873093&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "12023399939865873093",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=12023399939865873093&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:xYoo6Iqy26YJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 4,
+    "title": "An analysis of bug distribution in object oriented systems",
+    "result_id": "Os5G6tBuqBgJ",
+    "link": "https://arxiv.org/abs/0905.3296",
+    "snippet": "We introduced a new approach to describe Java software as graph, where nodes represent a Java file-called compilation unit (CU)-and an edges represent a relations between them. The software system is characterized by the degree distribution of the graph properties, like …",
+    "publication_info": {
+      "summary": "A Murgia, G Concas, M Marchesi, R Tonelli… - arXiv preprint arXiv …, 2009 - arxiv.org",
+      "authors": [
+        {
+          "name": "M Marchesi",
+          "link": "https://scholar.google.com/citations?user=TROFGlO4ftgC&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "R Tonelli",
+          "link": "https://scholar.google.com/citations?user=kCjnRKAAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/0905.3296"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Os5G6tBuqBgJ",
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cites=1776791896560422458&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "1776791896560422458",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1776791896560422458&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:Os5G6tBuqBgJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 10,
+        "link": "https://scholar.google.com/scholar?cluster=1776791896560422458&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "1776791896560422458",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=1776791896560422458&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Os5G6tBuqBgJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 5,
+    "title": "An idea of an independent validation of vulnerability discovery models",
+    "result_id": "FLnI84c3yQUJ",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-642-28166-2_9",
+    "snippet": "Having a precise vulnerability discovery model (VDM) would provide a useful quantitative insight to assess software security. Thus far, several models have been proposed with some evidence supporting their goodness-of-fit. In this work we describe an independent …",
+    "publication_info": {
+      "summary": "VH Nguyen, F Massacci - … on Engineering Secure Software and Systems, 2012 - Springer",
+      "authors": [
+        {
+          "name": "F Massacci",
+          "link": "https://scholar.google.com/citations?user=gC_ZVPgAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.431.7143&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=FLnI84c3yQUJ",
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cites=416925497558612244&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "416925497558612244",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=416925497558612244&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:FLnI84c3yQUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 14,
+        "link": "https://scholar.google.com/scholar?cluster=416925497558612244&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "416925497558612244",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=416925497558612244&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 6,
+    "title": "Yet Another Metric for Predicting Fault-Prone Modules",
+    "result_id": "UCYJ-uxv_T4J",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-642-10619-4_36",
+    "snippet": "Recently, machine learning approaches have been widely used for fault-proneness detection. Introduction of machine learning approaches induces development of new software metrics for fault-prone module detection. We have proposed an approach to detect …",
+    "publication_info": {
+      "summary": "O Mizuno, H Hata - … Conference on Advanced Software Engineering and …, 2009 - Springer",
+      "authors": [
+        {
+          "name": "O Mizuno",
+          "link": "https://scholar.google.com/citations?user=Ha-gD8IAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "H Hata",
+          "link": "https://scholar.google.com/citations?user=iPigeoYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=UCYJ-uxv_T4J",
+      "cited_by": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cites=4538907063057196624&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "4538907063057196624",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4538907063057196624&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:UCYJ-uxv_T4J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=4538907063057196624&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "4538907063057196624",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=4538907063057196624&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 7,
+    "title": "The impact of task granularity on co-evolution analyses",
+    "result_id": "cFRSHjZprOUJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/2961111.2962607",
+    "snippet": "Background: Substantial research in the software evolution field aims to recover knowledge about development from the project history that is archived in repositories, such as a Version Control System (VCS). However, the data that is archived in these repositories can be …",
+    "publication_info": {
+      "summary": "K Miura, S McIntosh, Y Kamei, AE Hassan… - Proceedings of the 10th …, 2016 - dl.acm.org",
+      "authors": [
+        {
+          "name": "S McIntosh",
+          "link": "https://scholar.google.com/citations?user=FxUqGoUAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "Y Kamei",
+          "link": "https://scholar.google.com/citations?user=O0-BQaQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "AE Hassan",
+          "link": "https://scholar.google.com/citations?user=9hwXx34AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "130.15.4.154",
+        "file_format": "PDF",
+        "link": "http://130.15.4.154/Downloads/ESEM_TheImpactofTaskGranularityonCo-evolutionAnalyses.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=cFRSHjZprOUJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=16549718411837592688&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "16549718411837592688",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16549718411837592688&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:cFRSHjZprOUJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cluster=16549718411837592688&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "16549718411837592688",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16549718411837592688&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 8,
+    "title": "With registered reports towards large scale data curation",
+    "result_id": "6CXMLL4T-ZwJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3377816.3381721",
+    "snippet": "The scale of manually validated data is currently limited by the effort that small groups of researchers can invest for the curation of such data. Within this paper, we propose the use of registered reports to scale the curation of manually validated data. The idea is inspired by …",
+    "publication_info": {
+      "summary": "S Herbold - Proceedings of the ACM/IEEE 42nd International …, 2020 - dl.acm.org",
+      "authors": [
+        {
+          "name": "S Herbold",
+          "link": "https://scholar.google.com/citations?user=Fac_e58AAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "arxiv.org",
+        "file_format": "PDF",
+        "link": "https://arxiv.org/pdf/2001.01972"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=6CXMLL4T-ZwJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=11311093646634001896&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "11311093646634001896",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11311093646634001896&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:6CXMLL4T-ZwJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=11311093646634001896&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "11311093646634001896",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=11311093646634001896&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 9,
+    "title": "Evaluating the work of experienced and inexperienced developers considering work difficulty in sotware development",
+    "result_id": "yFr9L6Xio0cJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8022717/",
+    "snippet": "Previous studies have researched how developer experience affects code quality, but they ignore work difficulty, although experienced developers are more likely to work on the more complex parts of a project. To examine work difficulty, we focus on revised files. Using …",
+    "publication_info": {
+      "summary": "T Tsunoda, H Washizaki, Y Fukazawa… - 2017 18th IEEE …, 2017 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "H Washizaki",
+          "link": "https://scholar.google.com/citations?user=WE5V6bkAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "waseda.ac.jp",
+        "file_format": "PDF",
+        "link": "http://www.washi.cs.waseda.ac.jp/wp-content/uploads/2017/04/SNPD_2017_paper_102.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=yFr9L6Xio0cJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=5162218796999334600&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "5162218796999334600",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5162218796999334600&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:yFr9L6Xio0cJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=5162218796999334600&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "5162218796999334600",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=5162218796999334600&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 10,
+    "title": "An integrated approach to detect fault-prone modules using complexity and text feature metrics",
+    "result_id": "y_fPN4KN-TEJ",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-642-13577-4_41",
+    "snippet": "Early detection of fault-prone products is necessary to assure the quality of software product. Therefore, fault-prone module detection is one of the major and traditional area of software engineering. Although there are many approaches to detect fault-prone modules, they have …",
+    "publication_info": {
+      "summary": "O Mizuno, H Hata - Advances in Computer Science and Information …, 2010 - Springer",
+      "authors": [
+        {
+          "name": "O Mizuno",
+          "link": "https://scholar.google.com/citations?user=Ha-gD8IAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "H Hata",
+          "link": "https://scholar.google.com/citations?user=iPigeoYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=y_fPN4KN-TEJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=3601064967481063371&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "3601064967481063371",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3601064967481063371&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:y_fPN4KN-TEJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cluster=3601064967481063371&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "3601064967481063371",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=3601064967481063371&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 11,
+    "title": "Mining concurrency bugs",
+    "result_id": "1g-tVam8Qk0J",
+    "type": "Pdf",
+    "link": "http://www.artemis-emc2.eu/fileadmin/user_upload/Publications/2016_EMC2_Summit_Wien/15RCiancariniPoggiRossiSillittiConcurrencyBugs.pdf",
+    "snippet": "Concurrent programming is becoming more and more popular due to the wide availability and low prices of multi-core CPUs. However, writing concurrent code is difficult and debugging it is even more complex due to a frequent nondeterministic behavior at run-time …",
+    "publication_info": {
+      "summary": "P Ciancarini, F Poggi, D Rossi… - Embedded Multi-Core …, 2016 - artemis-emc2.eu",
+      "authors": [
+        {
+          "name": "P Ciancarini",
+          "link": "https://scholar.google.com/citations?user=71mmi78AAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Poggi",
+          "link": "https://scholar.google.com/citations?user=vyA0BzUAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "D Rossi",
+          "link": "https://scholar.google.com/citations?user=2sDE_JAAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "artemis-emc2.eu",
+        "file_format": "PDF",
+        "link": "http://www.artemis-emc2.eu/fileadmin/user_upload/Publications/2016_EMC2_Summit_Wien/15RCiancariniPoggiRossiSillittiConcurrencyBugs.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=1g-tVam8Qk0J",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=5567219524856254422&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "5567219524856254422",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5567219524856254422&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:1g-tVam8Qk0J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=5567219524856254422&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "5567219524856254422",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=5567219524856254422&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:1g-tVam8Qk0J:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 12,
+    "title": "Pre-silicon bug forecast",
+    "result_id": "gh8vW8yh5uEJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/6740024/",
+    "snippet": "The ever-intensifying time-to-market pressure imposes great challenges on the pre-silicon design phase of hardware. Before the tape-out, a pre-silicon design has to be thoroughly inspected by time-consuming functional verification and code review to exclude bugs. For …",
+    "publication_info": {
+      "summary": "Q Guo, T Chen, Y Chen, R Wang… - … on Computer-Aided …, 2014 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "T Chen",
+          "link": "https://scholar.google.com/citations?user=fXeoWugAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "psu.edu",
+        "file_format": "PDF",
+        "link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.7234&rep=rep1&type=pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=gh8vW8yh5uEJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=16277875802252451714&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "16277875802252451714",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16277875802252451714&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:gh8vW8yh5uEJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=16277875802252451714&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "16277875802252451714",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=16277875802252451714&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 13,
+    "title": "On the classification of software change messages using multi-label active learning",
+    "result_id": "8yVfgC-vS8YJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3297280.3297452",
+    "snippet": "In this paper, we present a multi-label active learning-based approach to handle the problem of classification of commit messages. The approach will help developers track software changes, eg, adding or updating existing features, fixing user-reported errors …",
+    "publication_info": {
+      "summary": "S Gharbi, MW Mkaouer, I Jenhani… - Proceedings of the 34th …, 2019 - dl.acm.org",
+      "authors": [
+        {
+          "name": "MW Mkaouer",
+          "link": "https://scholar.google.com/citations?user=UoHgCukAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "I Jenhani",
+          "link": "https://scholar.google.com/citations?user=BBkQqFQAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Montassar-Messaoud/publication/332332802_On_the_Classification_of_Software_Change_Messages_using_Multi-label_Active_Learning/links/5cae4c37a6fdcc1d498c06f0/On-the-Classification-of-Software-Change-Messages-using-Multi-label-Active-Learning.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=8yVfgC-vS8YJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=14288706861315073523&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "14288706861315073523",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14288706861315073523&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:8yVfgC-vS8YJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cluster=14288706861315073523&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "14288706861315073523",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14288706861315073523&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 14,
+    "title": "A metric to detect fault-prone software modules using text filtering",
+    "result_id": "2ETrgHLH68QJ",
+    "link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJRS.2013.055822",
+    "snippet": "Machine learning approaches have been widely used for fault-prone module detection. Introduction of machine learning approaches induces development of new software metrics for fault-prone module detection. We have proposed an approach to detect fault-prone …",
+    "publication_info": {
+      "summary": "O Mizuno, H Hata - International Journal of Reliability and …, 2013 - inderscienceonline.com",
+      "authors": [
+        {
+          "name": "O Mizuno",
+          "link": "https://scholar.google.com/citations?user=Ha-gD8IAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "H Hata",
+          "link": "https://scholar.google.com/citations?user=iPigeoYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Hideaki_Hata/publication/263274777_A_Metric_to_Detect_Fault-Prone_Software_Modules_Using_Text_Classifier/links/5440e0800cf2d655e194428b/A-Metric-to-Detect-Fault-Prone-Software-Modules-Using-Text-Classifier.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=2ETrgHLH68QJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=14189654345563981016&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "14189654345563981016",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14189654345563981016&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:2ETrgHLH68QJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 8,
+        "link": "https://scholar.google.com/scholar?cluster=14189654345563981016&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "14189654345563981016",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=14189654345563981016&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 15,
+    "title": "The usual suspects: a case study on delivered defects per developer",
+    "result_id": "vwwXhw8RrfsJ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/1852786.1852848",
+    "snippet": "Individual differences of developers in performance and introduced defects have been reported by many research studies and are frequently observed in software development practice. Thus, when the source of defects in the final product is discussed, developers are …",
+    "publication_info": {
+      "summary": "R Ramler, C Klammer, T Natschläger - Proceedings of the 2010 ACM …, 2010 - dl.acm.org",
+      "authors": [
+        {
+          "name": "R Ramler",
+          "link": "https://scholar.google.com/citations?user=1P57apAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "C Klammer",
+          "link": "https://scholar.google.com/citations?user=I_SD9XsAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "T Natschläger",
+          "link": "https://scholar.google.com/citations?user=O1ix5uYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=vwwXhw8RrfsJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=18135170032879471807&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "18135170032879471807",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18135170032879471807&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:vwwXhw8RrfsJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 16,
+    "title": "An investigation of the fault-proneness of clone evolutionary patterns",
+    "result_id": "WI8xoBQIMPMJ",
+    "link": "https://link.springer.com/article/10.1007/s11219-017-9375-5",
+    "snippet": "Two identical or similar code fragments form a clone pair. Previous studies have identified cloning as a risky practice. Therefore, a developer needs to be aware of any clone pairs in order to properly propagate any changes between clones. A clone pair may experience …",
+    "publication_info": {
+      "summary": "L Barbour, L An, F Khomh, Y Zou, S Wang - Software Quality Journal, 2018 - Springer",
+      "authors": [
+        {
+          "name": "L An",
+          "link": "https://scholar.google.com/citations?user=bivLuJQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Khomh",
+          "link": "https://scholar.google.com/citations?user=YYXb3KIAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "Y Zou",
+          "link": "https://scholar.google.com/citations?user=pCYlknMAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "S Wang",
+          "link": "https://scholar.google.com/citations?user=akcXrFAAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=WI8xoBQIMPMJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=17523515034778570584&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "17523515034778570584",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17523515034778570584&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:WI8xoBQIMPMJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=17523515034778570584&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "17523515034778570584",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17523515034778570584&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 17,
+    "title": "Local Variables with Compound Names and Comments as Signs of Fault-Prone Java Methods.",
+    "result_id": "5ArRquguONoJ",
+    "type": "Pdf",
+    "link": "https://www.researchgate.net/profile/Hirohisa_Aman/publication/311512763_Local_Variables_with_Compound_Names_and_Comments_as_Signs_of_Fault-Prone_Java_Methods/links/5849e6eb08aed5252bcbe78f/Local-Variables-with-Compound-Names-and-Comments-as-Signs-of-Fault-Prone-Java-Methods.pdf",
+    "snippet": "This paper focuses on two types of artifacts—local variables and comments in a method (function). Both of them are usually used at the programer's discretion. Thus, naming local variables and commenting code can vary among individuals, and such an individual …",
+    "publication_info": {
+      "summary": "H Aman, S Amasaki, T Yokogawa… - QuASoQ/TDA …, 2016 - researchgate.net"
+    },
+    "resources": [
+      {
+        "title": "researchgate.net",
+        "file_format": "PDF",
+        "link": "https://www.researchgate.net/profile/Hirohisa_Aman/publication/311512763_Local_Variables_with_Compound_Names_and_Comments_as_Signs_of_Fault-Prone_Java_Methods/links/5849e6eb08aed5252bcbe78f/Local-Variables-with-Compound-Names-and-Comments-as-Signs-of-Fault-Prone-Java-Methods.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=5ArRquguONoJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=15724369675797203684&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "15724369675797203684",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15724369675797203684&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:5ArRquguONoJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=15724369675797203684&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "15724369675797203684",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=15724369675797203684&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:5ArRquguONoJ:scholar.google.com/&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  },
+  {
+    "position": 18,
+    "title": "A database for the analysis of program change patterns",
+    "result_id": "R2Lgtchf7VQJ",
+    "link": "https://ieeexplore.ieee.org/abstract/document/4624113/",
+    "snippet": "Software repositories contain an enormous amount of information regarding the evolution of any large software system. In our experiments we choose the dataset of the freely available Mozilla CVS repository. We downloaded 9552 program files (C++), extracted the CVS log …",
+    "publication_info": {
+      "summary": "SN Ahsan, J Ferzund, F Wotawa - 2008 Fourth International …, 2008 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "SN Ahsan",
+          "link": "https://scholar.google.com/citations?user=NHHRRIAAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "J Ferzund",
+          "link": "https://scholar.google.com/citations?user=Q-pzIsYAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "F Wotawa",
+          "link": "https://scholar.google.com/citations?user=Z27gH2wAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=R2Lgtchf7VQJ",
+      "cited_by": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cites=6119652784315851335&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "6119652784315851335",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6119652784315851335&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:R2Lgtchf7VQJ:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=6119652784315851335&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5",
+        "cluster_id": "6119652784315851335",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=6119652784315851335&engine=google_scholar&hl=en&lr=lang_en&num=20"
+      }
+    }
+  },
+  {
+    "position": 19,
+    "title": "Empirical study on the evolution of developer social networks",
+    "result_id": "WPCLt4VAQJ8J",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8454243/",
+    "snippet": "Software development is incredibly complex. Specifically, open-source software (OSS) development requires developers to collaborate with each other to conduct their work. Because software systems are evolving with time, collaboration among software developers …",
+    "publication_info": {
+      "summary": "MA Aljemabi, Z Wang - IEEE Access, 2018 - ieeexplore.ieee.org",
+      "authors": [
+        {
+          "name": "MA Aljemabi",
+          "link": "https://scholar.google.com/citations?user=36VPiMQAAAAJ&hl=en&num=20&oi=sra"
+        },
+        {
+          "name": "Z Wang",
+          "link": "https://scholar.google.com/citations?user=LYsL8dYAAAAJ&hl=en&num=20&oi=sra"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "ieee.org",
+        "file_format": "PDF",
+        "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/08454243.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=WPCLt4VAQJ8J",
+      "cited_by": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cites=11475242793594253400&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+        "cites_id": "11475242793594253400",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11475242793594253400&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:WPCLt4VAQJ8J:scholar.google.com/&scioq=&hl=en&lr=lang_en&num=20&as_sdt=2005&sciodt=0,5"
+    }
+  }
+]
