@@ -7,7 +7,7 @@ Revisiting common bug prediction findings using effort-aware models;Y Kamei, S M
 Personalized defect prediction;L Tan, S Kim;;;;
 How long did it take to fix bugs?;S Kim, EJ Whitehead Jr;;;;
 Online defect prediction for imbalanced data;L Tan, S Dara;;;;
-On the" naturalness" of buggy code;B Ray, V Hellendoorn, Z Tu;;;;
+On the naturalness of buggy code;B Ray, V Hellendoorn, Z Tu;;;;
 When does a refactoring induce bugs? an empirical study;G Bavota, A De Lucia;;;;
 Do time of day and developer experience affect commit bugginess?;J Eyolfson, L Tan, P Lam;;;;
 Bug prediction based on fine-grained module histories;H Hata, O Mizuno;;;;
